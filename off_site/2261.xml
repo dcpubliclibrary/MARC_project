@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">190703i19782018xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">dcpl_web003</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Comics Publishers, Artists, and Authors of Washington, D.C. Web Archive,</subfield>
+      <subfield code="f">1978 - 2018</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">74</subfield>
+      <subfield code="f">Web Sites Captured</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">A collection of websites documenting the independent D.C. Comics scene.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Physical Characteristics / Technical Requirements: This collection is comprised of dynamic snapshots of sites as they existed at a specific moment, or moments, in time, and should not be confused with current versions of the sites depicted. Due to limitations in web crawling technology, certain page elements may not display as originally intended. This is normal, and we are constantly working to improve capture quality.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

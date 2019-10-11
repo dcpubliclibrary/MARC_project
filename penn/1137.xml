@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i16861997xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">139</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Dorothy Provine Free Black Research Collection,</subfield>
+      <subfield code="f">1686-1997</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">11</subfield>
+      <subfield code="f">cubic feet; 11 boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">Dorothy Provine served as an archivist in the Civil Archives Division of the National Archives in Washington, D.C., who researched and compiled information about free black life in Washington D.C. The collection contains photocopies of wills, marriage registers, freedom records, manumissions records, research files, writings by Provine, birth records, death records, records of social organizations, geneaology records, and records of black property owners.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Dorothy Provine Free Black Research Collection contains photocopies of wills, marriage registers, freedom records, manumissions records, research files, writings by Provine, birth records, death records, records of social organizations, geneaology records, and records of black property owners. It should be noted that while the documents in this collection date from 1686 to 1997, nearly all records in this collection are photocopies of original documents, made predominantly in the 1990s.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Dorothy Provine served as an archivist in the Civil Archives Division of the National Archives in Washington, D.C. Provine authored an article titled, “The Economic Position of the Free Blacks in Washington, D.C., 1800-1860.” She continued her work with the release of District of Columbia Free Negroes Register, 1821-1861. In her work, Provine compiles the abstracts of entries in the free black registries in D.C. The records cover 1821-1861, which feature early nineteenth century to just prior to the Civil War. The collection includes the research Provine completed in order to finish her publications. The collection contains a close examination of the ways in which those of African descent were or became free. Some were enslaved and bought their freedom through an outsource process called “being hired out.” Others were born free and never enslaved. Still others had been freed through the wills of their owners. In addition to research about free blacks, the collection offers a narrative regarding black migration to, in and around Washington, D.C. from Maryland. Her work helps to shed light on black life outside of the confines of slavery, while remaining in the discussion of slavery and freedom.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19241983xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">049</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Women’s City Club of Washington, DC Collection,</subfield>
+      <subfield code="f">1924-1983</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.4</subfield>
+      <subfield code="f">linear feet; 1 box</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Records from the Women’s City Club of Washington, DC extend from 1924 through 1983.  The collection contains by-laws, annual reports, monthly bulletins, programs, and yearbooks. Significant items in the collection are the twentieth anniversary yearbook and bulletin containing highlights, reminiscences, and the history of the club from 1919 through 1939.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Whereas many area women’s clubs prior to 1919 had strict qualifications for membership, the Women’s City Club of Washington, DC (founded 1919) strove to be more inclusive.  According to the first president, Judge Mary O’Toole, the group hoped to attract not only women in the academic and professional sphere but housewives as well. The charter called for a better understanding among women, and a place for women to meet and socialize.  Among the club’s other objectives were cultural and civic advancement in the District and general welfare for its citizens. Club activities ranged from Spanish and French language classes to lecture series concerning the arts and sciences.  The group also participated in the Annual Red Cross campaign and organized a food and clothing drive for war torn countries in Europe following the Second World War.
+
+Among the founding members of the club was Judge Mary O’Toole, the first woman judge in the District as well as the club’s first president.  The first chairwoman was Ellen Spencer Mussey, co-founder of the Washington College of Law.  Several first ladies became honorary members of the organization including Mrs. Herbert Hoover, Eleanor Roosevelt, and Bess Truman.  Helen Keller, Marie Curie, and Charles Lindbergh were given special awards for their pursuit of knowledge, dedication to country, and humanitarian endeavors.
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Associations, institutions, etc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19782001xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">125</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">John Capozzi Papers,</subfield>
+      <subfield code="f">1978-2001</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2.5</subfield>
+      <subfield code="f">linear feet; 5 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: Processing of this collection consisted of sorting materials into series and refoldering into archival housing. Unnecessary original housing materials were discarded. Materials are arranged chronologically in each folder, with undated items in the front. Where necessary, rusted paper clips and staples were removed and replaced with plastic clips. .</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The John Capozzi Papers collection contains materials that document Capozzi’s activities throughout much of his political career in the 1990’s and extending into the early 2000’s. The majority of the materials relate to Capozzi’s primary activities as D.C. Shadow Representative and advocate for D.C. statehood and the fight to prevent the construction of the Barney Circle Freeway. His papers also include evidence such as press clippings and correspondence that show that he was also interested in a variety of other political and social issues. The collection includes personal and non-personal correspondence and memoranda, press clippings and releases, meeting agendas and minutes, financial information of various committees and organizations with which Capozzi was involved, newsletters, fliers, advertisements, membership lists, by-laws, reports, and ephemera.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">This collection consists of seven series that include biographical information, correspondence, documentation of community involvement and service through affiliation with organizations, government agencies and departments and also speeches and testimony. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">John Capozzi donated his papers to the Washingtoniana Division of the D.C. Community Archives on 28 October 2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

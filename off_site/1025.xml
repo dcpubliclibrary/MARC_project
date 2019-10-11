@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19301973xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">009</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Harry S. Wender Papers,</subfield>
+      <subfield code="f">1930-1973</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2.5</subfield>
+      <subfield code="f">linear feet; 2 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Contains correspondence, internal memoranda, home rule proposals, publicity materials, legislative materials, meeting minutes, editorials, and membership lists primarily concerning efforts in which Mr. Wender was involved to obtain voting rights for District residents from the 1930s through the 1960s.  Organizations active during this period mentioned in this collection include the D.C. Suffrage Association, Committee of the 100, Citizens Conference on District Suffrage, and Young People’s Home Rule League.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Mr. Wender was a practicing attorney in Washington, D.C. since 1932 when he was admitted to the D.C. Bar.  Mr. Wender was active in a number of local civic organizations, including the D.C. Federation of Citizens Associations, the Home Rule Committee, and the District of Columbia Suffrage Association. He served as chairman of the D.C. Recreation Board from 1942-1952 and President of the Southwest Citizens’ Association. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Neighborhoods</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

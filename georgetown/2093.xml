@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181003i18941896xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">PBY035</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Index to Account Ledger No. 2, Charles B. Hunter,</subfield>
+      <subfield code="f">1894 - 1896</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">This 7½” x 12½” hard-bound account ledger contains 200 pages, upon which proprietor Charles B. Hunter recorded merchandise sold to approximately 80 customers between 1894 and 1896. Each page is devoted to individual customer’s accounts with most accounts spread across multiple pages.
+
+Customer names were not recorded in alphabetical order. A surname index follows. 
+
+A few customer addresses were recorded with supplemental address and occupation information derived from the 1895 Polk’s Washington Directory. .</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">Donated Aug. 31, 2011 by Jerry A. McCoy and Pamela Scott. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The 1900 U.S. Census indicated Charles B. Hunter to be a 44-year-old “provisions dealer” living with his wife Mary C. at 1634 Valley Dr., today’s 32nd Street. Hunter was African-American, and as such was one of few to operate a brick-and-mortar business in Georgetown in the late 19th century. His store was located at 1351 32nd St. NW, today’s Wisconsin Avenue. The structure is extant.
+
+In the 20th century Union League directory. A compilation of the efforts of the Colored people of Washington for social betterment ... A historical, biographical, and statistical study of Colored Washington at the dawn of the 20th century and after a generation of freedom, published in 1901 by Andrew F. Hilyer of the Union League of Washington, D.C., Mr. Hunter was prominently highlighted:
+
+“An inspiration and example for the young man of the colored race who would rise above his environment and make a ‘man’ of himself with all that noble word implies is the successful dealer in fresh meats, produce, etc. at 1351 32nd street, Georgetown. Born in Virginia in 1855, of slave parents, he came to Washington when a boy and attended public schools. Endowed with an abundance of common sense and a desire to better his condition, he began to sell papers and black boots, the opportunities nearest him, but resolved to use these occupations as stepping stones only. He next drove a cart, then went into the huckstering business. After many discouragements he finally ‘learned the business,’ by energy push, and by sticking to it. He began with one wagon, and soon had three, opening a store for garden truck, etc., on High Street [original name of Wisconsin Avenue], in 1888. He is a consistent churchman, public spirited, hopeful, has amassed considerable real estate, and is the owner of a nursery and truck farm in Virginia. He gives employment to two young men.”
+
+A year-by-year examination of Washington city directories showed that by 1907 Hunter had relocated his business to Arlington, Va., where it became Hunter &amp; Jackson. The 1930 U.S. Census lists him as working as a gardener and living in Arlington’s Lyon Park. 
+
+His date of death is unknown and no obituary information has been located in local newspapers. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

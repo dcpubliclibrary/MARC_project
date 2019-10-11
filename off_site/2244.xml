@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181121i19971999xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">OHP020</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">D.C. Statehood Movement Leaders Oral History Project,</subfield>
+      <subfield code="f">1997 - 1999</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial donation to the Library, the transcripts were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were duplicated by the Library with use copies being placed a cabinet, while the originals were placed into off-site cold storage. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed. Audio recordings were organized and boxed for long term storage. All administrative documents, including releases, were placed into the control file.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Between 1997 and 1999 the D.C. Public Library and Councilmember Hilda Mason's office jointly sponsored a program to conduct oral histories of D.C. Statehood movement leaders. The project was funded by a grant from the D.C. Humanities Council and documents the experiences of 10 important Statehood movement leaders. The interviews cover such topics as memories of activist Julius Hobson, the early founding of the Statehood Party, local politics and referendums, constitutional convention, and the defeat of the statehood legislation. After the completion of the project the Library held  a Statehood Forum at the Library and an audio recording of that event is also included with this collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The Library holds copyright for items in this collection with a signed release. There are no restrictions on the use of these collection materials. Reproduction of an oral history without a signed release is not permitted.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">The DC Public Library conducted these interviews and panel discussion between 1997 and 1999. Tapes and transcripts were officially transferred to the Washingtoniana Division shortly after their completion. There is no transfer documentation between Library departments.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The D.C. Public Library was founded in 1896 by an act of Congress “to furnish books and other printed matter and information service convenient to the homes and offices of all residents of the District.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

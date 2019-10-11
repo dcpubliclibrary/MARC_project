@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i        xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">PBY095</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Mrs. A. T. Brown Photograph Album,</subfield>
+      <subfield code="f">1863</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: Original placement of photographs within album was altered so as to allow examination of textual information on reverse.  A surrogate of the album showing original positioning of images was made and is housed within the collection.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The photograph album contains 47 identified portraits with some individuals represented by more than one photo.  Five individuals are unidentified (two adult females and three adult males) and one photograph of a male and female couple  is only identified by first names.
+ 
+A series list follows identifying subjects in alphabetical (surname) order with photographer information noted and page number of album where image is located.
+ 
+Genealogical information on Mrs. Brown located to date is included in the collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a"> No known reproduction restrictions are on this collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">While inscribed “Presented to Mrs. A. T. Brown, as a memento of their affection &amp; esteem, by her Scholars,” followed by 31 names (first initial and surname only) and dated Christmas, 1863, use of the initials “A. T.” is cause for some confusion.
+ 
+(While the “T” might look like a “G,” comparison with the similar font style of the upper case “T” utilized in The New York Times makes it appear to be a “T.”)
+ 
+Mrs. Elizabeth A. Brown (1811-1900) was a documented Georgetown school teacher of boys who taught out of the rear of 91 Beal Street, today’s 3010 O Street, NW.   The front of 91 Beal/3010 O was a girls’ school operated by Rebecca Tenney, who was Elizabeth’s sister or aunt (see 1880 and 1900 US Census).
+ 
+The only reference that could be found to Mrs. Brown’s husband was located in “DC Marriage Licenses 1811-1858” with the listing of Elizabeth Ann Tenny (no second “e”) marrying Joseph Brown on February 14, 1835 in Washington, DC.  No additional information on Mr. Brown using standard genealogical resources could be located.
+ 
+It is theorized that Mrs. Brown was known by some as “Ann” and thus the initials “A. T.” stand for “Ann Tenney” (Tenney being her maiden name). .</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">A Peabody Room report dated 1956-57 indicated, “Among notable gifts to the Room are two albums of photographs, one of boys, the other of girls who attended Mrs. Brown’s School at 3010 O Street in the 1860s, from Mrs. Anne Brown Mills, of Bradenton, Florida.”
+ 
+The album in collection #92 contains only photographs of male students (along with numerous 19th century photographs of famous government officials, presidents, cabinet officers, and Civil War officers). 
+ 
+The existence of a second photograph album containing images of female students has never been known to have been housed in the Peabody Room since 2000.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

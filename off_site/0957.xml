@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19451979xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">019</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Sarah E. Ellis Papers,</subfield>
+      <subfield code="f">1945-1979</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">linear foot; 3 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The papers contain correspondence, clippings, meeting minutes, reports, and pamphlets of local issues and citizens organizations in which Mrs. Ellis was involved.  These included the Chillum Heights Citizens Association, the D.C. Federation of Citizens Associations, Junior Village, the Committee for the Rights of the D.C. Business Community, urban renewal, home rule, and mass transit.  Of significance, is a 1972 report titled "Report of the Special Citizens Advisory Committee on Urban Renewal in D.C.".</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Mrs. Ellis became a citizen activist after urban renewal forced her in 1959 to relocate the restaurant started by her late husband, Cy Ellis, from Southwest Washington, D.C.   She was again forced to move from a second location at E Street, N.W., when metro began construction there in the 1960s.   Her ten-year fight in the courts and Congress helped establish the "priority law" which requires that long-established businesses can use the "grandfather" clause to avoid relocation in urban renewal areas.  Mrs. Ellis moved her restaurant back to the redeveloped Southwest waterfront in 1970.  Born on a Potomac River farm in St. Mary's County, Maryland, she married and moved to Washington, D.C. with her husband sometime after World War I to start his oyster bar restaurant.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Neighborhoods</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i17972013xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">140</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Charlotte Wesley Holloman Papers,</subfield>
+      <subfield code="f">1797-2013</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">68</subfield>
+      <subfield code="f">boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">Charlotte Wesley Holloman was an accomplished lyric soprano, classically-trained pianist and vocal teacher whose singing talents helped her establish a dynamic and internationally-acclaimed career. The Charlotte Wesley Holloman papers contain contains classical music scores, sheet music, recordings, newsclippings, correspondence, ephemera, art and artifacts, books, concert programs, vinyl LPs, and photographs.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Charlotte Wesley Holloman papers contain contains classical music scores, sheet music, recordings, newsclippings, correspondence, ephemera, art and artifacts, books, concert programs, vinyl LPs, and photographs.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Charlotte Wesley Holloman was an accomplished lyric soprano, classically-trained pianist and vocal teacher whose singing talents helped her establish a dynamic and internationally-acclaimed career. Holloman was born in Washington, D.C. to Florence Louise Johnson Wesley, a school teacher and Baltimore socialite, and Charles H. Wesley, well-known historian and minister. Holloman attended Miners Teachers College for her elementary school years. When her father was awarded a Guggenheim Fellowship, Holloman traveled with her parents and attended Regents Park Elementary School in London, England. After graduating from Dunbar High School in Washington. D.C. in 1937, Holloman entered Howard University and earned a bachelor’s degree in music in 1941. Holloman also attended Columbia University, earning a master’s degree in voice and music education in 1943. In the 1950s, Holloman appeared on Broadway, starring in “The Barrier,” a musical about racial tensions based on Langston Hughes’s work, and “My Darling Aida,” a musical about a Southern plantation. Holloman was a featured soloist for recitals world-wide, including London and Berlin. She was a featured soloist for the Dayton Philharmonic, Boston Symphony, and Berkshire Music Festival at the height of her performance career. In 1961, Mrs. Holloman received the Martha Baird Rockefeller Fund for Music grant to pursue voice studies with top instructors in Europe. She was contracted by the Saarbrücken and Essen opera companies in Germany, establishing a repertoire of 22 leading roles through her creation of major operatic characters in more than 13 operas in Germany, England and Italy. Once Holloman returned to the states, she began a dynamic career in higher education. She became an adjunct faculty member of the CUNY, Catholic University of America, Northern Virginia Community College, University of the District of Columbia, and Howard University. In addition to teaching and mentoring students at Howard University for over twenty years, Holloman maintained a private studio and provided vocal lessons up until her death in 2015.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Gift of Charlotte Holloman (daughter), 2016.
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

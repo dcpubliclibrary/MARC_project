@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180921i18002005xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">141</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Marya Annette McQuirter Collection,</subfield>
+      <subfield code="f">1800-2005</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">45</subfield>
+      <subfield code="f">cubic feet; 33 boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">Dr. Marya Annette McQuirter is a scholar in African American history and a local public history figure in Washington, D.C. McQuirter currently serves as a historian at the National Museum of African American History and Culture. The collection documents McQuirter's research on African-American history. Documents include research, subject, and organizational files, as well as correspondence, clippings, memorabilia, photographs, and materials from McQuirter's dissertation.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Marya Annete McQuirter papers document McQuirter's research on African-American history. Documents include research, subject, and organizational files, as well as correspondence, clippings, memorabilia, photographs, and materials from McQuirter's dissertation.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Dr. Marya Annette McQuirter is a scholar in African American history and a local public history figure in Washington, D.C. McQuirter currently serves as a historian at the National Museum of African American History and Culture. As a historian for the Visual Arts department, she researches and writes content for the analog and digital platforms for the Visual Arts inaugural exhibition. She works with curators to amplify the life and work of artists and to illuminate the connections to the museum's other inaugural exhibitions. McQuirter’s publications include a volume in the Young Oxford History of African Americans series. In addition to her publications, McQuirter curated an exhibit at the Martin Luther King, Jr. Memorial Library and for the “America I Am: African American Imprint” traveling exhibit with Tavis Smiley. McQuirter taught African American and American studies courses at George Mason University and American University. McQuirter received her PhD in history from the University of Michigan in 2000.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Gift of Marya Annette McQuirter, 2006 and 2009.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

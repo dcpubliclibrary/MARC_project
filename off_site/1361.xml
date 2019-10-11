@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i1975    xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P018</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Washington Navy Yard Photograph Collection,</subfield>
+      <subfield code="f">1975</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box. The box was then placed in the DC Community Archives for long-term storage.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of thirty-one 3.5x5 and thirty 8x10 images of buildings 137 (General Foundry) and 167 (Boiler Makers shop) in the Washington Naval Yard complex. The smaller images are interior and exterior views of buildings, while the 8x10 images are reproductions of architectural blueprints. From the automobiles in the pictures it appears that the images were taken around 1975.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Washington Navy Yard was established in 1799 and is one of the Navy’s oldest shore establishments. The Yard was the Navy’s largest shipbuilding facility until the British burned it during the War of 1812. After the war the Yard never regained its prominence as a shipbuilding facility due to the shallow waters of the Anacostia River. In 1866 the Yard was designated as an ordnance manufacturing center and by the start of World War II it was the largest ordnance facility in the world. At its peak the Navy Yard consisted of 188 buildings on 126 acres and employed over 25,000 people. In 1964 the Yard was redesignated. Today the Yard houses a variety of activities, serving as the headquarters of the Naval District Washington, Naval Historical Center and Museum, and the home of numerous support activities for the fleet and aviation communities.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Photographs</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">Armed Forces</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

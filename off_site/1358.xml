@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i18441916xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P001</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Samuel Hay Kauffmann Family Photographs Collection,</subfield>
+      <subfield code="f">1844-1916</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">Linear Foot</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="351">
+      <subfield code="a">Items were arranged into the following four series; they were arranged chronologically within each series:  S.H. Kauffmann; Louise Kauffmann Simpson; Victor Kauffmann; Related Photographs and Papers.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: Processing procedures consisted of identifying the photographic processes and images, then arranging and housing the photographs. Names and dates had previously been recorded on some of the prints.  The dates were not always found to be reliable (see envelope-level descriptions for dates).  Photographs were housed in preservation-quality paper envelopes and polyester sleeves. Support paper was placed behind brittle photographs before sleaving.  Cases were made from folder paper for the S.H. Kauffmann daguerreotype and tintype.  Preservation copying of the Union Case patent information was performed by temporarily removing the tintype; copy is enclosed in the case.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Approximately 80 photographs ca. 1840-1916 of Samuel Hay Kauffmann (April 30, 1829-February, 1906), his daughter, Louise Kauffmann Simpson (May 31, 1869-March 9, 1930), his son, Victor Kauffmann, Victor’s wife, Jessie Christopher Kauffmann, and their children, Philip Christopher Kauffmann and Samuel Hay Kauffmann.  Collection is mostly portrait photographs, including a daguerreotype, tintypes, albumen cartes-de-visite and cabinet cards, gelatin silver developing out paper, and platinum prints.  Of note: a tintype Union Case, a Brady carte-de-visite, Japanese albumen photographic prints with hand coloring, and a hand-written will by S.H. Kauffmann to his wife, Sarah F. Kauffmann (signed November, 1878).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Samuel Hay Kauffmann was born in Wayne County, Ohio on April 30, 1829. Early on he learned the printing trade and became an editor and publisher in Zanesville, Ohio.  In 1861 he was appointed to a position in the United States Treasury under Secretary Salmon P. Chase.  He purchased an interest in the Washington Evening Star (Washington, D.C.) in 1867 and was elected its president in 1868.  He was president of the newspaper from 1868-1879 and again from 1886 until his death in February 1906.
+
+Samuel and his wife, Sarah, had at least three children, Rudolph, Louise and Victor.  Louise married Dr. John Crayke Simpson in 1905 and continued to live in Washington, D.C. until her death in 1930.  Rudolph worked for The Star, married and had a family.  Victor also worked for The Star as an editor, and with his wife Jessie (Christopher) had two sons, Philip Christopher Kauffmann and Samuel Hay Kauffmann.  They in turn grew up to work for The Star.  The S.H. Kauffmann family traveled widely and was active in Washington, D.C. society.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Photographs</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

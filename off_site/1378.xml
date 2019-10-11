@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19601975xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P015</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Mary Mitchell Collection,</subfield>
+      <subfield code="f">1960-1975</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: For each strip negative the following process was used in their re-housing. The strips were assigned a number and then re-housed in acid-free archival envelopes. If there were multiple images on the strip, then each image was assigned a letter. Letters were assigned from top to bottom or from left to right, depending on the type of strip negative. Any intellectual information on original housing was transferred to the new housing.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of 86 packages of strip negatives. Some packages contained multiple negatives bringing the total number of strip negatives to 97. The strip negatives contain between one and seven images, which brings the total number of images in the collection to 372. According to the hand written note, the donation of the negatives occurred shortly after the publication of her third book, Washington: Portrait of the Capital (1972, Barre Publishers). After processing the collection it became clearly evident eighty-five or more of these did in fact appear in her book. All images were taken by Ms. Mitchell and range in date from the mid-1960s thru 1975 (year of donation).  Images are of scattered locations throughout the city, however there are areas of concentration including the Capitol building, Chinatown, Dupont Circle, National Mall, and Lafayette Square.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Mary E. A. Mitchell, a photographer and historian, was born in Minneapolis, Minnesota and attended Wellesley College. She moved to Washington, DC in 1953 and lived there until the death of her husband in 1985 when she moved to Newton, Connecticut to be closer to here two daughters. Ms. Mitchell has written several books on Washington, including: A Walk in Georgetown (1966, Barre Publishers), Divided Town (1968, Barre Publishers), Washington: Portrait of the Capital (1972, Barre Publishers), Glimpses of Georgetown (1983, The Road Street Press), and Chronicles of Georgetown Life, 1865-1900 (1986, Seven Locks Press).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">There is no deed of gift and it uncertain as to how the library acquired these photographs.  A hand written note appears on the original storage envelope indicating it was donated to the Library in 1975.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Photographs</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Urban renewal</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Gentrification</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

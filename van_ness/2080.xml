@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181003i18521982xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">Describing Archives: A Content Standard</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">061</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Washington Star Records,</subfield>
+      <subfield code="f">1852-1982</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">143</subfield>
+      <subfield code="f">linear feet; 169 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The papers of the Washington Star consist of a variety of material formats. These materials were gathered over 130 years of the newspaper's service to the city of Washington. The materials reflect the day-to-day operations of the Star, the publishing of the newspaper and other materials, the leadership changes of the Star, labor disputes, marketing reports, historical materials, and other topical files and reports. 
+
+The types of documents found in this collection include: correspondence, financial records, newsletters, newspapers, clippings, advertising and marketing reports, legal documents, photographs, negatives, slides, scrapbooks, audiocassettes, videocassettes, awards, certificates, and programs.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="524">
+      <subfield code="a">Please use the following credit line when using images from the Star: 
+
+Copyright Washington Post; reprinted by permission of the DC Public Library
+
+When citing manuscript materials from the collection, please use the following citation:
+
+D.C. Public Library, Washingtoniana Division, D.C. Community Archives, Collection 61, Papers of the Washington Star.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">By: Faye Haskins, Photo Librarian, Washingtoniana Division, DC Public Library
+
+The first issue of the Evening Star was published as a four-page daily on December 16, 1852 at 8th and D Streets, NW, Washington, D.C. The daily's founder and first editor was Captain Joseph Borrows Tate, a printer and officer in the Washington militia. Tate believed that Washington newspapers published at the time were mouthpieces for the major political parties. He wanted to publish an independent newspaper "free from party trammels and sectarian influences, [that]… will preserve a strict neutrality" as stated in the newspaper's first edition. Tate sold the paper within six months to William H. Hope and William Douglass Wallach; Wallach became the sole owner by 1854. In its early years the paper fought for city improvements and although its editor was a traditional southern democrat, he and his newspaper supported Lincoln's fight to preserve the Union. 
+
+In 1867 Crosby S. Noyes, who began as a Star route agent and then reporter in 1853, became editor and one of five new owners. The other owners were Samuel H. Kauffmann, former Ohio newspaper publisher; George W. Adams, Washington correspondent of the New York World; Alexander R. Shepherd, a D.C. political leader; and Clarence Baker. Baker and Shepherd soon sold their shares to the remaining partners. In the late 19th century the Star championed many civic improvements in D.C., including Governor Alexander Shepherd's public works improvements, despite his administration's scandals, a new free public library, Union Station, and the replacement of Potomac River marshes with the Tidal Basin and Potomac Park. Harry P. Godwin became the newspaper's first city editor in 1881 and by 1890 it had its first associate editor, managing editor, and wire news editor. Members of the Kauffmann and Noyes families, including Theodore Noyes, Thomas Noyes, Fleming Newbold, and Frank B. Noyes, who would become future heirs and leaders at the newspaper, started working as Star reporters beginning in the late 1870s to the 1890s. 
+
+In 1881 the Star gave up its second home at 11th and D, site of the old Post Office building, to occupy a building at 11th and Pennsylvania Avenue, The Star also purchased a corner building at the same site and by 1900 Star staff moved into a remodeled corner structure. By 1921 the Star had erected a 10-story annex on the 11th Street side known as the Star building, now an historic architectural landmark in the city. The Star's longtime first President, Samuel H. Kauffmann died in 1906. Crosby S. Noyes, owner-editor, died in 1908. Descendants of the Noyes, Kauffmann, and Adams families continued to own and run the paper until the 1960s. On the Star's 50th anniversary in 1902, 42 reporters covered news for the Star and on March 26, 1905 the newspaper published its first Sunday Star. 
+
+In 1937 the Star became the first Washington paper to own a radio station, WMAL, and followed as the first paper to own a television station, WMAL-TV, in 1947. During World War II, four Star reporters covered the news overseas, and it published an overseas edition for GIs. Star editor Theodore W. Noyes died in 1946 and Benjamin McKelway was named the new editor. He had no relationship to the three families (Noyes, Kauffmann, and Adams) that ran the paper for almost 80 years. Frank B. Noyes resigned as Star President in 1948, followed by the brief tenure of Fleming Newbold, and finally selection of Samuel H. Kauffmann, grandson of the original owner, as President in 1949.
+
+In 1952 the Star celebrated its 100th birthday with parties, special publications, and much fanfare. By its 100th anniversary, the Star was characterized by the public as a truly local newspaper that had earned a reputation for emphasizing the coverage of local issues, service to the community, and support of civic causes. In 1959, the Star moved from its historic home to a newly constructed 5-story plant at Second Street and Virginia Avenue, S.E. 
+
+By the mid-1960s the Star was considered a conservative paper that, among other issues, opposed Home Rule and supported racial integration; by that time, it also trailed behind the Post in circulation and national reputation. In 1975, a Houston, Texas banker, Joseph L. Albritton bought substantial shares of stock in Star Communications, Inc., which included the newspaper and its affiliated TV and radio stations, from the three controlling families for $28.5 million. The Star's financial troubles, however, continued and in 1978, Albritton sold the Evening Star Newspaper Co. to Time, Inc. for $20 million. Although Time Inc. invested more than $80 million in the newspaper; it ceased operations and published its last issue on August 7, 1981. *.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The Washington Post, Katherine A. Daly, and the Washington Star gave custodial rights of the Papers of the Washington Star to the Washingtoniana Division over time from 1993 to 1999. The Post also granted custodial rights to over 1.2 million photographs and over 7 million newspaper clippings from the Star to the Washingtoniana Division.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Business</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Evening Star Newspaper Co.</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">American newspapers</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

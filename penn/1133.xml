@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19642008xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">132</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Arrington Dixon Papers,</subfield>
+      <subfield code="f">1964-2008</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">14</subfield>
+      <subfield code="f">cubic feet; 14 boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">Arrington Dixon was first elected to the City Council of the District of Columbia in 1974, one of the first to be seated on the newly established council. The Arrington Dixon Papers span from 1964 to 2008 and document his campaign for and career as a member of the District of Columbia City Council. Included among these documents are budget files, campaign literature, correspondence, taxicab commission files, newspaper clippings, photographs, schedules, and subject files. Of particular note are files relating to his late brother James Dixon, especially correspondence between the two men during James’ time in the U.S. Air Force.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Arrington Dixon Papers span from 1964 to 2008 and document his campaign for and career as a member of the District of Columbia City Council. Included among these documents are budget files, campaign literature, correspondence, taxicab commission files, newspaper clippings, photographs, schedules, and subject files. Of particular note are files relating to his late brother James Dixon, especially correspondence between the two men during James’ time in the U.S. Air Force.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">
+
+Arrington Dixon was born in Washington, DC, raised in Anacostia, and attended DC public schools. He attended Birney Elementary School, Douglass Junior High School, and McKinley Technical High School. Dixon served as a cadet in the United States Air Force Academy, graduating in 1967. After his brother, James Dixon, was killed in a Southeast Asia military airplane crash, he returned to Washington, DC and attended Howard University to complete his undergraduate degree in economics and statistics. Dixon went on to earn a law degree from the George Washington University National Law Center and in 1974, was elected to the City Council of the District of Columbia, one of the first members to be seated in the newly-established legislative body. Dixon later ran for Chair of the City Council when colleague and fellow Council member Sterling Tucker ran for Mayor. Dixon won the seat and aided his friend Charlene Drew Jarvis, to secure his vacant seat. In 1982, he sought re-election, but lost to David A. Clarke. Dixon later returned to his passion for technology. He worked for the Brookings Institute and the Computer Systems Group of the Planning Research Corporation, and also later founded ADA, Inc. (Arrington Dixon and Associates). Dixon also served on the Anacostia Coordinating Council to advocate for the construction of a new Metrorail station in that neighborhood. His political career is deemed significant by historians because his championing of the creation of a newly-established DC City Council in 1974 was a direct result of a long struggle to secure Home Rule in the District and many regarded him as a supporter and defender of citizens who were considered to be in a neglected area of the city that was “east of the River.”
+
+Dixon married future District of Columbia Mayor Sharon Pratt Kelly in 1966. Their marriage ended in divorce in 1982.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Arrington Dixon donated this collection to the DC Public Library’s Special Collections Department in August 2013.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

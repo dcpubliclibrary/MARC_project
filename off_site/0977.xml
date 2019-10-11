@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19531984xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">038</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Cleveland Park Garden Club Collection,</subfield>
+      <subfield code="f">1953-1984</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.7</subfield>
+      <subfield code="f">linear feet; 2 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Records from the Cleveland Park Garden Club extend from 1953 through 1984.  The collection contains correspondence, financial materials, meeting minutes, by-laws, membership lists, and newsletters. Significant items in the collection are a letter signed by “Lady Bird” Johnson and the Garden Club scrapbook highlighting various projects undertaken by the group.  Included are articles from the Washington Post and photographs of members and club projects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">In order to promote environmental conservation and horticultural interest, area residents founded the Cleveland Park Garden Club in 1953. Topics at the monthly meetings ranged from garden maintenance to community beautification projects. Slide and lecture presentations as well as garden tours were held throughout the year.  The club was also active in local volunteer and civic efforts including the maintenance of the National Cathedral grounds, the safeguarding of “green spaces” in the District, and the Cleveland Park Branch Library Landscaping and Beautification project. The group also protested the District’s use of DDT as a pesticide.
+
+Although the club was advertised as a community organization for both men and women, membership was primarily female.  When the club disbanded in June of 1984, the decline in membership was attributed not only to District families’ exodus to the suburbs but also to women working outside the home.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Philip J. Stone donated the records of the Cleveland Park Garden Club.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Neighborhoods</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

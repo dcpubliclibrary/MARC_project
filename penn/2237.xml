@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">190118i1993    xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">OHP013</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Milepost to Self-Government Oral History Project,</subfield>
+      <subfield code="f">1993</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.75</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After transfer to the Washingtoniana Division, tapes were duplicated by the Library with use copies being placed a cabinet, while the originals were placed into off-site cold storage. Transcripts for the panel discussion and interview have been bound and cataloged into the Washingtoniana book collection. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Copies of the transcripts were placed into folders and boxed. Audio cassette tapes were arranged and boxed for long term storage. All administrative documents, including releases, were placed into the control file.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">On February 27, 1993, the Washingtoniana Division held a public panel entitled “Milestone on the Road to Self-Government” at Martin Luther King Jr. Memorial Library. The panel was part of the 20th Annual Conference on Washington, D.C. Historical Studies. Panelists included John Bonner Duncan, Walter E. Washington, John Hechinger, and Charles Horsky, prominent D.C. politicians who played key roles in D.C.’s transition from the three-commissioner-led government to home rule in 1973. The panel was recorded and a separate interview was conducted in 1993 with Hechinger in which he reflects on his life, business, race relations, and his role as D.C.’s first Chairman of the City Council. The latter was part of a planned post-WWII Washington documentation project led by the Washingtoniana Division and the D.C. Archives and Records Center. The two sets of recordings were later combined into a single oral history project focused on documenting and interpreting the political development of a major metropolitan community since the end of World War II. The project includes audio recordings and transcripts of a panel discussion of the transition to home rule and a follow-up interview with one of the panelists. Topics include the formation of the D.C. city government, D.C.’s relationship with the federal government, the roles of interviewees in business and government, and race relations. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The Library holds copyright for items in this collection with a signed release. There are no restrictions on the use of these collection materials. Reproduction of an oral history without a signed release is not permitted.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">The DC Public Library conducted these interviews and panel discussion as a part of the Annual Conference of Washington D.C. Historical Studies Conference in 1993. Tapes and transcripts were officially transferred to the Washingtoniana Division shortly after thier completion. There is no transfer documentation between Library departments.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The D.C. Public Library was founded in 1896 by an act of Congress “to furnish books and other printed matter and information service convenient to the homes and offices of all residents of the District.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

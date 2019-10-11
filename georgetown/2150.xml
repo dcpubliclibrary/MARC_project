@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181003i18201907xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">PBY032</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Burrows Family Papers,</subfield>
+      <subfield code="f">1820 - 1907</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="351">
+      <subfield code="a">Series – Bills/Receipts&#13;
+Materials filed by decade from 1820s to 1900s with one undated file.&#13;
+    &#13;
+Series – Correspondence&#13;
+Materials filed by decade 1850s, 1880s to 1900s.&#13;
+    &#13;
+Series – Ephemera&#13;
+One undated file.&#13;
+.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">This collection consists of bills and receipts paid by various members of the Burrows family. The majority were paid by Alexander Burrows (ca. 1785-1862) between 1820 and 1857, while the rest were paid by Mary V. Burrows (ca. 1827-1901) and Jane Burrows between 1866 and 1901.  Mary V. Burrows may be the daughter-in-law of Alexander Burrows.&#13;
+ &#13;
+Various spellings of the Burrows surname include Burris and Burroughs.&#13;
+ &#13;
+Correspondence includes an 1853 document outlining the preamble and resolutions of the Harrisburg (PA) Typographical Union that appears to be unrelated to the Burrows family, and personal letters to Mrs. Mary V. Burrows, Mrs. Jennie Burrows and Mrs. John Gibson written between the years 1886 and 1901.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">This collection was donated to the Peabody Room in September 1984 by Mrs. Harry C. Bobinger (Mildred Ruddach Bobinger, b. 1906, d. 1985) of Arlington, VA.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Burrows family owned property in Georgetown, Murdock’s Subdivision of Washington County (today’s Tenleytown area), and the Woodmont section of Montgomery County, Md.  These bills and assessments reflect various economic costs of the period.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

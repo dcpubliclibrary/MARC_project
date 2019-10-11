@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19142004xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">137</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Bethea-Welch VFW Post 7248 Ladies Auxilliary Collection,</subfield>
+      <subfield code="f">1914-2004</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">23</subfield>
+      <subfield code="f">cubic feet; 15 boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">The Bethea-Welch Ladies Auxiliary of the Post 7284 Veterans of Foreign Wars Post was an auxilliary of the first VFW post for eligible African American veterans in Washington, D.C. The collection documents the day-to-day business of the club and contains lists of officers, event and meeting programs, printed materials, officer lists, awards, as well as meeting minutes and notes. Of particular note are photographs and scrapbooks documenting VFW events.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Bethea-Welch VFW Post 7248 Ladies Auxilliary Collection documents the day-to-day business of the club and contains lists of officers, event and meeting programs, printed materials, officer lists, awards, as well as meeting minutes and notes. Of particular note are photographs and scrapbooks documenting VFW events.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Bethea-Welch Ladies Auxiliary was founded May 12, 1948, and catered to African American women who supported the predominately black Bethea-Welch VFW. In 1947, Rosaline Thompson met with Bethea-Welch Post Commander Albert T. Jones and the mothers, wives and daughters of veterans who served overseas to discuss creating a women’s auxiliary. As with the veteran’s post prior to its founding, there was not a VFW Ladies Auxiliary for black women in D.C. With 16 charter members, the Ladies Auxiliary began working with veterans, their families, area youth, local churches and orphanages. In the early 1950s, the women of Bethea-Welch were invited to join the Department of the District of Columbia Ladies Auxiliary and participate in national programs. Members collected toys for young children, visited local VA hospitals, fed homeless families during the holiday season, provided books for veterans and children, and implemented programs at area churches. Some of the most popular programs included the Book Shower for veterans, annual Sweet Day for children living in a local settlement house, Junior Girls for young women, and the Bethea-Welch marching band. Other organizations benefited from the work of Bethea-Welch including the Girl Scouts, Children’s Hospital, Police Boys and girls Club, House of Ruth and Walker Whitman Clinic.
+
+The Bethea-Welch Post 7284 Veterans of Foreign Wars Post was founded by David D. Dixon. At the time, there was not a VFW post for eligible African American veterans in Washington, D.C. After approaching the VFW of D.C., he was allowed to launch a new post for black veterans. The post’s name was chosen in memory of Sargent Bethea, who was killed in World War I, and Captain George A. Welch, who died in action during World War II in Italy.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

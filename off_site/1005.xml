@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19011959xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">066</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Columbian Harmony and Payne Cemetery Ledgers Collection,</subfield>
+      <subfield code="f">1901-1959</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">16</subfield>
+      <subfield code="f">linear feet; 8 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The ten ledgers were organized in chronological order based on the first entry in each book.  Information found in the ledgers includes: name of deceased, plot location, and date of burial.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Columbian Harmony Cemetery was established as a resting ground for free blacks in Washington, D.C.  Established by the Columbian Harmony Society in 1829, the cemetery was situated between Boundary Street (Florida Avenue), S Street, and 6th Street Northwest.  In 1848, the City Council passed an ordinance prohibiting new burial grounds in the City limits.  Since the cemetery continued to expand it was relocated to land on Rhode Island Avenue and 9th Street Northeast in 1858 (at the time this was outside the city limits).  In 1960, because of a lack of space and neglected care, the Harmony Cemetery (including the remains) was moved to Hyattsville, Maryland and renamed the “National Harmony Memorial Park” (Sluby, Records of the Columbian…, v-vi).
+
+Payne’s Cemetery was established prior to 1880 in Washington, D.C.  The land was located at 4724 Benning Road Southeast and was used, primarily, as a burial place for African-Americans in the District.  In 1961, Louis H. Bell purchased the property and attempted to disinter the remains from the cemetery.  However, because of continuous neglect, many of the grave markers had been moved or destroyed.  In 1969, Mr. Bell had the remains moved to the National Harmony Memorial Park in Maryland.  The land that was once Payne’s Cemetery is now in the use of Fletcher-Johnson Elementary School (Sluby, Records of Payne’s Cemetery, v-viii).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Paul E. Sluby, Sr donated this collection to the D.C. Community Archives in May 2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

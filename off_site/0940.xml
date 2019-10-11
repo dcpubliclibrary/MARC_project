@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180201i19601977xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">001</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Julius Hobson Papers,</subfield>
+      <subfield code="f">1960-1977</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">107</subfield>
+      <subfield code="f">boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The papers primarily document Julius Hobson’s activist and political activities from the early 1960s until his death in 1977.  Included are materials from civil rights organizations that he headed, was involved, or helped found.  In particular, the collection contains correspondence, internal memoranda, meeting minutes, financial information, newsletters, membership lists, press releases, clippings, and by laws regarding the D.C. Chapter of the Congress of Racial Equality (CORE), Associated Community Teams (ACT), the Washington Institute for Quality Education, the D.C. Statehood Party, and the Black United Front.  Records which document Hobson’s political career as an elected member of the D.C. School Board and D.C. City Council as well as his run as the vice-presidential candidate in 1972 on the Peace Party ticket with Presidential candidate Benjamin Spock are contained in the collection.  Much of the collection contains court documents and background for litigation in which Hobson was a litigant or involved, including the Hobson v. Hansen, Hobson v. Hampton, Hobson v. Wilson, and a challenge to WMAL’s FCC’s re-licensing in 1969.  Of particular significance, the collection contains correspondence and documents produced from Hobson’s efforts to obtain information under the Freedom of Information Act from the FBI, the CIA, and other government agencies about their suspected surveillance of him as a civil rights activist.  In addition, it also contains personal letters, taped interviews, interview transcripts, photographs, academic course outlines, political and personal memorabilia, printed materials, awards, sympathy cards, memorials, and numerous clippings.   Major topics covered include racial inequality in D.C. schools, D.C. fair housing laws, federal job discrimination, D.C. statehood movement, D.C. home rule, D.C. politics, civil rights in the 1960s, the black power movement, and anti-Viet Nam War.  The collection is divided into 21 series as follows:
+
+Series 1: CORE											Series 12: Topical Files
+Series 2: ACT											Series 13: FOIA Request
+Series 3: Hobson v. Hansen							Series 14: Hobson v. Wilson
+Series 4: Board of Education							Series 15: University Teacher
+Series 5: WIQE											Series 16: Personal
+Series 6: Federal Job Discrimination				Series 17: Manuscripts and Interviews
+Series 7: Statehood Party/Home Rule				Series 18: Biography
+Series 8: Fair Housing/Transportation   			Series 19: Clippings
+Series 9: Media Fairness Campaign				Series 20: Printed Materials
+Series 10: Peoples Party &amp; Peace					Series 21: Photographs and oversized materials
+Series 11: City Council Correspondence
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Julius W. Hobson (1922 77) was a civil rights leader whose political career grew out of his grass roots activism in D.C. beginning in the 1950s. In the District, he worked for equity in public school funding and fair rental housing, opposed D.C. freeways and police brutality, and was a key founder of the D.C. Statehood Party. In the national political arena, Hobson was a leader in major civil rights organizations, an early advocate of black power, and the Vice Presidential candidate on the People’s Party ticket with Dr. Benjamin Spock in 1972. Hobson was often described as a “gadfly” for change because during his almost 25 years of political activism he had a tireless commitment to fight battles on many fronts in order to bring about racial equality, peace, and social change.
+
+Julius Hobson was born in Birmingham, Alabama on May 29, 1922; his own father died when he was very young.  His stepfather owned a drugstore and a dry cleaning busi¬ness and his mother was a teacher and later an elementary school principal. After graduation from high school, Hobson attended Tusgekee until World War II interrupted college.  Hobson served as an artillery spotter pilot in the Army during the War and was awarded three bronze stars and other medals for his 35 flying missions in Europe. After the War, he earned an engineering degree from Tuskegee Institute and then a Master’s in Economics from Howard University.  At Howard, Hobson studied with some leading socialist think¬ers whose radical perspectives influenced his own analyses of political and social issues. 
+
+After college, Hobson worked first at the Library of Congress as an economic researcher and later as a social science statistical analyst with the Social Security Administration.  Hobson married his first wife Carol Smith in 1947 and two children were born of this union, Julius, Jr., and Jean.  In 1969, Hobson married his second wife, Tina C. Lower.
+
+ 
+Julius Hobson’s serious commitment to civil rights and educational equity began in earnest in the early 1950's.   Not long after grad¬uation from Howard and as a young parent, Hobson took an interest in efforts to desegregate schools in the District in the wake of the Brown v. Board of Education decision. He was PTA President at both Slowe Elementary (1953), a segregated black school, and later at the newly desegregated Woodbridge Elementary School. Gradually, Hobson took larger leadership roles in ¬the community, including President of the Woodridge Civic Association (1956 1958) and Vice President of the citywide Federation of Civic Associations (1955 1957).  As a member of the Federation, Hobson became chairman of the Institute on Employment, which was sponsored by the Federation as well as the Urban League and Howard's School of Social Work.  In 1958 he became a member of the NAACP's Executive Committee and the chairman of the Committee on Employment and Education.  In 1959 Hobson co-authored Civil Rights in the Nation's capital Report on a Decade of Progress and prepared a chapter in the book titled "The Employment and Utilization of Negro Manpower in the District of Columbia's Government and Private Enterprise." In the same year Hobson was part of a study group whose efforts led to the establishment of the Human Relations Council.  
+
+Clearly, by the close of the 1950's, Hobson was a civil rights power in the city of Washington.
+In 1961, leaders at the Congress of Racial Equality (CORE) selected Hobson as chair of the local chapter of CORE.  Within a couple of years, he became CORE’s regional director. In CORE, Hobson led campaigns of roving and unpredictable picketing at local D.C. establishments to protest job discrimination among D.C. employers, especially in the downtown area.  Hobson organized almost 800 picket lines at retail stores from 1960 64, which resulted in 5,000 new jobs for blacks, many in non traditional positions. In 1963, Hobson led a major campaign for open housing in D.C., which resulted in 500 persons demonstrating at the District Building. Eventually, District lawmakers outlawed segregated rental housing. While at CORE, he also brought greater attention to the issue of home rule by filing a lawsuit in federal court to gain home rule.  As part of his national work for CORE, Hobson trained civil rights activists in non violent techniques for participation in the 1961 Freedom Rides in the Deep South and headed a contingent of marshals at the historic March on Washington in August 1963. 
+
+CORE expelled Hobson in mid-1964 ¬due to what they believed were his increasingly militant stands. After leaving CORE, Hobson founded the Associated Community Teams (ACT), a militant national organization.  ACT's most promin¬ent member was Adam Clayton Powell, chair of the House of Repre¬sentatives' Education and Labor Committee.  Other prominent leaders of ACT were Gloria Richardson, a fiery civil rights leader from Cambridge, Maryland; Jesse Gray, rent strike leader in Harlem; and Lawrence Landry of Chicago.  ACT took the position that black goals and aspirations were being compromised by white involvement in the Civil Rights Movement through white financial support and decision-making.  ACT was on the cutting edge of what became known ¬as the Black Power movement.  It sought to disrupt the status quo through militant acts of protest.   During his involvement with ACT, Hobson began referring to himself as the "spiritual father" of Stokely Carmichael, a key spokesperson for the Black Power movement at the time.  Although not entirely in agreement with the black power movement’s philosophy and tactics, Hobson continued an association with the movement throughout his life.
+
+In 1966, with William Kuntsler as his attorney, Hobson brought a lawsuit against Carl Hansen, the superintendent of D.C. schools and other school officials to receive educational equality ¬for black and poor students in District schools.  The lawsuit was the culmination of several years of statisti¬cal research conducted by Hobson to support a claim of educational inequality in D.C. schools.  The landmark Hobson v. Hansen case, decided ¬by Judge J. Skelly Wright in July 1967, mandated equity in school funding for blacks and changes to a system, which tracked black children in separate classrooms. As a result of the case, Hobson became recognized as an expert on educational equity.
+
+In 1968, Hobson ran for his first elected office, a seat on the District's Board of Education and won. Hobson served on the Board of Education for just one year after losing his reelection bid in 1969. After his election defeat, Hobson founded WIQE with his wife Tina.  The Hobsons organized WIQE in response to the May 1968 riots and dedicated its work to attaining implementation of Hobson v. Hansen.   Hobson continued to push for the full implementation of Hobson v. Hansen throughout his life.
+
+While Hobson had a very militant profile in civil rights, he worked for world peace and opposed U.S. involvement in the Viet Nam War.  ¬He was active in the Anti-War movement and took part in most of the major Anti-War demonstrations, many of which were held in the District.  Because of his Anti-War activities, in 1972 Benjamin Spock asked Hobson to run as his Vice Presidential running mate on the People's Party slate.
+
+Hobson was a key early founder of the D.C. Statehood Party.  The D.C. Statehood Movement had its roots in the early 1970s when a small core of statehood supporters convinced Hobson to run for non-voting delegate to Congress in the 1971 election.   Walter Fauntroy defeated Hobson, but a viable new third party in D.C. was founded. 
+
+In 1974, Hobson was elected councilman at-large on the Statehood Party ticket in the first city council election in the District in over a century.  As a Councilman, Hobson continued to push for local educational reform, especially while serving as chair of the Educational and Youth Affairs Committee, as well as an end to all forms of racial discrimination in the District.  Hobson died in office on March 23, 1977.
+
+Sources: The Nation, December 4, 1977; The Washington Post, March 27, 1977;
+Martina Pinkney Matthews, “The Politics of Julius W. Hobson, Sr.,”  Ph.D dissertation, 
+Ohio State University;  An Evening to Honor Julius Hobson, 1972;  William Raspberry, Julius Hobson: A Goad for Change
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Tina Hobson donated The Papers of Julius Hobson to the Library in 1989 on behalf of the Hobson family.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Civil rights</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Housing</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Politics and government</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Statehood (American politics)</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

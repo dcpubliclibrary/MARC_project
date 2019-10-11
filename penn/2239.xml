@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">190118i19921993xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">OHP015</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Eastern Market Oral History Project,</subfield>
+      <subfield code="f">1992 - 1993</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.75</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial deposit of the tapes and indexes in the Library, the indexes were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were placed a cabinet for public use. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Indexes were placed into folders and boxed. All known tapes were boxed for long term storage. All administrative documents were placed into the control file. There are no tapes or transcripts for 15-06 and 15-10.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">From 1992 – 1993, a total of 12 oral history interviews were conducted through the Eastern Market Oral History Project, of which the Washingtoniana division holds resources for 9 interviews. The goal of the project was to capture the undocumented history of the Eastern Market, the last vestige of the Washington market system, which for more than 100 years played a vital role in the life of the city. The stories told by the interviewees show the important role that public markets played in feeding the city throughout the 19th and early 20th century, providing work and a social gathering place while connecting the city and its people to the surrounding countryside. Topics include family history, business, relations between vendors, and neighborhood and industry changes over time. The project was done under a planning grant from the D.C. Community Humanities Council, and Valerie Pawlewicz served as project manager.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the Friends of Eastern Market to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">The Friends of Eastern Market conducted these interviews between 1992 and 1993 as a part of a grant from the D.C. Humanities Council. Duplicates of the original tapes and indexes were transferred to the Library in 1993. There is no deed of gift for this collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Eastern Market is a public market in the Capitol Hill neighborhood of Washington, D.C., which was designed by Adolf Cluss and constructed in 1871.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

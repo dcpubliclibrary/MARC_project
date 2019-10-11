@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19802013xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">149</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Craig Rosen and the Static Disruptors D.C. Groove Collection,</subfield>
+      <subfield code="f">1980-2013</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3.75</subfield>
+      <subfield code="f">cubic feet; 3 boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">The Static Disruptors was a go-go band founded in the 1980s by Craig Rosen. The Craig Rosen and the Static Disruptors D.C. Groove Collection documents the band's career and place in the go-go and hardcore punk scenes in Washington D.C. in the 1980s. Included in the collection are vinyl LPs, cassette tapes, DVDs, and audiotapes. Also included are correspondence, photographs, clippings, and other memorabilia.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Craig Rosen and the Static Disruptors D.C. Groove Collection documents the band's career and place in the go-go and hardcore punk scenes in Washington D.C. in the 1980s. Included in the collection are vinyl LPs, cassette tapes, DVDs, and audiotapes. Also included are correspondence, photographs, clippings, and other memorabilia.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Static Disruptors was a go-go band founded in the 1980s by Craig Rosen. Rosen grew up in Bethesda, Maryland and attended Lawrence University in Appleton, Wisconsin. Prior to Static Disruptors, Rosen was involved in the hardcore music scene, playing with groups such as the Rollins Band. While at Lawrence University, Rosen formed the Static Disruptors in 1980. The band relocated to Washington, D.C. shortly after it was founded and settled on creating and playing go-go music. An all-white band until after its first hit song was released, Static Disruptors learned funk and go-go from the band Mass Extinction, a local D.C. band. In 1982, the group produced their hit “D.C. Groove.” The band became the first go-go act to perform at the 9:30 Club and the first to play with a rock band at Sidwell Friends school. Rosen mixed hard rock and punk throughout his go-go sets. The group found that their music struggled to find an audience because it was too go-go for one set of fans and too hardcore for the other. The Static Disruptors dissolved after only recording one single. Rosen went on to produce and collaborate with the likes of Doug E. Fresh and the Prophecy Band. Rosen left D.C. to study film at Columbia University. The Static Disruptors reunited in 2003 for a brief concert during a reunion weekend at Lawrence University.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

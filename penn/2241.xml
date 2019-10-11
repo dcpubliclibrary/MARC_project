@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">190118i19981999xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">OHP017</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">D.C. Public School Survey, Phase II Oral History Project,</subfield>
+      <subfield code="f">1998 - 1999</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial deposit of the transcripts in the Library, the transcript were bound, cataloged and added to Washingtoniana book collection. There are no taped interviews for this collection.  In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. The transcripts were placed into folders and boxed. All administrative documents were placed into the control file.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Between 1998 and 1999 the Historical Society of Washington conducted a total of 40 oral history interviews with adults who had attended D.C. public schools. Topics include educational experiences, schools attended, dates of graduation. The project director was Karen Washburn, Oral Historian for the Historical Society.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the Historical Society of Washington, D.C. to publish or exhibit information. Reproduction of oral histories without release is not permitted.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">The Historical Society of Washington, D.C. conducted these interviews between 1998 and 1999. The transcripts of these interviews were transferred to the Library in the early 2000s. There is no deed of gift for this collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Originally known as the Columbia Historical Society, The Historical Society of Washington, D.C. was founded in 1894. The society is an educational foundation and museum dedicated to preserving and displaying the history of Washington, D.C.; providing lectures, exhibits, classes, community events and other educational programs as part of its mission.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19271997xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">133</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Margaret Cooper Papers,</subfield>
+      <subfield code="f">1927-1997</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">15</subfield>
+      <subfield code="f">cubic feet; 5 boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">Margaret Cooper was a community activist in the Shaw neighborhood of Washington, DC who worked on numerous projects with various organizations including the Shaw Area Project Committee, Junior Christian Endeavor, Boy Scouts of America, War on Rats, Federation of Civic Associations, and the United Planning Organization. Cooper also served on the Advisory Neighborhood Commission for fifteen years and was one of the first ANC commissioners for the Shaw neighborhood. The Margaret Cooper Papers range from 1927-1997 and contain certificates, DC Council resolutions, newspaper clippings, photographs, programs, and speeches.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Margaret Cooper Papers range from 1927-1997 and contain certificates, DC Council resolutions, newspaper clippings, photographs, programs, and speeches.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Margaret Cooper was born in Warrington, Virginia on August 8, 1900. She attended Martha Washington Vocational School and played saxophone and trumpet. Cooper was known to the Shaw neighborhood as “Mother Cooper.” She worked as a Registered Nurse at George Washington University Hospital for fifteen years. Cooper was very active as a member of the Third Avenue Baptist Church in Washington, DC. She worked as an activist in the Shaw neighborhood on numerous projects with various organizations such as the Shaw Project Area Committee, Junior Christian Endeavor, Boy Scouts of America, War on Rats, Federation of Civic associations, and the United Planning Organization. Cooper also served on the Advisory Neighborhood Commission for fifteen years and was one of the first ANC commissioners for the Shaw neighborhood. Before her death in at the Hartland Health Center in Hyattsville, Maryland, Cooper had lived in a house on Warren Street, NW since 1917.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

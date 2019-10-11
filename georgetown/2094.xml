@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19321933xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">PBY019</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Grace Glasgow Dunlop Ecker Collection,</subfield>
+      <subfield code="f">1932 - 1933</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">One three-ringed binder containing 17 of Mrs. (John Beard) Ecker’s “Old Georgetown” columns that were published weekly in the Georgetown News commencing with the November 3, 1932 issue and ending March 3, 1933.&#13;
+ &#13;
+The October 27, 1932 (Vol. 1, #4) Georgetown News front page article “Mrs. Ecker to Write for Georgetown News” indicates that the columns will “…prove both interesting and instructive to one wishing a short history of this old city.”&#13;
+ &#13;
+The February 17, 1933 column, which does not appear in the binder but has been included as a copy from the microfilmed version housed in the Peabody Room (Georgetown News, Oct. 1932 – Mar. 1942, scattered issues), states, “The editor wishes to announce that due to the unexpected departure of Mrs. Grace Glasgow Dunlop Ecker…an article by Mrs.  Ecker does not appear in this issue.”  An un-bylined article about the establishment of Georgetown followed this announcement followed by two Ecker-bylined columns on February 24th and March 3, 1933.&#13;
+ &#13;
+Perhaps Mrs. Ecker discontinued her weekly column to devote further time to research Georgetown’s history, for nine month later her book “A Portrait of Old GeorgeTown” was published by Garrett &amp; Massie, Inc., Richmond, VA (“No End of Books, Grace Dunlop Ecker Tells of Old George Town Days and Ways,” The Washington Post, December 30, 1933, p. 13).  An uncatalogued first edition of the book is in this collection.&#13;
+ &#13;
+The second part of this collection consists of “tear sheet” B&amp;W illustrations that appear in “A Portrait of Old GeorgeTown.”  These loose sheets measure 11” x 7” and are arranged in the order that they appear in the book. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Grace Dunlop Ecker Peter was born July 31, 1878 and passed away at the age of 95 on March 31, 1974.  She was a fifth generation Washingtonian and died in the house where she was born, 1345 30th Street, NW.  This was the same house where her parents, grandparents, great-grandfathers, and one great-great grandfather had lived.&#13;
+ &#13;
+Her first husband, John Beard Ecker died in 1915 and her second husband, Walter G. Peter, died in 1945.  All are buried in Georgetown’s Oak Hill Cemetery.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">No record indicates a donor or when these items were accepted into the collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

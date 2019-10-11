@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i18901906xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">068</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">DC Militia Scrapbooks Collection,</subfield>
+      <subfield code="f">1890-1906</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3.75</subfield>
+      <subfield code="f">linear feet; 3 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of three scrapbooks that contain information regarding the DC Militia (National Guard) Engineer Battalion.  Materials included in the scrapbooks include: clippings from Washington, DC and national newspapers, correspondence, programs, flyers, maps, blueprints, and photographs (the photographs have been interleaved with acid-free buffer paper).  Although the scrapbooks are labeled as “1890-1898,” the materials in the scrapbooks extend to 1906.  Each scrapbook also contains notes at the beginning regarding the content of the materials contained within. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">House Resolution 9068, entered into the United States Congress on April 2 1888, established the volunteer militia of DC as the National Guard of the District of Columbia, but the DC Militia’s history goes back to the Revolutionary War.  A notable member of the DC Militia is Francis Scott Key.  The DC Militia participated in the War of 1812, various Indian Wars, the Civil War and the Spanish-American War.  The Militia also fought in the first and second World Wars, Korea and Vietnam, Operation Desert Storm, the defense of Washington on September 11, 2001 and the Iraq War.  Included among the DC Militia were the Engineer Battalion and the National Rifles.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Gilbert Thompson donated the scrapbooks to the DC Public Library in 1907.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">Armed Forces</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

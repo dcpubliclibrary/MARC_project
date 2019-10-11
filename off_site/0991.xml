@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19431975xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">053</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Women’s Advertising Club of Washington Records,</subfield>
+      <subfield code="f">1943-1975</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">linear foot; 3 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of board meeting minutes, annual reports, treasurer reports, financial records, clippings, and photographs from the Club’s records.  It also contains editions of the Ad Woman of Washington and Washington Ad Woman, newsletters of the Club.  Of particular significance are photographs, correspondence, memoranda, event programs and other items that document events and activities conducted by the Club in the mid-1960s for inner city girls who named themselves the “Go Girls.”  The collection also contains short typewritten histories, including a very brief history of the Club (1943-1974).  The other histories are all titled “This is Your Life: Women’s Advertising Club of Washington, 1943-1953,” but are, in fact, the 1953 original and two updated drafts for 1958 and 1967 with annual Club highlights.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Local advertising women organized The Women’s Advertising Club of Washington in April 1943 to educate, support, and further the advertising careers of D.C. women.  The Club received its charter from the Advertising Federation of America the same year.  Initially, members met in each other’s homes to share information and educate one another about their work.  The club engaged in a number of civic activities during its history, including organizing a speakers bureau in 1946 to provide college lecturers; establishing an annual scholarship award, Publicity Clinic, and a “National High School Essay Contest” in 1951; and sponsoring a biannual political poll luncheon beginning in 1954 with leading politicians and commentators.  In 1965 the Club began a public service project, “Widening Horizons,” which provided cultural and educational activities for girls in the inner city schools of Shaw and Lincoln Junior High.  In 1974 the Club folded its membership into the Advertising Club of Metropolitan Washington with a formal “Agreement of Unification.”.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

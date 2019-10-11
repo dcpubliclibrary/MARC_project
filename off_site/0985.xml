@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19982004xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">045</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">WAMU Broadcast Collection,</subfield>
+      <subfield code="f">1998–2004</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">14</subfield>
+      <subfield code="f">boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection contains 679 audio cassettes containing recordings primarily of three weekly shows, Metro Connection, Public Interest (DC Politics Hour) and the Kojo Nnamdi Show dating between 1998 and 2004. All show content is related to local D.C. current affairs and history. 
+
+The collection also contains editorials on D.C. political issues, most often prepared by Mark Plotkin, as well as some 1-hour segments from Public Interest, which relate to local Washington, D.C. matters.  Significant featured series in the collection include:  recordings of 1998 mayoral debates and candidate forums sponsored by WAMU; the 20th Century Washington series which aired on Metro Connection in 1999 to mark the close of the 20th century by reporting on significant periods or events in the city’s history
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">WAMU began as a carrier current student radio station on the campus of The American University on July 28, 1951. The station received a commercial FM license and made its first FM broadcast on October 23, 1961. Since then, WAMU has continued to provide public affairs and educational programing joined the National Educational Radio Network. In 1971 the station became a founding member of National Public Radio (NPR). Initially, in 1967 WAMU began programing bluegrass music, which included shows such as the Lee Michael Demsey Show and the Ray Davis Show. The station also hosted an annual bluegrass concert and a yearly Pickin’ in the Glen, which featured many top performers. The station changed its programing in 2002, transitioning its main channel to an all-news and public affairs format. The bluegrass component became a separate online and HD2 station. WAMU is home to a team of award-winning local reports and acclaimed talk radio hosts including Diane Rehm and Kojo Nnamdi. When WETA, a fellow public radio station, changed its format to all classical music in 2007, WAMU became Washington DC’s only full-time NPR station. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">WAMU, in 1998, began depositing in the Archives audiotapes of broadcasts related to local D.C. current affairs and history under an agreement with the Library. WAMU holds copyright to the tape library and all content. Library patrons may listen to the tapes only within Special Collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Politics and government</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Neighborhoods</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i18801929xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">057</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Capital Bicycle Club Collection,</subfield>
+      <subfield code="f">1880-1929</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">8.5</subfield>
+      <subfield code="f">linear feet; 10 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Location of resource: Note that as of 2017-08-03 boxes 1, 2, and 3 will be off-site for digitization and will therefore be unavailable for research.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: General processing procedures included: covering each photograph in a protective plastic Mylar cover; interleaving the scrapbooks with buffered tissue paper to resist acid migration; and covering of record books with buffered tissue paper to contain red rot.  The Memorabilia and Official Records series are arranged chronologically by date and type.  The Photograph series is arranged by date and event following the imposed order of negative number as a chronological guide within individual folders.  Those items without a discernable date are placed at the end of each folder and box, except where type clearly indicates an earlier date such as in Series I, Box 3.  Photograph credit and type as well as negative number are noted when available.  Cyanotypes are generally separated by type within folders, except when duplicate images exist to maintain order.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">On January 31, 1879 Herbert S. “Bert” Owen, Max Hansmann, F.D. Owen, L.P. Einolf, F.G. Wood, L.N. Jessunofsy, and Chas. Krauskopf founded the Capital Bicycle Club on the steps of the United States Capitol.  Incorporated on May 6, 1886 and the third club of its kind in the United States, the Capital Bicycle Club used its motto of “Swiftly and Silently” to affect public perception of the new transportation device by working with local officials on bicycle safety measures.  Major Thomas P. Morgan of the D.C. police department was an honorary member of the Club.  As part of Club rules, members were instructed to use bells during the day and lamps at night to avoid collisions with pedestrians.  Such measures secured local rights for Club members, and wheelmen in general, while influencing new municipal bicycle policies across the United States.
+
+The members were overwhelmingly professional men who devoted much time and money to bicycling.  The Club held its first meetings in member homes, but growth caused club members to rent a space on 10th Street, N.W. near H Street.  In 1880 the Club moved to 412 11th Street, N.W.  In 1882 the Club moved to 919 G Street, N.W. for two years until the federal government bought the building for office space.  In response, the Club decided to finance the construction of its own building at 409 15th Street, N.W.  Ground broke on May 18th 1886.
+
+Club members organized many expeditions throughout Washington, D.C., Maryland, and Virginia including a tour of the Natural Bridge in 1882 and a tour of Cabin John Bridge in 1884.  Individual members were nationally recognized for advanced riding techniques, including Herbert S. “Bert” Owen, founding member and the Club’s first Captain, for being the first man to ride down the United States Capitol steps on a bicycle.  The Club also participated in collegial races.  On June 29, 1880 the Club’s first annual races were held at Iowa Circle and by 1883 the Club laid a track at Athletic Park at 9th &amp; S Streets, N.W.  The Athletic Park was the site of the 5th Annual League of American Wheelmen Races on May 20, 1884.  
+
+Although bicycling was the main focus of Club members, social activities included banquets, a bicycle debating society, and a camera club, which sponsored America’s first photography salon the “Washington Salon and Art Photographic Exhibition” in 1896.  The most prolific photographer of the Club was founding member and 1884 Captain, Max Hansmann who employed the cyanotype development method popular in the 1880’s, which produced brilliant Prussian blue prints.  Max Hansmann’s efforts left a vibrant pictorial record of the Club’s activities and accomplishments.
+
+The Club remained active until about 1912 when the clubhouse was moved from 409 15th Street, N.W. to 1347 Pennsylvania Avenue.  Active participation ceased and the old clubhouse at 409 15th Street, N.W. was torn down in 1927.  Surviving members continued to hold annual events including the “61st Capital Bicycle Club Birthday” held on January 31, 1940.
+
+“A Tour to the Natural Bridge” The Wheelman August 1883
+“The Capital and the Capital Club” The Wheelman November 1883
+Delaney, Michele Anne. “The 1896 Washington Salon and Art Photography” American Art Review v. ix, no.1, 1997: 110-115.
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">On January 31, 1879 Herbert S. “Bert” Owen, Max Hansmann, F.D. Owen, L.P. Einolf, F.G. Wood, L.N. Jessunofsy, and Chas. Krauskopf founded the Capital Bicycle Club on the steps of the United States Capitol.  Incorporated on May 6, 1886 and the third club of its kind in the United States, the Capital Bicycle Club used its motto of “Swiftly and Silently” to affect public perception of the new transportation device by working with local officials on bicycle safety measures.  Major Thomas P. Morgan of the D.C. police department was an honorary member of the Club.  As part of Club rules, members were instructed to use bells during the day and lamps at night to avoid collisions with pedestrians.  Such measures secured local rights for Club members, and wheelmen in general, while influencing new municipal bicycle policies across the United States.
+
+The members were overwhelmingly professional men who devoted much time and money to bicycling.  The Club held its first meetings in member homes, but growth caused club members to rent a space on 10th Street, N.W. near H Street.  In 1880 the Club moved to 412 11th Street, N.W.  In 1882 the Club moved to 919 G Street, N.W. for two years until the federal government bought the building for office space.  In response, the Club decided to finance the construction of its own building at 409 15th Street, N.W.  Ground broke on May 18th 1886.
+
+Club members organized many expeditions throughout Washington, D.C., Maryland, and Virginia including a tour of the Natural Bridge in 1882 and a tour of Cabin John Bridge in 1884.  Individual members were nationally recognized for advanced riding techniques, including Herbert S. “Bert” Owen, founding member and the Club’s first Captain, for being the first man to ride down the United States Capitol steps on a bicycle.  The Club also participated in collegial races.  On June 29, 1880 the Club’s first annual races were held at Iowa Circle and by 1883 the Club laid a track at Athletic Park at 9th &amp; S Streets, N.W.  The Athletic Park was the site of the 5th Annual League of American Wheelmen Races on May 20, 1884.  
+
+Although bicycling was the main focus of Club members, social activities included banquets, a bicycle debating society, and a camera club, which sponsored America’s first photography salon the “Washington Salon and Art Photographic Exhibition” in 1896.  The most prolific photographer of the Club was founding member and 1884 Captain, Max Hansmann who employed the cyanotype development method popular in the 1880’s, which produced brilliant Prussian blue prints.  Max Hansmann’s efforts left a vibrant pictorial record of the Club’s activities and accomplishments.
+
+The Club remained active until about 1912 when the clubhouse was moved from 409 15th Street, N.W. to 1347 Pennsylvania Avenue.  Active participation ceased and the old clubhouse at 409 15th Street, N.W. was torn down in 1927.  Surviving members continued to hold annual events including the “61st Capital Bicycle Club Birthday” held on January 31, 1940.
+
+“A Tour to the Natural Bridge” The Wheelman August 1883
+“The Capital and the Capital Club” The Wheelman November 1883
+Delaney, Michele Anne. “The 1896 Washington Salon and Art Photography” American Art Review v. ix, no.1, 1997: 110-115.
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The original donor of the photographs in the collection is not specifically identified.  Part of the collection consists of photographs transferred from the Washington, D.C. Historic Image Collection. Other photographs have a stamp on the back reading “Public Library November 16, 1951, Washingtoniana”, and few others in Series I are stamped with “Clarence G. Allen, The Ontario. Apt. 601. Tel. Col. 800”.  Clarence G. Allen was an active member of the Capital Bicycle Club.  A scrapbook in Series II was created by the D.C. Public Library and charts the activities of the Capital Bicycle Club from 1891-1929.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sports</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

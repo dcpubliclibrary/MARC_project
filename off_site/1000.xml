@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i18931999xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">062</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Abracadabra Club of Washington, DC Records,</subfield>
+      <subfield code="f">1893-1999</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">8</subfield>
+      <subfield code="f">linear feet;18 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The records consist of meeting minutes, attendance records, financial records, correspondence, clippings, pamphlets, photographs and yearbooks, all related to the activities of the Abracadabra Club and its members.  The collection also contains two gavels and a block used to call meetings to order.  The records reflect the intellectual interests of the members of the Club and cover a wide variety of topics spanning over a century of time.  The collection is divided into six (6) Series: I. Meeting Minutes; II. Yearbooks; III Photographs; IV. Biographical Files; V. Financial Records; and VI Ephemera.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Twelve members of the Metropolitan Presbyterian Church established the Abracadabra Club in 1893 as a literary society for Washington, DC.  The original name of the club was “The Fortnightly Club of Capitol Hill.” After two years, the members discovered that another club already had the same name, so in 1894 they changed it to “Abracadabra.”  
+
+From its inception, the membership was limited to thirty members with an equal number of men and women.  In December of 1893, it is interesting to note that the Club decided, “the number of ladies had exceeded the number of men, so that it was voted that no more ladies should be admitted unless accompanied by a gentleman, ‘though the gentleman need not belong to her.’”  By 1907 the limit had been raised to 50 members.  For most of the Club’s existence, the membership stayed at or below 50.  Over the years, however, membership began to decline and in 2003 the Abracadabra Club disbanded.
+
+The membership adhered to the same meeting procedures throughout the club’s existence.  Meetings consisted of a roll call with a response from each member (each response was based on a topic chosen for the meeting), a paper on a subject of interest to the speaker, and “a reading in lighter vein, and a period of sociability in conjunction with the inevitable cooks.”  Paper topics varied greatly, as did the membership.  Membership included “doctors, lawyers, scholastics, scientists, travelers and gardeners,” among others.
+
+The Club’s most notable member was Dr. Charles Greeley Abbot (a member since 1897), scientist, inventor and Head of the Smithsonian Institution from 1928-1944.  He also served a term as President of the Abracadabra Club in 1902.  Dr. Abbot presented many papers at club meetings which most often covered the latest scientific discoveries/research.  His passion was the study of solar energy.  However, Dr. Abbot presented papers on other subjects as well, including: “The Eclipse of 1900,” “What Civilization Owes the Arabs,” “Resume of the Louisiana Purchase,” “The Travels of Marco Polo,” and “Fifty-five Years With Abracadabra,” among others.  Dr. Abbot remained a member of the Abracadabra Club until he died in 1973.
+
+The purpose of the Abracadabra Club was to provide its membership with an outlet of discussion for its scholarly, political and personal interests. This continued throughout the Club’s life.  In 2003, the Abracadabra Club met for a final time.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The records of the Abracadabra Club of Washington, DC were donated to the Archives in 2003 by Thomas H. Bramel, last President of the Club.  The records were gathered and created by the Club’s officers and members from 1893-2000.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Literature</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Societies and clubs</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Associations, institutions, etc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

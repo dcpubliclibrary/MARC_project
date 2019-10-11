@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19701980xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">003</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Self-Determination for D.C. (SDDC) Records,</subfield>
+      <subfield code="f">1970-1980</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">25</subfield>
+      <subfield code="f">boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of office files documenting the Coalition's activities in support of home rule and voting rights for D.C.  In particular, it includes testimony, legislation, lobbying packets, correspondence, and media lists regarding its lobbying efforts in support of Congressional legislation passed in 1973 granting D.C. home rule (D.C. Self-Government and Reorganization Act). The records also contain materials compiled by the Coalition regarding supportive, related, and opposing organizations, including reports, clippings, press releases, newsletters, publications, and brochures. Memorabilia such as a hat, banner, and bumper stickers are also a part of the collection. The collection is arranged into 11 series; Topical Files, Opposition Groups, Support Groups, Chronological Files, Lobbying Files, Media Coverage, Legislation, Post-Home Rule Passage, Related Organizations, Research, and Memorabilia.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The collection contains annual and board of directors' minutes, administrative directives, legislative testimony, financial reports, and copies of the organization's newsletter, the Bulletin Board.  Also included are numerous studies and reports sponsored by DCCBPE such as Student Responsibilities and Rights, A Quest for Equal Educational Opportunity in a Major Urban School District, and Creating a Resource Allocation System to name a few.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The materials were donated in 1989 by Richard W. Clark, Chairman of Self-Determination for D.C. National Coalition at the time.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Politics and government</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Associations, institutions, etc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Statehood (American politics)</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

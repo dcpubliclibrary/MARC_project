@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19711997xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">089</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Martha McNeil Hamilton Collection,</subfield>
+      <subfield code="f">1971-1997</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">linear feet; 2 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The materials in this collection represent the research notes and articles compiled by Martha McNeil Hamilton as a reporter for the Washington Post regarding to the fight for DC Home Rule.  Included in this collection are: reports, notes, clippings, government documents, hearing transcripts, correspondence, and election results.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Martha McNeil Hamilton was born in Houston, Texas on December 21, 1945 to Bruce and Evelyn Sims McNeil.  She attended the University of Texas and received a BA in History.  She began her professional career as a free-lance journalist at the Newark News in 1966.  From 1966-1967 she was a reporter in Buenos Aires.  In 1968 she was the editor of The Machinist and in 1969 she was a reporter for the Journal of Commerce.  In 1972 she began her long and distinguished career as a reporter for the Washington Post.  She is the author of the books The Great American Grain Robbery published in 1972 and Black and White and Red All Over which was published in 2002.  She is the recipient of numerous awards, including: the Front Page Award, 1978; the National Endowment for the Humanities Fellowship, 1978; the Duke Fellowship, 1986; and the Eisenhower Association Fellowship, 1995.  In May 1976, her daughter Sarah Elizabeth Hamilton was born.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Martha McNeil Hamilton donated the materials to the DC Community Archives in July 1996.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181003i18331847xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">PBY036</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Memoranda Respecting Servants, Washington, DC,</subfield>
+      <subfield code="f">1833 - 1847</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Physical Description note: Page 7 is watermarked:
+R DO…
+PHEN
+
+Page 8 is watermarked:
+…ALDSON
+…X MILL.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">One document preservation binder housing six manuscript sheets, size 6.25” x 7.50”.
+
+Written in diary form and titled Memoranda Respecting Servants Washington, D.C., this log records the service of servants (both slave and free) who worked in an unknown Washington, D.C., household between 1833 and 1847.  Pages have been removed (torn) from their original bound form.  Details include purpose for which individual was retained, fees paid, as well as some personal details regarding servants and their reasons for dismissal.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Based upon a search of the 1834 and 1843 city directories, none of the non-servant names could be ascertained as living in Georgetown. The first entry dated May 2, 1833, reads, “Removed to a frame house on D Street between 6th and 7th belonging to C.W. Boteler,” and the second entry, dated June 22, 1833 reads, “Removed to a two-story brick house on F Street, corner of 6th belonging to E. Fitzgerald, U.S. Navy.”  It could be inferred that the writer was residing at these locations.
+
+(Research has revealed that this paper was manufactured by Robert Donaldson, Phenix Mill, Hanover Township, Morris County, NJ.  Active circa: 1820-1840.).</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">No accession record is extant for this item. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

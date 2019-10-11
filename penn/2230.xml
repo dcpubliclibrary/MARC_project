@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">190118i19791981xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">OHP006</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Washington Entrepreneurs Project of Strayer College - Independent Business Owners Oral History Project,</subfield>
+      <subfield code="f">1979 - 1981</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3.75</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial donation the Library bound the transcripts and they were then arranged them alphabetically by surname and placed in a filing cabinet for patron use. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy. In 2014 the transcripts were un bound as a part of the digitization process. In 2017 the  transcripts were reprocessed and  placed in new archival folders and boxed. All administrative records, including release documents, were placed into the control files.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">From 1979 - 1981, Strayer College in Washington, D.C., conducted interviews with representatives of independent businesses. The project chronicles D.C. area businesspeople and their families. Topics include the founding and development of the business; family involvement in the business (past, present, and future); evaluation of local government, financial, and trade association services; involvement in civic and charitable activities; loyalty to the Washington area; and self-assessment of interviewees' choice to be an independent business owner. Companies selected were at least 30 years old and owner-operated. The Project's director was Richard Voelkel.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from Strayer University in Herndon, Virginia to publish or exhibit information. Reproduction of oral histories without release is not permitted.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">Strayer College conducted these interviews between 1979 and 1981 and transferred the tapes and transcripts to the Library in 1983. There is no Deed of Gift for this collection, however there is a letter stating that the collection was "donated.".</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Founded in 1892 as Strayer's Business College in Baltimore, Maryland, the College was established to teach business skills. A second branch of the College was opened in Washington, D.C. in 1904. in 1969, the college received the accreditation needed to grant four-year Bachelor of Arts degrees and was renamed Strayer College. n 1998, Strayer College was granted university status by the District of Columbia Education Licensure Commission and became Strayer University.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

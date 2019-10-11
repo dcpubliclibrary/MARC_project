@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19531997xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">157</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Association of Liberated Librarians Collection,</subfield>
+      <subfield code="f">1953-1997</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.75</subfield>
+      <subfield code="f">linear feet; 3 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Organization folders include the following: bylaws and organizational material; membership and job/volunteer announcements; meeting minutes and reports; newsletters, programs, ephemera, correspondence, and material relating to site visits. Site visit files include correspondence, internal memos, and ephemera from the actual visit in separate folders named for the destination. Visits and prospective visits that generated three separate items or fewer are included in a general folder named "ALL Programs." 
+
+Note that many of the organizers and later leaders of the Association of Liberated Librarians (ALL) also held leadership positions in both the District of Columbia Library Association (DCLA) and the DC Chapter of the Special Libraries Association (SLA). As a result, over time organizational material from both organizations are stored with ALL collection folders and files. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Association of Liberation Librarians (ALL) was a group of librarians "liberated" from the 9-to 5 routine -- retired, self-employed, part-time employed, unemployed, an occasional student" who met monthly and visited libraries, archives and galleries in the Washington, DC area.
+
+ALL began in 1981 as a subgroup of the Metropolitan Washington Council of Government's Metropolitan Library Council. The founding members were retirees, part-timers, contractors and free-lance librarians, all of whom were acquainted with each other thorough membership in the District of Columbia Library Association (DCLA) and the Special Libraries Association (SLA) DC chapter. The original intent of ALL was not limited to fellowship and site visits - it also included service as a clearing-house for volunteer and part-time work opportunities for its members and information of particular interest to retirees.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Librarians</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">190118i19721992xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">OHP003</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">D.C. Public Library Oral History Project,</subfield>
+      <subfield code="f">1972 - 1992</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">7.5</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: In 1982, the Washingtoniana Division established the Oral History Research Center (OHRC). The Center was funded in part by the D.C. Humanities Council. Since then, the Library has conducted its own oral histories as well as acquired tapes recordings and transcripts from individuals or groups who conducted their own oral histories to OHRC to enhance public access. The collection was arranged by date of interview shortly after is conclusion.  All files were foldered and placed in a filing cabinet. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy.  Transcripts from two interviews in this collection, those of G.R.F. Key and Nora Drew Gregory, have been bound and cataloged with the Washingtoniana book collection.  All known tapes and transcripts for this collection were digitized in 2014. There are no tapes for interview 03-59 and no transcript for interview 03-54. In 2017 the collection was reprocessed with all materials being placed in new folders and boxed. administrative materials were moved to the control file. Master tapes and use copies were placed in interview order and boxed. .</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Between 1972 and 1992 the Library conducted 29 oral history interviews with individuals who had a long association with and knowledge of Washington D.C. Topics include childhood experiences, segregation, religion, neighborhoods, education, communities, employment, demographics and social life. The interviews were organized and conducted by Marcia M. Greenlee and Roxanna Deane. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">D.C. Public Library holds copyright for all items in the collection with a signed release. Reproduction of oral histories without a release is not permitted.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">D.C. Public Library conducted these oral histories between 1972 and 1992. Deposit into the Library's collection occurred at the time the interview was conducted. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19782014xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">131</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Charlene Drew Jarvis Papers,</subfield>
+      <subfield code="f">1978-2014</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">18</subfield>
+      <subfield code="f">cubic feet; 18 boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">Charlene Drew Jarvis was elected to D.C.’s City Council in 1979 and remained on the council until 2000. While on the council she chaired the Committee on Economic Development and the Committee on Finance and Revenue during D.C.’s traumatic financial times. In 1992, Drew Jarvis became the national co-chair of the Clinton/Gore campaign. In 1993, she was appointed by Clinton to serve on the National Institute of Health Mental Health Advisory Council. Documents include biographical information, brochures, campaign materials, correspondence, contact lists, council files, Board of Elections and Ethics files, mailings, programs, photographs, publications, speeches, and audiovisual recordings of public appearances.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Charlene Drew Jarvis papers document her campaign for city council, her time as national co-chair for the Clinton/Gore presidential campaign, and her work on on the National Institute of Health Mental Health Advisory Council. Documents include biographical information, brochures, campaign materials, correspondence, contact lists, council files, Board of Elections and Ethics files, mailings, programs, photographs, publications, speeches, and audiovisual recordings of public appearances.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Charlene Drew Jarvis was born at Howard University Hospital on July 31, 1941 to Lenore and Dr. Charles Drew. Her father was famed surgeon and pioneer in blood plasma research at Howard University medical school. Drew Jarvis attended Mott Elementary, Banneker Middle and Roosevelt High School. She went on to earn a B.A. from Oberlin College, an M.A. from Howard University and a PhD in Neuropsychology from the University of Maryland. She continued in science research until the late 1970s. Drew Jarvis was elected to D.C.’s City Council in 1979 and remained on the council until 2000. While on the council she chaired the Committee on Economic Development and the Committee on Finance and Revenue during D.C.’s traumatic financial times. In 1992, Drew Jarvis became the national co-chair of the Clinton/Gore campaign. In 1993, she was appointed by Clinton to serve on the National Institute of Health Mental Health Advisory Council. During her tenure on the council, she ran for mayor in 1996. In 1996, she was named president of Southeastern University and remained in the position until 2009.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

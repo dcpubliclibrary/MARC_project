@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19621965xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">080</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Capitol Hill Symphony Society Collection,</subfield>
+      <subfield code="f">1962-1965</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.25</subfield>
+      <subfield code="f">linear feet; 1 box</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of correspondence, memos, by-laws, photographs, programs, meeting minutes, and press releases.  The majority of the materials were created in 1964, although the dates range from 1962 to 1965.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Capitol Hill Symphony Society was established on January 30, 1964 at St. Mark’s Episcopal Church in Washington, DC.  The Society was created “for the purpose of providing ‘support for musical activities in the city of Washington, particularly…Capitol Hill.’”  It was incorporated as a non-profit organization and was the main source for the newly founded Capitol Hill Symphony Orchestra.  The Orchestra, directed by Victor King, was initially made of 90 members, was racially integrated, and was entirely voluntary.  The Orchestra’s debut concert was held on March 8, 1964 at St. Mark’s (3rd and A Street, SE).  
+
+The initial concept for the Society and Orchestra was born out of the Gault String Ensemble, which was a contributor to the St. Elizabeths Hospital music therapy program.  The program gave patient at the hospital a means to express their musical talents.  The String Ensemble was incorporated into the Capitol Hill Symphony Society and the music therapy program continued.  It is unclear how for how long the Society was in existence.  
+
+The CHS Orchestra should not be confused with the Capitol City Symphony Orchestra (formerly the Georgetown Symphony Orchestra).
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Arnold Taylor, a member of the Capitol Hill Symphony Society, donated the collection to the library in 1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Music</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

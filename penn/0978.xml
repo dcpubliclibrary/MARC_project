@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i18941997xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">039</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">District of Columbia Library Association Records,</subfield>
+      <subfield code="f">1894-1997</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">46</subfield>
+      <subfield code="f">boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The papers of the District of Columbia Library Association consist of approximately 16 linear feet of material documenting the activities of this organization from its inception in 1894 to the present day. Material includes minutes, financial records, correspondence, handbooks, publicity materials, organization publications and photographs.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">After a preliminary gathering at Columbian (now George Washington) University on June 6, 1894, 44 persons met on June 15 to establish the library Association of Washington City. The new organization’s purpose interaction among librarians “and all interested in library work in Washington City and vicinity, and to further library interests in general.” The first regular meeting was held on October 24, 1894, when members gathered in the Directors’ room at Columbian University to hear the inaugural address by the first president, Librarian of Congress Ainsworth Rand Spofford, to describe the special features of their own libraries, and to form project committees. In March 1901 the name of the organization was changed to the District of Columbia Library Association. It became a chapter in the American Library Association on June 28, 1922 and was incorporated in the District of Columbia on February 25, 1927. The association was granted federal tax-exempt status under section 501 (c) (3) of the Internal Revenue Code on July 31, 1979.
+
+A more complete history of the District of Columbia Library Association can be found in the book Capital Librarians: A History of the District of Columbia Library Association by John Y. Cole (Washington, DC: Library of Congress, 1994).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The papers of the Association were donated to Washingtoniana in the early 1930’s. They were transferred to Catholic University from 1954 to 1973. These records were returned to the Washingtoniana Division in 1974. Materials have been donated by outgoing officers and other active DCLA members.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Libraries</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

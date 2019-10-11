@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19661992xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">136</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Hilda Mason, Board of Education Records,</subfield>
+      <subfield code="f">1966-1992</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">147.5</subfield>
+      <subfield code="f">Cubic feet; 212 boxes</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">Hilda Mason was a member of the Board of Education from 1972-1977. These files include meeting minutes, research files, bills, finance and budget files, capital improvements files, program assessments, proposals, personnel files, public hearing files, committee reports, school board files, statements, superintendent files, statments, teachers' union files, and files on the youth orchestra program.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Hilda Mason Board of Education Records document Mason's time serving on the Board of Education from 1972-1977, though many of the files date from Mason's time serving on Council-At-Large where she was chair of the Council's Education, Libraries, and Recreation Committee from 1981-1997. The files include meeting minutes, research files, bills, finance and budget files, capital improvements files, program assessments, proposals, personnel files, public hearing files, committee reports, school board files, statements, superintendent files, statments, teachers' union files, and files on the youth orchestra program.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Hilda Howland Mae Mason was born in Altavista, (Lynch Station, Virginia) on June 4, 1916. She attended Virginia Seminary in Lynchburg and St. Paul's College in Lawrenceville. Mason relocated to Washington, DC in 1945. She later enrolled at Miners Teachers College and earned her undergraduate degree in 1952. She was a teacher, counselor and administrator in the DC public school system for 19 years, until she was elected to the Board of Education from Ward 4. She served from 1972-1977, after which she was appointed to complete the term of Julius Hobson, Sr., the at-Large member of the DC City Council. After completing Hobson’s term, she won an at-Large seat on her own merit. Mason was a champion of education in DC as chair of the Council’s Education, Libraries and Recreation Committee (1981-1997), the Local, Regional and Federal Affairs Committee, the Human Services Committee, and the Judiciary Committee. To date, her tenure on the City Council remains the longest term of service in the city’s history. Mason was also a steadfast member of the DC Statehood Party, as well as a supporter of the development of the University of the District of Columbia. The law school library bears her name and the name of her husband, Charles N. Mason, Jr., a graduate of Harvard University and Howard University Law School.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Hilda Mason donated her collection of City Council materials to DC Public Library Special Collections in March 1997.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Education</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

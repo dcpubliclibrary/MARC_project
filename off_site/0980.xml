@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19151975xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">041</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Holloman Family Papers,</subfield>
+      <subfield code="f">1915-1975</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">12</subfield>
+      <subfield code="f">linear feet; 29 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The papers consist primarily of the correspondence of Reverend Holloman from the 1920s through the 1960s, years in which he served as pastor of the Second Baptist Church of Washington, D.C.  Reverend Holloman's handwritten lecture notes and manuscripts of sermons, speeches, and articles are in the collection as well as some records from the Second Baptist church.  Files regarding the Holloman's work in the Lott Carey Society, the National Baptist Convention, Eastern Star, Alpha Sigma Sorority and other religious and civic organization are in the papers.  Also included are family photographs, a travel log, and other family memorabilia.  The papers are arranged into five series: correspondence, Rosa Holloman materials, church records, sermons and writings, and family memorabilia.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Reverend John L. S. Holloman, native of Hertford County, North Carolina graduated from Waters Institute in Winton, North Carolina in 1905.  Holloman attended Virginia Union Theological Seminary from 1906 to 1908 and then taught at Waters Institute from 1910 to 1917 while at the same time serving as pastor of a small rural church.  In 1912 he married Rosa Victoria Jones, a native of Charlottesville and a graduate of Hampton Institute.  
+
+In 1917 the Hollomans moved to Washington, D.C. where Reverend Holloman became pastor of the famous Second Baptist Church of Washington, D.C. until his retirement.   Second Baptist was noted for its Sunday School Lyceum, which became a magnet for leading intellectuals in the African-American community.  
+
+Reverend Holloman was President of the Washington Baptist Seminary since its founding in 1927 and President of the Board of Trustees of the Stoddard Baptist Home.  Locally, he was active in civic organizations and the Republican Party.  He gained a national reputation as editor of the Lott Carey Herald, official organ of the Lott Carey Baptist Foreign Mission Society.  Mrs. Holloman at various times served as President of the Lott Carey Convention Women's Auxiliary as well as a leader in local and national organizations for minister's wives.  She was an Eastern Star member of the Datcher Chapter and active in the PTA.  The Holloman's children are Carolyn H. Troupe, Grace H. Davis, Jessie H. Jackson, Marjorie H. Parker, and Dr. J.L.S. Holloman.
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The Holloman family children donated the papers to the Library in 1992.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">City churches</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

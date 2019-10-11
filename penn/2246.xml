@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">190118i20032005xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">OHP022</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Out of Kenilworth Oral History Project,</subfield>
+      <subfield code="f">2003 - 2005</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">13</subfield>
+      <subfield code="f">Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial donation to the Library, the transcripts were placed in folders and stored them in a filing cabinet with other oral histories. The donor donated two copies of all recordings, with one copy being placed in long term storage and the other being placed a cabinet for patron use. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed. Audio recordings were organized and boxed for long term storage. All administrative documents, including releases, were placed into the control file.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Between 2003 and 2005 Joseph Lapp conducted a series of oral history interviews to document the history of the Kenilworth neighborhood. Interviewees included Lapp family members and the Fellowship Haven Church community. Topics include family stories, tenant management movement, Aquatic gardens, African-American experience and the Eastland Gardens community. Digital files include copies of all transcripts, PowerPoint presentation given at Kenilworth History Day celebration, and a general video of the Kenilworth History Day celebration. Additional materials include audio recordings of the Kenilworth History celebration and Northeast Historical Society presentations, and a recording of a sermon by Elmer Lapp entitled "Witnesses in Samaria.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The Library holds copyright for items in this collection with a signed release. There are no restrictions on the use of these collection materials. Reproduction of an oral history without a signed release is not permitted.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">Joseph Lapp conducted these interviews between 2003 and 2005. The transcripts, audio recordings and digital files were donated to the Library in 2006. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Joseph E. Lapp was born in the Kenilworth neighborhood of Washington, DC, where his parents had established a small church/mission on Douglas Street called "Fellowship Haven." He graduated from Calvin College with a degree in English. In 2003 began work on a community history and family memoir project. The project consisted of a series of oral history interviews and the publication of "Kenilworth: A DC Neighborhood by the Anacostia River" in 2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

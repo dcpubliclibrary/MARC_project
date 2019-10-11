@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i19691984xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">022</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Greg Reynolds Dance Quintet Records,</subfield>
+      <subfield code="f">1969-1984</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">5.75</subfield>
+      <subfield code="f">linear feet; 11 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection contains performance programs, playbills, flyers, press releases, newspaper clippings, musical scores, correspondence, and administrative records primarily of the Greg Reynolds Quintet.  Also included are personal correspondence, memorabilia, and other personal items of Gregory Reynolds. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Greg Reynolds, a native of Anacostia, trained in the District with Erika Thimey and Batya Heller.  He earned a B.A. at Sarah Lawrence College, Bronxville, New York and received a scholarship to study with Alvin Ailey, specializing in liturgical dance.  From 1973-1976, he was a member of the Paul Taylor Dance Company and traveled throughout the United States and Europe.  In 1976, he founded the Greg Reynolds Quintet, a multi-ethnic modern dance company that had its initial performance in Moscow.  The Quintet, which lasted until 1984, engaged in a variety of performances, including concerts-in-the-schools, workshops, liturgical dance, and public service events in local, national, and international venues.  Mr. Reynolds was also associate choreographer for the Omega Liturgical Dance Company. Throughout his dance career, Reynolds was particularly active and interested in bringing dance and the arts to students. In the District he worked with Meridian House International, the D.C. Public Library, DC Public schools, and local arts organizations to bring dance to local students.   He also taught and conducted a workshop titled “dance conversations” with the Quintet in many U.S. cities in the 1970s.  In 1981, he was appointed for a three-year term to the D.C. Commission on the Arts.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Greg Reynolds donated the records of the Quintet in 1986.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Performing Arts</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

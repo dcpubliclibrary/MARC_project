@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">180202i17841984xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">065</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Wormley Family Genealogical Research Collection,</subfield>
+      <subfield code="f">1784-1984</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">4.5</subfield>
+      <subfield code="f">linear feet; 6 boxes</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection was organized by the Wormley family before it was transferred to the Archives.  An index was published and included in the collection.  Therefore, it was decided that the collection maintain its original order.  However, there are volumes listed in the index that are not present in the collection.  Included with the collection are three CD-ROM discs that contain scanned images of the volumes.  However, these discs are not complete.  Several items are missing from the files of various volumes. .</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">The Wormley family of Washington, D.C. is one of the most notable African-American families in the history of the District of Columbia.  Most notable among the family members are, James Wormley, proprietor of the Wormley Hotel, and Stanton L. Wormley, Sr., former interim President of Howard University.
+
+James Wormley was born free in 1819 in Washington, D.C.  His parents, Lynch and Mary Wormley, came to the District from Virginia in 1814 and established a carriage business.  In 1871, James Wormley established the Wormley Hotel on the corner of 15th and H Streets NW.  This was the site of the “Wormley Agreement,” the name given to the compromise that ended the disputed Election of 1876 and, with the election of Rutherford B. Hayes as President, ended Reconstruction in the South.  Wormley was also instrumental in making sure that Congress provided appropriate funding to the D.C. public schools.
+
+Stanton L. Wormley, Sr. was born in Washington, D.C. in 1909.  He attended Howard University and was a member of the ROTC and the Glee Club.  Stanton, Sr. also studied in Germany and was the leader of the Virginia State Glee Club.  He then became a member of the faculty at Howard University and was eventually named the interim {YEAR} President while University President James M. Nabrit was working with the United Nations.  
+
+There are many members of note in the Wormley family, as well as those who married into the family.  Among these are Francis L. Cardozo, former Secretary of State and Secretary of the Treasury of the state of South Carolina, and a leader in the public schools of Washington, D.C.
+.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Members of the Wormley family compiled this collection including: Stanton L. Wormley, Sr., Stanton L. Wormley, Jr. and Paul E. Sluby, Sr.  Each volume was originally housed in a photo album or binder.  The items were transferred to the D.C. Community Archives in April of 2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+

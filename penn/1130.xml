@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="008">181001i19901994xx                  eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DWP</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DWP</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="2">iso639-2b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">116</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">LeRoy "Damu" Smith Papers,</subfield>
+      <subfield code="f">1990-1994</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2.5</subfield>
+      <subfield code="f">linear feet; 1 box</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">LeRoy "Damu" Smith was a social justice activist who worked for environmental justice and anti-racism, among other causes. Among the records are biographical material, notes, photographs, audiocassette tapes, and research files. The research files cover Angola, South Africa, Korea, Iraq, the environment, and organizations such as the French Street Umoja Connection, Louisiana Cancer Alley, and the National Alliance Against Racist and Political Repression.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The LeRoy "Damu" Smith papers document Smiths' involvement in activism and community organizations. Among the records are biographical material, notes, photographs, audiocassette tapes, and research files. The research files cover Angola, South Africa, Korea, Iraq, the environment, and organizations such as the French Street Umoja Connection, Louisiana Cancer Alley, and the National Alliance Against Racist and Political Repression.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">LeRoy Wesley Smith was born on December 6, 1951 to Sylvester and Vernice Smith in St Louis, Missouri. Throughout his high school years, Smith participated in a program called the Sophia House, a project dedicated to developing leadership skills in young black men. Administered by Jesuit priest, Smith learned about civil rights struggles through the program. When Smith was 17 years old, he attended a black solidarity rally hosted by the Black United Fund in Cairo, Illinois. At the rally, Smith listened to speeches given by Rev. Jessie Jackson, poet and activist Amiri Baraka, singer Nina Simone and the Rev. Ralph Abernathy, then an advisor to Martin Luther King, Jr. Smith became involved in civil rights justice at home and within the African diaspora. Smith graduated from Vashon High School in 1970 and entered St. John's University in Collegeville, Minnesota. It was here that he started to become more organized in his activism, as head of the Organization of African American Students, Smith and the students sought changes on campus. He and his fellow students took over the administration building and demanded changes to the climate of hostility for black students on campus. During his college days, Smith changed his name to Damu Amiri Imara, a Swahili name, means blood, strength and leadership. Smith moved to D.C. in 1974, and became active in community organizations. Smith was one of the first black activists to target environmental racism as a problem that needed to be addressed. Smith worked with a number of organizations including the National Alliance against Racial and Political Violence, the American Friends Service Committee, Greenpeace USA, National Black Independent Political Party, National Black Environmental Justice Network, and Black Voices for Peace for which he was the founder and co-chair. Smith passed away on May 5, 2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Gift of Lynn Moore, 2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DWP</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+  </record>
+</marc:collection>
+
