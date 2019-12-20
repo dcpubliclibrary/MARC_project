@@ -1,43 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19631965xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P010</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">J. C. Wilfong, Jr. Collection,</subfield>
-      <subfield code="f">1963-1965</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: Each image was placed in individual paper sleeves, intellectual information regarding the photograph was transferred onto the envelope, and the image was assigned a number. A general description of the image was added to the sleeve. The completed sleeves were then place in an archival box for storage in the DC Community Archives.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of thirty-two, 3”x3” black and white photographs. There are no negatives with this collection. The images were taken between 1963-1965 and are of houses and businesses throughout the District of Columbia, many of which have been demolished. Historic locations include the Belasco Theater, Edwin Stanton House, John Philip Sousa House, Heubich Mansion, and the Commandant’s House at the USMC Barracks. Notations on many of the photographs indicate the year the building was demolished or note that the Landmarks Commission “cited” the structure. It appears that the J. C. Wilfong photographs are of buildings in the district that were endangered of or scheduled for demolition.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs.</subfield>
+      <subfield code="a">J. C. Wilfong, Jr. Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Architecture</subfield>
@@ -54,12 +25,28 @@
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P010</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of thirty-two, 3”x3” black and white photographs. There are no negatives with this collection. The images were taken between 1963-1965 and are of houses and businesses throughout the District of Columbia, many of which have been demolished. Historic locations include the Belasco Theater, Edwin Stanton House, John Philip Sousa House, Heubich Mansion, and the Commandant’s House at the USMC Barracks. Notations on many of the photographs indicate the year the building was demolished or note that the Landmarks Commission “cited” the structure. It appears that the J. C. Wilfong photographs are of buildings in the district that were endangered of or scheduled for demolition.</subfield>
     </datafield>
   </record>
 </marc:collection>

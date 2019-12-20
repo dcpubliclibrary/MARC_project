@@ -1,53 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i19791985xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP008</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">WETA Women of Achievement Oral History Project,</subfield>
-      <subfield code="f">1979 - 1985</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">7.5</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: After the initial donation to the Library, the transcripts were placed in folders and stored in a filing cabinet. Tapes were duplicated by the Library with the original being placed into off-site deep storage, and patrons given access to the use copy. In 2014, the transcripts and the tapes were digitized. Following digitization the collection was reprocessed in 2017 with the transcripts being placed in new folders and boxed. Tapes were divided based on format (cassette and reel-to-reel, and boxed for long-term storage. All administrative documents, including releases, were placed into the control file.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Between 1979 and 1985 WETA-FM conducted a total of 56 "luncheon series" oral history interviews with notable women in the greater Washington, D.C. area. All interviews were a part of a series entitled "Women of Achievement." Each interview is approximately 45 minutes to an hour long and topics included life and work experiences. Interviewees were chosen for their achievements in a wide range of fields, including community volunteering, business, and the arts. The project's director was Elizabeth Campbell, Vice President of Community Affairs. 08-41 is labeled "Audience Questions" and appears to be from an event held by WETA.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">The Library holds copyright for items in this collection with a signed release. There are no restrictions on the use of these collection materials. Reproduction of an oral history without a signed release is not permitted.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">WETA conducted these interviews between 1979 and 1985 and donated the tapes and transcripts to the Library in 1983. There is no deed of gift for the collection, but correspondence in the control file indicated their legal transfer to the Library.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Formed in 1953 as the Greater Washington Educational Television Association as a non-commercial educational Public Broadcasting System (PBS) member transmitted their first broadcast in 1961. among the programs produced by WETA that are distributed nationally by PBS are the PBS News Hour, Washington Week, and several nationally broadcast cultural and documentary programs, such as the Ken Burns' documentaries and A Capitol Fourth. .</subfield>
+      <subfield code="a">WETA Women of Achievement Oral History Project</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Oral History</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">7.5 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Between 1979 and 1985 WETA-FM conducted a total of 56 "luncheon series" oral history interviews with notable women in the greater Washington, D.C. area. All interviews were a part of a series entitled "Women of Achievement." Each interview is approximately 45 minutes to an hour long and topics included life and work experiences. Interviewees were chosen for their achievements in a wide range of fields, including community volunteering, business, and the arts. The project's director was Elizabeth Campbell, Vice President of Community Affairs. 08-41 is labeled "Audience Questions" and appears to be from an event held by WETA.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Formed in 1953 as the Greater Washington Educational Television Association as a non-commercial educational Public Broadcasting System (PBS) member transmitted their first broadcast in 1961. among the programs produced by WETA that are distributed nationally by PBS are the PBS News Hour, Washington Week, and several nationally broadcast cultural and documentary programs, such as the Ken Burns' documentaries and A Capitol Fourth. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">WETA conducted these interviews between 1979 and 1985 and donated the tapes and transcripts to the Library in 1983. There is no deed of gift for the collection, but correspondence in the control file indicated their legal transfer to the Library.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial donation to the Library, the transcripts were placed in folders and stored in a filing cabinet. Tapes were duplicated by the Library with the original being placed into off-site deep storage, and patrons given access to the use copy. In 2014, the transcripts and the tapes were digitized. Following digitization the collection was reprocessed in 2017 with the transcripts being placed in new folders and boxed. Tapes were divided based on format (cassette and reel-to-reel, and boxed for long-term storage. All administrative documents, including releases, were placed into the control file.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The Library holds copyright for items in this collection with a signed release. There are no restrictions on the use of these collection materials. Reproduction of an oral history without a signed release is not permitted.</subfield>
     </datafield>
   </record>
 </marc:collection>

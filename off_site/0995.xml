@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19041999xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Twentieth Century Club Records</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3 boxes</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">056</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Twentieth Century Club Records,</subfield>
-      <subfield code="f">1904-1999</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">3</subfield>
-      <subfield code="f">boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of yearbooks, monthly bulletins, by-laws, printed programs, histories of the Club, a few items regarding membership and fundraising, and a handwritten ledger recording the celebration in 1940 of the 50th anniversary of the Club’s founding.  .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">In April 1890 a group of women members of the All Souls’ Unitarian Church at 14th and I Streets met to form the Twentieth Century Club. As stated in its first Constitution, the Club was established “to unite for promotion of liberal thought and philanthropic work in its broad sense.”   Membership was gained by submission of your name for consideration by the Club’s Board.  In the 1890s the Club maintained a reading room for boys and girls, improved Work House conditions, and helped establish kindergartens in the DC Public schools.  The Club’s philanthropic work during the 20th C has supported many local community organizations, including Gallinger/D.C. General Hospital, DC Public Library, WWII home front efforts, DC Public Schools, Crippled Children’s Clinic, Children’s Hospital, Junior Village, and the Y.W.C.A. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The materials were removed from the vertical files to ensure preservation.  Other items were donated by Club members.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">In April 1890 a group of women members of the All Souls’ Unitarian Church at 14th and I Streets met to form the Twentieth Century Club. As stated in its first Constitution, the Club was established “to unite for promotion of liberal thought and philanthropic work in its broad sense.”   Membership was gained by submission of your name for consideration by the Club’s Board.  In the 1890s the Club maintained a reading room for boys and girls, improved Work House conditions, and helped establish kindergartens in the DC Public schools.  The Club’s philanthropic work during the 20th C has supported many local community organizations, including Gallinger/D.C. General Hospital, DC Public Library, WWII home front efforts, DC Public Schools, Crippled Children’s Clinic, Children’s Hospital, Junior Village, and the Y.W.C.A. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The materials were removed from the vertical files to ensure preservation.  Other items were donated by Club members.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of yearbooks, monthly bulletins, by-laws, printed programs, histories of the Club, a few items regarding membership and fundraising, and a handwritten ledger recording the celebration in 1940 of the 50th anniversary of the Club’s founding.  </subfield>
     </datafield>
   </record>
 </marc:collection>

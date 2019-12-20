@@ -1,51 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180515i18551993xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">076</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Lemon and Mary Hine Papers,</subfield>
-      <subfield code="f">1855-1993</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">4</subfield>
-      <subfield code="f">linear feet; 6 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of the incoming and outgoing correspondence of both Lemon and Mary Hine.  The letters begin in the 1850s and continue to the late 1880s.  Most of the letters are paired with their individual envelopes.  There are also letters to and from their children and other descendants of the Hine family.  Also in this collection are financial records, photographs, publications, articles, and invitations.  The materials are divided into three series: Correspondence, Photographs, and Ephemera.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Frederick F. Wright, a descendant of Lemon and Mary Hine, donated the collection to the DC Community Archives.  The donation was originally made in 2004, with subsequent additions made in 2005 and 2006.</subfield>
+      <subfield code="a">Lemon and Mary Hine Papers</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Politics and government</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">4 linear feet; 6 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">076</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545"/>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Frederick F. Wright, a descendant of Lemon and Mary Hine, donated the collection to the DC Community Archives.  The donation was originally made in 2004, with subsequent additions made in 2005 and 2006.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of the incoming and outgoing correspondence of both Lemon and Mary Hine.  The letters begin in the 1850s and continue to the late 1880s.  Most of the letters are paired with their individual envelopes.  There are also letters to and from their children and other descendants of the Hine family.  Also in this collection are financial records, photographs, publications, articles, and invitations.  The materials are divided into three series: Correspondence, Photographs, and Ephemera.</subfield>
     </datafield>
   </record>
 </marc:collection>

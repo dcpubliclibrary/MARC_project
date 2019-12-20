@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19461967xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">011</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Adams-Morgan Community Council Records,</subfield>
-      <subfield code="f">1946-1967</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.25</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The records consist of correspondence, minutes, announcements, budgets and clippings and cover such topics as housing, racial discrimination, and community organizations.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The papers which cover  Mrs. Ziegler’s career as an educator of the mentally retarded at the District Training School in Laurel, Maryland which later became Forest Haven School.  Papers covering Mrs. Zeigler include photographs of activities and events at the school, publications regarding the training of the mentally retarded, press releases, programs, a newsletter, correspondence, awards, published books, and certificates.  Also of particular importance are seven scrapbooks of clippings, photographs, programs, invitations, letters, and other memorabilia prepared by Ms. Zeigler on the District Training School, which covers the years 1924 through the 1960s.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
+      <subfield code="a">Adams-Morgan Community Council Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Housing</subfield>
@@ -47,12 +21,49 @@
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Associations, institutions, etc</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Adams Morgan (Washington, D.C.)</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Community organization</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Discrimination</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.25 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">011</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Adams-Morgan Community Council was formed in the late 1950s as a result of a two-year demonstration project to improve the neighborhood, which had deteriorated over the prior decade. The project sought to build viable organizations that could plan and work for improvements in blighted areas of Adams-Morgan. The Council was established towards the end of the project as a unified voice to represent various community and interest groups, including the Midway Civic Association, The Kalorama Citizens Association, the Adams-Morgan Better Neighborhood Conference, as well as various block associations formed during the project. The Council worked to improve health, welfare, education, and recreation for the Adams-Morgan community.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Unknown donor. </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="544">
+      <subfield code="a">Records of the Adams-Morgan Better Neighborhood Conference (Collection 18)Adams-Morgan: Democratic Action to Save a Neighborhood, a report prepared by the Office of Urban Renewal, District of Columbia, Stein and Marcou Associations, and American University (call number: 711.097 D623).</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The records consist of correspondence, minutes, announcements, budgets, and clippings. Topics covered include housing, racial discrimination, and community organizations.</subfield>
     </datafield>
   </record>
 </marc:collection>

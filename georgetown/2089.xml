@@ -1,47 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i18041940xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">PBY068</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Foxall – McKenney - Cragin – Greenlees – Agnew Family Papers,</subfield>
-      <subfield code="f">1804 - 1940</subfield>
+      <subfield code="a">Foxall – McKenney - Cragin – Greenlees – Agnew Family Papers</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">5</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The Foxall – McKenney – Cragin family remained prominent in Georgetown affairs from the end of the 18th century through the 20th. &#13;
- &#13;
-This collection contains Henry Foxall deeds and indentures, dated 1804 – 1819, a survey of the C &amp; O Canal confiscation of Foxall’s Georgetown city house land in 1831, and a rental agreement for “Spring Hill” (Henry Foxall’s country estate) dated 1868.  For additional information on Foxall and a circa 1940s photograph of “Spring Hill,” see Foxall surname vertical file.&#13;
- &#13;
-From Samuel McKenney are letters dated from the 1840s with photos of both he and his wife.  See also McKenney surname vertical file.&#13;
- &#13;
-The collection also contains materials from the Cragin family.  Foxall’s granddaughter, Mary McKenney, married Charles H. Gragin (1851-1944)  .  There are photos, letters and genealogical materials relating to the Cragin family as well as a scrapbook of old newspaper clippings that belonged to Mary McKenney Cragin (an example of Victorian weltschmertz).  A late 19th century heavy silk address belonging to Helen Cragin (daughter of Charles) is also housed in this collection.  Helen wears the dress in 1898 and circa 1940 photographs found here.&#13;
- &#13;
-Additional photographs, documents and ephemera representative of the Greenlees family (Helen Cragin married David Greenlees on November 7, 1900 at St. John’s Church in Georgetown) and the Agnew family (David’s maternal grandparents) are included.</subfield>
+      <subfield code="a">5 Linear feet</subfield>
     </datafield>
     <datafield ind1="1" ind2=" " tag="541">
       <subfield code="a">McKenney materials donated circa 1999 by Mrs. Edith McCartney. All other materials donated circa 1999 and April 25, 2013 by Mary-Elizabeth Pate.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
+    <datafield ind1="1" ind2=" " tag="545">
       <subfield code="a">The Foxall – McKenney – Cragin land transactions document the importance of family connections and of keeping family members living in close proximity. &#13;
  &#13;
 Henry Foxall (1758 - 1823) established the Columbian Foundry above Georgetown in 1797.  He dabbled in real estate in the city of Georgetown and as well as Washington City.  He owned a summer home on the six acre tract above his foundry called “Spring Hill,” a “town house” on what is now 34th Street, NW just below the C &amp; O Canal, and various other pieces of land in both Georgetown and Washington.&#13;
@@ -54,10 +29,18 @@ In this same square, Foxall also owned Lot 40 which remained vacant (and in the 
  &#13;
 Samuel McKenney acquired Lots 40 and 47 in 1820.  Lot 47 had housed the Lancaster School and Lot 40 is adjacent to the Dumbarton Methodist Church.  The McKenney – Cragin heirs occupied Lot 47 (3126 O Street, NW) until 1915.  For the involvement of both Foxall and McKenney in the Dumbarton Methodist Church, see “Many Witnesses:  A History of Dumbarton United Methodist Church 1772-1990,” edited by Jane Donovan (287.6753  M295).  Both Foxall and McKenney were important members of Dumbarton Methodist Church.&#13;
  &#13;
-The McKenneys raised eight children on Dumbarton Street, NW.  One of their daughters, Mary, who married Charles H. Cragin, continued to live on Dumbarton and remained active and prosperous in Georgetown affairs well into the 20th century. .</subfield>
+The McKenneys raised eight children on Dumbarton Street, NW.  One of their daughters, Mary, who married Charles H. Cragin, continued to live on Dumbarton and remained active and prosperous in Georgetown affairs well into the 20th century. </subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Foxall – McKenney – Cragin family remained prominent in Georgetown affairs from the end of the 18th century through the 20th. &#13;
+ &#13;
+This collection contains Henry Foxall deeds and indentures, dated 1804 – 1819, a survey of the C &amp; O Canal confiscation of Foxall’s Georgetown city house land in 1831, and a rental agreement for “Spring Hill” (Henry Foxall’s country estate) dated 1868.  For additional information on Foxall and a circa 1940s photograph of “Spring Hill,” see Foxall surname vertical file.&#13;
+ &#13;
+From Samuel McKenney are letters dated from the 1840s with photos of both he and his wife.  See also McKenney surname vertical file.&#13;
+ &#13;
+The collection also contains materials from the Cragin family.  Foxall’s granddaughter, Mary McKenney, married Charles H. Gragin (1851-1944)  .  There are photos, letters and genealogical materials relating to the Cragin family as well as a scrapbook of old newspaper clippings that belonged to Mary McKenney Cragin (an example of Victorian weltschmertz).  A late 19th century heavy silk address belonging to Helen Cragin (daughter of Charles) is also housed in this collection.  Helen wears the dress in 1898 and circa 1940 photographs found here.&#13;
+ &#13;
+Additional photographs, documents and ephemera representative of the Greenlees family (Helen Cragin married David Greenlees on November 7, 1900 at St. John’s Church in Georgetown) and the Agnew family (David’s maternal grandparents) are included.</subfield>
     </datafield>
   </record>
 </marc:collection>

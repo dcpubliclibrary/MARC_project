@@ -1,53 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19362002xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">117</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">DC School Newspapers Collection,</subfield>
-      <subfield code="f">1936-2002</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2</subfield>
-      <subfield code="f">linear feet; 2 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of multiple bound copies of Tech Life, the newspaper of McKinley High School and copies of newspapers from other Washington, D.C. schools.  They are not a complete run.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The school newspaper, Tech Life, dates back to 1902 when the school was established as a technical school for white students.  Named after the 25th U.S. President, William McKinley, it has a rich history with deep roots in “manual training” programs that were set up for working-class youths in the 1880s.  The school was moved to a new building in 1928 at Second and T Streets (NE), and an addition was constructed in 1957.  The school closed in 1997 and was scheduled to re-open in 2002.  However, funding and construction delays hampered the project.  It re-opened in August 2004, partly due to the fulfillment of a campaign promise of Mayor Anthony A. Williams.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The D.C. School Newspapers Collection was donated to the Library by Leora “Toni” Robinson, an Executive Board member of the McKinley High School Alumni Association.</subfield>
+      <subfield code="a">DC School Newspapers Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Education</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 linear feet; 2 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">117</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The school newspaper, Tech Life, dates back to 1902 when the school was established as a technical school for white students.  Named after the 25th U.S. President, William McKinley, it has a rich history with deep roots in “manual training” programs that were set up for working-class youths in the 1880s.  The school was moved to a new building in 1928 at Second and T Streets (NE), and an addition was constructed in 1957.  The school closed in 1997 and was scheduled to re-open in 2002.  However, funding and construction delays hampered the project.  It re-opened in August 2004, partly due to the fulfillment of a campaign promise of Mayor Anthony A. Williams.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The D.C. School Newspapers Collection was donated to the Library by Leora “Toni” Robinson, an Executive Board member of the McKinley High School Alumni Association.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of multiple bound copies of Tech Life, the newspaper of McKinley High School and copies of newspapers from other Washington, D.C. schools.  They are not a complete run.</subfield>
     </datafield>
   </record>
 </marc:collection>

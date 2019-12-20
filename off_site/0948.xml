@@ -1,56 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19071989xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">People's Drug Store Records</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.25 linear feet; 1 box</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">127</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">People's Drug Store Records,</subfield>
-      <subfield code="f">1907-1989</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.25</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">This collection contains correspondence, newsletters, programs and invitations, certificates, reports, newspaper clippings, payroll and receipts, printed materials, and miscellaneous materials.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Peoples Drug Store was founded in 1905 by Malcolm G. Gibbs (1877-1944). This ubiquitous chain of drugstores was based in Alexandria Virginia, a suburb of Washington, DC.  In 1905, Gibbs went into business for himself with a broker named Howard W. Silsby and opened the first Peoples Drug Store at 824 7th Street, NW.
-During this era, the retail pharmacy business was immensely risky, due to the heavy influence that small drugstores and pharmacies had on prescriptions.  Enthusiastic young entrepreneurs such as Gibbs were transforming this business, which included the strategic method of offering a widespread variety of merchandise. With a particular interest in attracting large numbers of customers to his stores, Gibbs adopted an approach similar to that had been utilized by the Woodward &amp; Lothrop department stores:  advertise heavily and offer weekly discounted prices to customers. This tactic worked well for Gibbs and Peoples Drug, as customers began to flood the small storefront drugstores in droves.
-By 1909, Peoples outgrew its small storefront and moved to a spacious multi-storied building at the busy intersection of 7th and K Streets, NW, on the southeast corner of Mount Vernon Square. As described in The Washington Post, the new store was a marvel of retail innovation, a “department drug store, in which the stock ranges from the simplest drug compounds to teas, coffees, and the rarest of perfumes.”
-In 1912, Peoples Drug opened at its second location, 7th and E Streets, NW. Two more stores were added four years later, at 7th and M and at 14th and U Streets, NW. After gaining its reputation as a scrappy discount store on the eastern side of downtown, a turning point came in 1919 when Peoples took over the W. S. Thompson Drugstore at 15th and G Streets NW, located near the U.S. Treasury Department. Thompson’s was a considered to be a more sophisticated establishment than Peoples.  Having served the staff and workers of the White House, it advertised itself as the "pharmacy of the Presidents.”  To some Washingtonians, it was almost blasphemous for an upstart drugstore like Peoples to absorb the well-respected Thompson's.  It took several years for the nuptials of the two institutions to work out their business differences.  In the process, the Peoples Drug Store staff learned a lot about the meticulous practice of providing dependable prescription services to their customers. 
-In 1922, Peoples began opening stores in the city's wealthier neighborhoods, such as Mount Pleasant. More stores would be added at a steady rate for decades.  Like other retailers, Gibbs pursued furnishing his stores with hyper-kinetic advertisements. When the new Peoples store at 13th and F Streets, NW opened in 1927, it was very much electrified with over two miles of wiring. The external signs consisted of raised opal letters with flashing amber borders composed of 225 individual light bulbs that proved to be too difficult to ignore. 
-By 1970, Peoples had over 252 stores operating in the District of Columbia, Maryland, Virginia, Pennsylvania, Ohio, West Virginia, North Carolina, South Carolina, Florida, New York, and New Jersey. That year there were 5,500 employees, with sales of $220 million and profits of $1.87 million. By 1975, Peoples had grown to 500 stores. Later in the year, the chain was purchased by Toledo, Ohio-based Lane Drug.
- The new company retained the Peoples name, and included Lane Drug, Schuman Drug, Dynamic Drug, Health Mart, Reed Drug, and Lee Drug. Lane Drug president Sheldon W. "Bud" Fantle (1923-1996) took over the presidency of the Peoples chain and focused on improving its merchandising and general customer service policies. 
-After decades of success, Peoples began to experience drastic changes during the late 1970s. Founder Malcolm Gibbs died in 1944, and, while continuing to expand, the chain lost its dynamism. Large grocery retail chains such as Giant and Safeway had discovered that they could absorb patrons of other drugstore businesses by opening their own pharmacies.  This action resulted in fierce competition among these businesses. 
-In 1974, Lane Drug Corporation, gained a controlling share of Peoples' stock, and within a year Fantle moved to Washington to become chairman and chief executive of Peoples. In 1984, Imasco, Ltd., a Canadian firm, acquired Peoples only to see its profitability plummet over the next three years.  In 1987, Fantle left the company and soon took over its ailing competitor, Dart Drug. Dart had developed a bad reputation, and Fantle attempted to provide a new image primarily by renaming it “Fantle's.”  Unfortunately, this tactic was unsuccessful and the Fantle's chain closed in 1990 after just two years. That same year, the New York-based Melville Corporation acquired Peoples. Melville was a large retail holding company that also owned the 811-store, CVS drugstore chain. The new owners kept the Peoples name for several years.  However in 1994, after a survey showed that most people would not object to a change, the 89-year-old brand was abandoned, and the former Peoples stores received CVS signage. Another homegrown retail icon of 20th-century Washington, DC had become defunct.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Peoples Drug Store was founded in 1905 by Malcolm G. Gibbs (1877-1944). This ubiquitous chain of drugstores was based in Alexandria Virginia, a suburb of Washington, DC.  In 1905, Gibbs went into business for himself with a broker named Howard W. Silsby and opened the first Peoples Drug Store at 824 7th Street, NW.During this era, the retail pharmacy business was immensely risky, due to the heavy influence that small drugstores and pharmacies had on prescriptions.  Enthusiastic young entrepreneurs such as Gibbs were transforming this business, which included the strategic method of offering a widespread variety of merchandise. With a particular interest in attracting large numbers of customers to his stores, Gibbs adopted an approach similar to that had been utilized by the Woodward &amp; Lothrop department stores:  advertise heavily and offer weekly discounted prices to customers. This tactic worked well for Gibbs and Peoples Drug, as customers began to flood the small storefront drugstores in droves.By 1909, Peoples outgrew its small storefront and moved to a spacious multi-storied building at the busy intersection of 7th and K Streets, NW, on the southeast corner of Mount Vernon Square. As described in The Washington Post, the new store was a marvel of retail innovation, a “department drug store, in which the stock ranges from the simplest drug compounds to teas, coffees, and the rarest of perfumes.”In 1912, Peoples Drug opened at its second location, 7th and E Streets, NW. Two more stores were added four years later, at 7th and M and at 14th and U Streets, NW. After gaining its reputation as a scrappy discount store on the eastern side of downtown, a turning point came in 1919 when Peoples took over the W. S. Thompson Drugstore at 15th and G Streets NW, located near the U.S. Treasury Department. Thompson’s was a considered to be a more sophisticated establishment than Peoples.  Having served the staff and workers of the White House, it advertised itself as the "pharmacy of the Presidents.”  To some Washingtonians, it was almost blasphemous for an upstart drugstore like Peoples to absorb the well-respected Thompson's.  It took several years for the nuptials of the two institutions to work out their business differences.  In the process, the Peoples Drug Store staff learned a lot about the meticulous practice of providing dependable prescription services to their customers. In 1922, Peoples began opening stores in the city's wealthier neighborhoods, such as Mount Pleasant. More stores would be added at a steady rate for decades.  Like other retailers, Gibbs pursued furnishing his stores with hyper-kinetic advertisements. When the new Peoples store at 13th and F Streets, NW opened in 1927, it was very much electrified with over two miles of wiring. The external signs consisted of raised opal letters with flashing amber borders composed of 225 individual light bulbs that proved to be too difficult to ignore. By 1970, Peoples had over 252 stores operating in the District of Columbia, Maryland, Virginia, Pennsylvania, Ohio, West Virginia, North Carolina, South Carolina, Florida, New York, and New Jersey. That year there were 5,500 employees, with sales of $220 million and profits of $1.87 million. By 1975, Peoples had grown to 500 stores. Later in the year, the chain was purchased by Toledo, Ohio-based Lane Drug. The new company retained the Peoples name, and included Lane Drug, Schuman Drug, Dynamic Drug, Health Mart, Reed Drug, and Lee Drug. Lane Drug president Sheldon W. "Bud" Fantle (1923-1996) took over the presidency of the Peoples chain and focused on improving its merchandising and general customer service policies. After decades of success, Peoples began to experience drastic changes during the late 1970s. Founder Malcolm Gibbs died in 1944, and, while continuing to expand, the chain lost its dynamism. Large grocery retail chains such as Giant and Safeway had discovered that they could absorb patrons of other drugstore businesses by opening their own pharmacies.  This action resulted in fierce competition among these businesses. In 1974, Lane Drug Corporation, gained a controlling share of Peoples' stock, and within a year Fantle moved to Washington to become chairman and chief executive of Peoples. In 1984, Imasco, Ltd., a Canadian firm, acquired Peoples only to see its profitability plummet over the next three years.  In 1987, Fantle left the company and soon took over its ailing competitor, Dart Drug. Dart had developed a bad reputation, and Fantle attempted to provide a new image primarily by renaming it “Fantle's.”  Unfortunately, this tactic was unsuccessful and the Fantle's chain closed in 1990 after just two years. That same year, the New York-based Melville Corporation acquired Peoples. Melville was a large retail holding company that also owned the 811-store, CVS drugstore chain. The new owners kept the Peoples name for several years.  However in 1994, after a survey showed that most people would not object to a change, the 89-year-old brand was abandoned, and the former Peoples stores received CVS signage. Another homegrown retail icon of 20th-century Washington, DC had become defunct.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">This collection contains correspondence, newsletters, programs and invitations, certificates, reports, newspaper clippings, payroll and receipts, printed materials, and miscellaneous materials.</subfield>
     </datafield>
   </record>
 </marc:collection>

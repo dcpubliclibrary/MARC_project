@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19131941xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P003</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Marilyn Smithson Hodgson’s School of Dance and Expression Photograph Collection,</subfield>
-      <subfield code="f">1913-1941</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">5</subfield>
-      <subfield code="f">Boxes</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: The photographs, clippings, and programs were originally in scrapbooks.  Photographs and some of the programs were removed from scrapbook pages to enhance their physical preservation.  Copies of the clippings were made.  Photographs are arranged in envelopes by similar stage design, performance, single and group performers, and non-dance portrait photos and snapshots.  Since none of the photographs are dated, dates are approximations based on clippings, styles of dance, costume, and fashion.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists primarily of photographs of dancers from the school with some dance programs and clippings about the school’s performance recitals.  They were all originally in scrapbooks.  The photographs depict a wide range of dance costumes and dance styles, including ballet, tap, modern, ethnic, and exotic. The photographs are stylized and staged shots and appear to have been taken after or before, rather than during performances.  The collection contains mostly black and white photographs, but also has a sizable amount of painted black and white photographs.   A few non-dance individual portraits and snapshots are also included.  Performance programs provide interesting information about
-the range of performances, performers, and venue for the schools’ annual spring recital.  The recital was first titled the Annual Spring Carnival but was known at various times as the Children’s Spring Revue, the Juvenile Spring Revue, and the Annual Spring Recital.  Names of dancers mentioned often in the records are Lilla Smithson (Hipsley), Jane Howard, Lorraine Mae Nicholson, Ruth Schenkle, Cush family members, Mayerhoffer family members, Ronnie Cunningham, Dorothy Schenken, Zelda Wightman, Jack Hodgson, and Elmer Hipsly, to name a few.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Marilyn Smithson Hodgson School of Dance was established around 1912 and existed as late as 1956. As a District resident, Madolin Smithson trained and performed with a local dance troupe in her youth.  Around 1912, she began giving dance lessons at “academies” located throughout the city, among them was the Naval Lodge Hall at 4th and Pennsylvania Avenue.  Miss Smithson married Joseph F. Hodgson around 1918.  Her younger sister Lilla Smithson became an instructor at the school in the early 1920s.  She choreographed and continued to perform prominent roles in the schools’ annual shows throughout the 1920s.  Lilla Smithson married and became Lilla S. Hipsley around 1925. The school appears to have been primarily a dance school for children but also taught young women in ballet, tap, and modern dance. Annual well-attended spring recitals took place in a number of nationally known as well as community-based District establishments, including the National Theater, the Belasco Theater, Willard Ball Room, Masonic Auditorium, and the Takoma Park Pool.   The school’s residence studio, established in the late 1910s was at 1320 Longfellow Street, N.W. with instruction also provided at other locations such as Masonic temples and parish halls.  In 1933, the school opened a new larger studio at 1200 Delafield Place, N.W where it stayed until closing.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
+      <subfield code="a">Marilyn Smithson Hodgson’s School of Dance and Expression Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Performing Arts</subfield>
@@ -48,12 +18,28 @@ the range of performances, performers, and venue for the schools’ annual sprin
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">5 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P003</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Marilyn Smithson Hodgson School of Dance was established around 1912 and existed as late as 1956. As a District resident, Madolin Smithson trained and performed with a local dance troupe in her youth.  Around 1912, she began giving dance lessons at “academies” located throughout the city, among them was the Naval Lodge Hall at 4th and Pennsylvania Avenue.  Miss Smithson married Joseph F. Hodgson around 1918.  Her younger sister Lilla Smithson became an instructor at the school in the early 1920s.  She choreographed and continued to perform prominent roles in the schools’ annual shows throughout the 1920s.  Lilla Smithson married and became Lilla S. Hipsley around 1925. The school appears to have been primarily a dance school for children but also taught young women in ballet, tap, and modern dance. Annual well-attended spring recitals took place in a number of nationally known as well as community-based District establishments, including the National Theater, the Belasco Theater, Willard Ball Room, Masonic Auditorium, and the Takoma Park Pool.   The school’s residence studio, established in the late 1910s was at 1320 Longfellow Street, N.W. with instruction also provided at other locations such as Masonic temples and parish halls.  In 1933, the school opened a new larger studio at 1200 Delafield Place, N.W where it stayed until closing.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists primarily of photographs of dancers from the school with some dance programs and clippings about the school’s performance recitals.  They were all originally in scrapbooks.  The photographs depict a wide range of dance costumes and dance styles, including ballet, tap, modern, ethnic, and exotic. The photographs are stylized and staged shots and appear to have been taken after or before, rather than during performances.  The collection contains mostly black and white photographs, but also has a sizable amount of painted black and white photographs.   A few non-dance individual portraits and snapshots are also included.  Performance programs provide interesting information aboutthe range of performances, performers, and venue for the schools’ annual spring recital.  The recital was first titled the Annual Spring Carnival but was known at various times as the Children’s Spring Revue, the Juvenile Spring Revue, and the Annual Spring Recital.  Names of dancers mentioned often in the records are Lilla Smithson (Hipsley), Jane Howard, Lorraine Mae Nicholson, Ruth Schenkle, Cush family members, Mayerhoffer family members, Ronnie Cunningham, Dorothy Schenken, Zelda Wightman, Jack Hodgson, and Elmer Hipsly, to name a few.</subfield>
     </datafield>
   </record>
 </marc:collection>

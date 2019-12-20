@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i1988    xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P020</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Colony Theatre Photograph Collection,</subfield>
-      <subfield code="f">1988</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box. The box was then placed in the DC Community Archives for long-term storage.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of sixteen 8x10 black &amp; white images. Frederick Figall took all the photographs. The images are of the exterior and interior of the Colony Theatre, which was located 4921 Georgia Avenue, NW.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The theatre opened in 1926 and was designed by John J. Zink. In the 1940s and 1950s the single screen theatre was operated by Warner Brothers studio. In the mid-1970s the theatre housed the DC Black Repertory Theatre Company. After the company folded in the late 1970s the building remained vacant for more than a decade. In 1987 a group began an effort to convert the theatre into apartments, however several setbacks delayed the opening until 1995. The images in this collection are from the period in the 1980s when the theatre was vacant.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs. A hand written note on a paper entitled “Evaluation of the Colony House Theater” by Betty Bird indicates that it was received on April 29, 1988.</subfield>
+      <subfield code="a">Colony Theatre Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Photographs</subfield>
@@ -50,12 +18,31 @@
       <subfield code="a">Performing Arts</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P020</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The theatre opened in 1926 and was designed by John J. Zink. In the 1940s and 1950s the single screen theatre was operated by Warner Brothers studio. In the mid-1970s the theatre housed the DC Black Repertory Theatre Company. After the company folded in the late 1970s the building remained vacant for more than a decade. In 1987 a group began an effort to convert the theatre into apartments, however several setbacks delayed the opening until 1995. The images in this collection are from the period in the 1980s when the theatre was vacant.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs. A hand written note on a paper entitled “Evaluation of the Colony House Theater” by Betty Bird indicates that it was received on April 29, 1988.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of sixteen 8x10 black &amp; white images. Frederick Figall took all the photographs. The images are of the exterior and interior of the Colony Theatre, which was located 4921 Georgia Avenue, NW.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,54 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19981999xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">044</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Adams v. Clinton Collection,</subfield>
-      <subfield code="f">1998-1999</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.5</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The documents include approximately one-third of the materials at the time of the donation, which are before the U.S. District Court for D.C. The collection does not contain procedural documents and related documents such as “Friends of the Court” filings nor rebuttal arguments concerning the plaintiffs’ application for a 3-Judge court since the application was granted by the Court.  Also included are the original complaint, motions by various defendants to dismiss, oppositions to those motions, motions for summary judgment, and affidavits by historians Kenneth R. Bowling and Howard Gillette.  An annotated index to the complete set of documents prepared by Mr. LaRouche is contained in the collection. The documents are arranged chronologically with the index appearing first.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Adams v. Clinton case was brought in the US District Court for D.C. seeking full voter representation in Congress, equal treatment and protection from Congress, and autonomous local self-government under the Due Process Clause of the 5th Amendment of the United States Constitution.  The three judges of the DC District Court dismissed the case and in 2000 the US Supreme Court declined to review the case, affirming the lower court’s ruling that denied the Citizens of the District of Columbia congressional representation.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">George LaRouche, lead attorney for the plaintiffs in the Lois Adams, et al. [aka Twenty Citizens] v. William Jefferson Clinton donated selected pleadings from the case in April 1999.</subfield>
+      <subfield code="a">Adams v. Clinton Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Politics and government</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.5 linear feet; 1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">044</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Adams v. Clinton case was brought in the US District Court for D.C. seeking full voter representation in Congress, equal treatment and protection from Congress, and autonomous local self-government under the Due Process Clause of the 5th Amendment of the United States Constitution.  The three judges of the DC District Court dismissed the case and in 2000 the US Supreme Court declined to review the case, affirming the lower court’s ruling that denied the Citizens of the District of Columbia congressional representation.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">George LaRouche, lead attorney for the plaintiffs in the Lois Adams, et al. [aka Twenty Citizens] v. William Jefferson Clinton donated selected pleadings from the case in April 1999.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The documents include approximately one-third of the materials at the time of the donation, which are before the U.S. District Court for D.C. The collection does not contain procedural documents and related documents such as “Friends of the Court” filings nor rebuttal arguments concerning the plaintiffs’ application for a 3-Judge court since the application was granted by the Court.  Also included are the original complaint, motions by various defendants to dismiss, oppositions to those motions, motions for summary judgment, and affidavits by historians Kenneth R. Bowling and Howard Gillette.  An annotated index to the complete set of documents prepared by Mr. LaRouche is contained in the collection. The documents are arranged chronologically with the index appearing first.</subfield>
     </datafield>
   </record>
 </marc:collection>

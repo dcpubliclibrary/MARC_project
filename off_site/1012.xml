@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i18811962xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Karl Fenning Papers</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">4.5 linear feet; 4 boxes</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">074</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Karl Fenning Papers,</subfield>
-      <subfield code="f">1881-1962</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">4.5</subfield>
-      <subfield code="f">linear feet; 4 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of personal and professional correspondence, professional publications, clippings, genealogical and biographical information, memorabilia and family photographs. The materials are divided into four series: Professional Papers, Personal Papers, Photographs, and Ephemera.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Karl Fenning was born in Washington, DC, on March 30, 1881, the only child of James and Annie Dey Fenning (he had an older, half brother, Frederick A. Fenning). He attended Central High School in Washington, DC, and went on to Trinity College in Hartford, Conn., where he earned a bachelor’s degree in 1903. He then returned to Washington, DC to attend law school at National University and Columbian (now George Washington) University. Fenning practiced law in Washington, DC from 1904-1906, in New York City from 1906-1911, and in Cleveland from 1911-1921. On June 7, 1917, he married Hazel O’Neil. In 1921 President Harding appointed Fenning Assistant Commissioner of Patents, and in 1925 he was appointed Special Assistant to the Attorney General, a position in which he served until 1928. From 1923 until 1946 Fenning was a professor of patent law at Georgetown University. He died February 28, 1963 in Washington, DC.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Frederick F. Wright, grandnephew of Karl Fenning, donated the collection to the DC Community Archives. The donation was originally made in July 2006, with subsequent donations in September 2006.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Karl Fenning was born in Washington, DC, on March 30, 1881, the only child of James and Annie Dey Fenning (he had an older, half brother, Frederick A. Fenning). He attended Central High School in Washington, DC, and went on to Trinity College in Hartford, Conn., where he earned a bachelor’s degree in 1903. He then returned to Washington, DC to attend law school at National University and Columbian (now George Washington) University. Fenning practiced law in Washington, DC from 1904-1906, in New York City from 1906-1911, and in Cleveland from 1911-1921. On June 7, 1917, he married Hazel O’Neil. In 1921 President Harding appointed Fenning Assistant Commissioner of Patents, and in 1925 he was appointed Special Assistant to the Attorney General, a position in which he served until 1928. From 1923 until 1946 Fenning was a professor of patent law at Georgetown University. He died February 28, 1963 in Washington, DC.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Frederick F. Wright, grandnephew of Karl Fenning, donated the collection to the DC Community Archives. The donation was originally made in July 2006, with subsequent donations in September 2006.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of personal and professional correspondence, professional publications, clippings, genealogical and biographical information, memorabilia and family photographs. The materials are divided into four series: Professional Papers, Personal Papers, Photographs, and Ephemera.</subfield>
     </datafield>
   </record>
 </marc:collection>

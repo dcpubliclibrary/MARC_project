@@ -1,40 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181003i        xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">VF.001</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Washingtoniana Vertical File Index,</subfield>
-      <subfield code="f">Undated</subfield>
+      <subfield code="a">Washingtoniana Vertical File Index</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">600</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Vertical files are news clippings, brochures, pamphlets and other documents placed in folders based on subject headings. Examples of the headings include Residential Sections, Politics and Government, Colleges and Universities, to name a few. As with the book collection, the files cover all subjects related to the District of Columbia: social, economic, cultural, recreational, political, and historical. .</subfield>
+      <subfield code="a">600 Linear feet</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="544">
-      <subfield code="d">Also see the Artificial Collection for rare historical items that have been removed from the Vertical Files. In addition, vertical files related to Georgetown history are housed in the Peabody Room at the Georgetown Neighborhood Library.</subfield>
+      <subfield code="a">Also see the Artificial Collection for rare historical items that have been removed from the Vertical Files. In addition, vertical files related to Georgetown history are housed in the Peabody Room at the Georgetown Neighborhood Library.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Vertical files are news clippings, brochures, pamphlets and other documents placed in folders based on subject headings. Examples of the headings include Residential Sections, Politics and Government, Colleges and Universities, to name a few. As with the book collection, the files cover all subjects related to the District of Columbia: social, economic, cultural, recreational, political, and historical. </subfield>
     </datafield>
   </record>
 </marc:collection>

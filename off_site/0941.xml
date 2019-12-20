@@ -1,50 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19651982xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">002</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">District of Columbia Citizens for Better Public Education (DCCBPE) Records,</subfield>
-      <subfield code="f">1965-1982</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">07</subfield>
-      <subfield code="f">linear feet; 15 boxes</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The DCCBPE was organized in 1964 to assess educational needs in the District and to lobby for educational improvements before the U.S. Congress and local government officials. DCCBPE's first public meeting was held on March 28, 1965 at Rankin Chapel, Howard University, with then U.S. Attorney General Robert F. Kennedy as the keynote speaker.  The organization was involved in many of the major issues affecting public education during the 1960s and 1970s, including decentralization of the school superintendent's authority, de facto segregation, D.C. home rule, and student rights.  One of its more successful programs was Reading is Fundamental (RIF)  which provided free books to students and was headed by Mrs. Robert McNamara, wife of the Secretary of Defense.  RIF programs eventually spread nationwide. DCCBPE also hosted an Annual Awards Dinner, which honored persons who made exceptional contributions to public education, including Julius Hobson in 1973.  DCCBPE ceased operations in 1984.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The Records were donated by Miles Mark Fisher, IV, President of District of Columbia Citizens for Better Public Education (DCCBPE) in 1984.</subfield>
+      <subfield code="a">District of Columbia Citizens for Better Public Education (DCCBPE) Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Education</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Reading Is Fundamental, Inc.</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Public schools</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Associations, institutions, etc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">People with disabilities</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Special education</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">7 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">15 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">002</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The District of Columbia Citizens for Better Public Education (DCCBPE) was organized in 1964 to assess educational needs in the District and to lobby for educational improvements before the United States Congress and local government officials. DCCBPE’s first public meeting was held on March 28, 1965 at Rankin Chapel on the campus of Howard University, with United States Attorney General Robert F. Kennedy as the keynote speaker. The organization was involved in many major issues affecting public education in the District during the 1960s and 1970s, including decentralization of the school superintendent’s authority, de facto segregation, Home Rule efforts, and student rights. DCCBPE founded  the Reading is Fundamental (RIF) program headed by Margaret McNamara (wife of Robert McNamara, Secretary of Defence) RIF provided free books to students and eventually spread nationwide giving away books to millions of children. DCCBPE also hosted an annual awards dinner, which honored persons who made exceptional contributions to public education. DCCBPE ceased operations in 1984. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The records were donated to the Library by Miles Mark Fisher, IV, 1984 President of the District of Columbia Citizens for Better Public Education (DCCBPE).</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection contains District of Columbia Citizens for Better Public Education (DCCBPE) annual and board of directors’ meeting minutes, administrative directives, legislative testimony, financial reports, and copies of the organization’s newsletter, the Bulletin Board. Other materials included are numerous studies and reports sponsored by DCCBPE including Student Responsibilities and Rights, A Quest for Educational Opportunity in a Major Urban School District, and Creating Resource Allocation System. </subfield>
     </datafield>
   </record>
 </marc:collection>

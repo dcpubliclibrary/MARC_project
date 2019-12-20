@@ -1,49 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19601978xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">036</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Emergency Committee on the Transportation Crisis Records,</subfield>
-      <subfield code="f">1960-1978</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">42.5</subfield>
-      <subfield code="f">linear feet; 46 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The records consists of 42.5 linear feet of correspondence, clippings, government reports, legislative testimony, hearing transcripts, litigation, flyers, posters, cartographic materials, picket signs, press releases, and printed matter.  Significant topics covered in the records include the fight to stop the construction of the Seven Sisters Bridge, I-66, I-95, the North Central Freeway, and the fight to save 69 government-confiscated homes in Northeast Washington, D.C.
-
-The records contain a substantial volume of cartographic materials and because of the activist nature of ECTC, the records also include a large quantity of picket signs and flyers created by its members, particularly the artistic Sam Abbott. Information about or from other local and national grassroots organizations involved in efforts to halt freeway construction appears in the records. A sample of these organizations include: the National Committee on the Transportation Crisis, the Upper North East Coordinating Council, Brookland Civic Association, and the Catholic Interracial Council.   Clippings cover D.C. and other urban areas working to block the constructions of freeways.  Articles and other writings in the records are about not only the interstate highway system and urban transportation but also such issues as civil rights, urban renewal, and the environment.     The collection is divided into 12 series.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">From the 1950s through the 1970s various plans were devised by local and federal agencies to build a comprehensive urban expressway system to link D.C. to the national interstate highway system.  The Emergency Committee on the Transportation Crisis (ECTC) grew out of the efforts of residents in northeast Washington, D.C. and Maryland who in the 1960s began working to prevent government confiscation of homes in their neighborhoods in the path of the freeway. 
-
-ECTC was particularly active in lobbying public officials and testifying at hearings to prevent the building of the North Central Freeway through the District and before Congress to curtail funding for highway construction.  Through its local organizing efforts, ECTC eventually spurred the formation of the National Coalition on the Transportation Crisis, which coordinated similar grassroots movements throughout the nation.  As a grassroots organization, ECTC relied heavily on public demonstrations, rallies and meetings to gain support for its cause in the late 1960s.  In particular, ECTC was involved in a prolonged demonstration and sit-in at the construction site of the Three Sisters Bridge, held rallies to protest confiscation of homes in Brookland, and picketed Mayor Walter Washington's home in opposition to support of freeway construction.  ECTC was interested in a number of related issues such as urban planning, environmental issues, home rule, D.C. statehood, and good race relations.   It also strongly supported a metrorail system as an alternative to freeways. 
-
-Eventually the Southwest/Southeast Freeway, the 14th Street Bridge, and Anacostia Freeway were the only highways built in D.C. that directly linked to I-95.  The Capital Beltway and Metrorail rather than freeways have became the primary mode of transportation for most D.C. metro area residents.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Angela Rooney donated the records to the D.C. Community Archives in the 1990s.  Mrs. Rooney along with her husband, Thomas Rooney, were key leaders in ECTC in the late 1960s.</subfield>
+      <subfield code="a">Emergency Committee on the Transportation Crisis Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Housing</subfield>
@@ -53,12 +18,57 @@ Eventually the Southwest/Southeast Freeway, the 14th Street Bridge, and Anacosti
       <subfield code="a">Neighborhoods</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Transportation</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Community organization</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Political activists</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Urban renewal</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Eminent domain</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Brookland (Washington, D.C.)</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">72 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">23.5 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">036</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">From the 1950s through the 1970s various plans were drafted by local and federal agencies to build a comprehensive urban expressway to link D.C. to the national interstate highway system. In the 1960s The Emergency Committee on the Transportation Crisis (ECTC) grew out of the efforts of residents in northeast D.C. and Maryland who organized to prevent government confiscation of homes in the path of the freeway. ECTC lobbied public officials; and testified at hearings to prevent the building of the North Central Freeway through D.C and before Congress to curtail funding for highway construction. ECTC spurred the formation of the National Coalition on the Transportation Crisis, which coordinated similar grassroots movements throughout the nation. As a grassroots organization, ECTC relied on public demonstrations, rallies, and meetings to gain support for its cause in the late 1960s. In particular, ECTC was involved in a prolonged demonstration and sit-in at the construction site of the Three Sisters Bridge, held rallies to protest confiscation of homes in the Brookland neighborhood of D.C., and picketed Mayor Walter Washington's home in opposition of freeway construction. ECTC was interested in a number of related issues such as urban planning, environmental issues, home rule, D.C. statehood, and civil rights. It also supported a metrorail system as an alternative to freeways. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Angela Rooney donated the records in the 1990s. Mrs. Rooney along with her husband, Thomas Rooney, were key leaders in ECTC in the late 1960s. </subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The items include correspondence, clippings, government reports, legislative testimony, hearing transcripts, litigation, flyers, posters, maps, picket signs, press releases, and printed matter. Significant topics covered in the records include the fight to stop the construction of the Seven Sisters Bridge, I-66, I-95, the North Central Freeway, and the fight to save 69 government-confiscated homes in Northeast Washington, D.C.Information about or from other local and national grassroots organizations involved in efforts to halt freeway construction appears in the records inlcuding: National Committee on the Transportation Crisis, Upper North East Coordinating Council, Brookland Civic Association, and Catholic Interracial Council. Clippings and articles cover D.C. and other urban areas working to block the construction of freeways, and other writings covering civil rights, urban renewal, and environmental issues. </subfield>
     </datafield>
   </record>
 </marc:collection>

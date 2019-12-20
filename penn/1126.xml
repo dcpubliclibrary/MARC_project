@@ -1,56 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i18782011xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">147</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Lucy G. Barber Collection,</subfield>
-      <subfield code="f">1878-2011</subfield>
+      <subfield code="a">Lucy G. Barber Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">36.25</subfield>
-      <subfield code="f">linear feet; 27 boxes</subfield>
+      <subfield code="a">36.25 linear feet; 27 boxes</subfield>
     </datafield>
-    <datafield ind1="3" ind2=" " tag="520">
-      <subfield code="a">The Lucy G. Barber Collection contains the research Barber conducted for the publication of Marching on Washington: The Forging of an American Political Tradition. In her book, Barber showcases how protesting in D.C. against wars or injustice become an American political norm. Research topics include Jacob Coxey's army, the Civil Rights Movement, Million Man March, Veterans Against the Vietnam War, and Woman Suffrage, among others.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The Lucy G. Barber Collection is comprised of research files for Barber's book, Marching on Washington: The Forging of an American Political Tradition. Research topics include Jacob Coxey's army, the Civil Rights Movement, Million Man March, Veterans Against the Vietnam War, and Woman Suffrage, among others.</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="540">
       <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Lucy G. Barber Collection contains the research Barber conducted for the publication of Marching on Washington: The Forging of an American Political Tradition. In her book, Barber showcases how protesting in D.C. against wars or injustice become an American political norm. Barber shows how such highly visible events contributed to the development of a broader and more inclusive view of citizenship and transformed the capital from the exclusive domain of politicians and officials into a national stage for Americans to participate directly in national politics. Included in her research, are her findings regarding the March on Washington for Jobs and Justice on August 28, 1963. Barber was a 1984 Truman Scholar and received her B.A. in History from Haverford College in 1986 and her Ph.D. in History from Brown University in 1996. In 1995, she joined the faculty as an assistant professor in the history department at the University of California, Davis. In 2001, Barber left UC Davis for a position as an archivist at the California State Archives, where she worked on the online catalog project and began its electronic records efforts. In 2006 she was named Director for Technology Initiatives at the NHPRC, overseeing policy and grants for archival projects, especially those involving digitizing of historical materials, preservation of electronic records, and development of new tools and training programs.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
     <datafield ind1="1" ind2=" " tag="561">
       <subfield code="a">Gift of Lucy Barber, 2013.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Lucy G. Barber Collection contains the research Barber conducted for the publication of Marching on Washington: The Forging of an American Political Tradition. In her book, Barber showcases how protesting in D.C. against wars or injustice become an American political norm. Barber shows how such highly visible events contributed to the development of a broader and more inclusive view of citizenship and transformed the capital from the exclusive domain of politicians and officials into a national stage for Americans to participate directly in national politics. Included in her research, are her findings regarding the March on Washington for Jobs and Justice on August 28, 1963. Barber was a 1984 Truman Scholar and received her B.A. in History from Haverford College in 1986 and her Ph.D. in History from Brown University in 1996. In 1995, she joined the faculty as an assistant professor in the history department at the University of California, Davis. In 2001, Barber left UC Davis for a position as an archivist at the California State Archives, where she worked on the online catalog project and began its electronic records efforts. In 2006 she was named Director for Technology Initiatives at the NHPRC, overseeing policy and grants for archival projects, especially those involving digitizing of historical materials, preservation of electronic records, and development of new tools and training programs.</subfield>
     </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Lucy G. Barber Collection is comprised of research files for Barber's book, Marching on Washington: The Forging of an American Political Tradition. Research topics include Jacob Coxey's army, the Civil Rights Movement, Million Man March, Veterans Against the Vietnam War, and Woman Suffrage, among others.</subfield>
     </datafield>
   </record>
 </marc:collection>

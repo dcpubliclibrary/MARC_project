@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i19931997xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP014</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Service Workers Union - SEIU Local 82 Oral History Project,</subfield>
-      <subfield code="f">1993 - 1997</subfield>
+      <subfield code="a">Service Workers Union - SEIU Local 82 Oral History Project</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1.25</subfield>
-      <subfield code="f">Linear feet</subfield>
+      <subfield code="a">1.25 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">Service Employees International Local 82 conducted these interviews between 1993 and 1997, and donated the tapes and transcripts to the Library in the late 1990s. There is no deed of gift for this collection, but all interviewee releases are granted to the Library.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Service Employees International Union has always sought to organize workers in a wide range of occupations. Beginning with janitors and elevator operators when it formed in 1921, SEIU soon added security guards, window cleaners, health care workers, office workers and public sector employees. By 1968, the union represented service workers in over 100 occupations around the nation.</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="500">
       <subfield code="a">Processing Information: After the initial donation to the Library, the transcripts were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were placed a cabinet for patron use. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed. Audio cassettes were organized and boxed. All administrative documents, including releases, were placed into the control file. There is no 14-01 tape or transcript for this collection.</subfield>
@@ -35,19 +31,6 @@
     </datafield>
     <datafield ind1=" " ind2=" " tag="540">
       <subfield code="a">The Library holds copyright for items in this collection with a signed release. There are no restrictions on the use of these collection materials. Reproduction of an oral history without a signed release is not permitted.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">Service Employees International Local 82 conducted these interviews between 1993 and 1997, and donated the tapes and transcripts to the Library in the late 1990s. There is no deed of gift for this collection, but all interviewee releases are granted to the Library.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Service Employees International Union has always sought to organize workers in a wide range of occupations. Beginning with janitors and elevator operators when it formed in 1921, SEIU soon added security guards, window cleaners, health care workers, office workers and public sector employees. By 1968, the union represented service workers in over 100 occupations around the nation.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="7" tag="650">
-      <subfield code="a">Oral History</subfield>
-      <subfield code="2">Library of Congress Subject Headings</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
     </datafield>
   </record>
 </marc:collection>

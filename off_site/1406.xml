@@ -1,59 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i20052007xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP.027</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Ivy City Oral History Project Collection,</subfield>
-      <subfield code="f">2005-2007</subfield>
+      <subfield code="a">Ivy City Oral History Project Collection</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Photographs</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.25</subfield>
-      <subfield code="f">linear feet; 1 boxes</subfield>
+      <subfield code="a">0.25 linear feet; 1 boxes</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="351">
-      <subfield code="a">This collection is housed in one box, 0.25 linear feet, and contains two series. The first series is organized alphabetically by last name of interviewee on the CD (some CDs contain multiple interviews, and group interviews), and contains 23 folders. The second series contains color 4”x6” photographs of some of the interviewees.</subfield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">OHP-027</subfield>
     </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Between 2005 and 2007, Ingrid Drake coordinated the Ivy City Oral History Project. In collaboration with the youth of Ivy City Achievers, she interviewed and supervised interviews with residents of the Ivy City neighborhood of Washington, DC. The Oral History Project was part of a larger initiative of Empower DC, a grassroots nonprofit in Washington, DC, called the Ivy City Neighborhood and Oral History Project, which began in 2004. The larger initiative arose from a plan to preserve Alexander Crummell School in the Ivy City neighborhood; Empower DC receiving funding for their efforts to document Ivy City’s history from the Humanities Council of Washington, DC. The resulting interviews were published in Ivy City Neighborhood and Oral History Project Booklet, an Empower DC project, accessible at http://wdchumanities.org/dcdm/items/show/1356 and http://empowerdc.org/wp-content/uploads/2016/05/Ivy-City-History-Project-Booklet.pdf. Additionally, Ingrid Drake produced a radio show for WPFW 89.3 FM of the final interviews. 
-The Ivy City Oral History Project interviewees discuss a history of black migration to Ivy City from the South; work histories; Ivy City memories; neighborhood churches; Sparrow’s Beach, a private beach in Annapolis, MD for black vacationers during segregation; Alexander Crummell Elementary School; the DC riots; changes in the neighborhood over time; drug use in the 1970s; Ivy City activism; gentrification; housing advocacy; Empower DC; and the future of Ivy City. 
-
-The Ivy City Oral History Project collection is comprised of 23 audio CDs (21 CDs of interviews of 24 people, plus one CD of transcripts in the form of 16 Word [97-2003 version] documents of 19 interviews, and one CD of the final radio show), and 11 color 4”x6” photographs of 13 of the 24 interviewees. There are no transcripts for some interviewees. The radio show contains snippets of interviews interwoven with popular commercially recorded music. 
-
-Interviewed are 24 people: Aaron Aylor, Charles H. Brown, Alfred Coates, Theodore Coates (d. March 5, 2010), Clifford Coulson (d. May 6, 2014), Lula “Jackie” Council, Erica Crews, Okia Ferguson, Remetter Freeman, Dorothy “Nicey” Gary (d. October 13, 2010), Eleanor Grant, Sarah Parker Hunter, Marjorie Jones, Aujeneah Milner, Joel McPherson, Mohammed Mobaidin, Parisa Norouzi, Audrey Ray, Margaret Rice (d. February 7, 2016), Elaine Smith, Kenneth Tapscott, Romaine Thomas, Charlotte Tyner (d. October 25, 2011) and Daisy Wroten.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="544">
-      <subfield code="d">The information in the interviews was used in a book, African Americans and Gentrification in Washington, DC: Race, Class and Social Justice in the Nation’s Capital, by Sabhiya Prince (New York: Routledge, 2014).</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Ingrid Drake, CGAP (Certified Government Auditing Professional), is a program analyst with the Office of District of Columbia Auditor (ODCA). Previously she was an investigator for the Washington-based nonprofit Project On Government Oversight (POGO); and was a writer, Pacifica Radio correspondent, and community educator living in Washington, DC. In 2007 at the time of gift, she was a local DC journalist, writing for several outlets: DC North, East of the River, Hill Rag, DC Radio Co-op, www.DCIndymedia.org, WPFW 89.3 FM - Pacifica Radio, and Free Speech Radio News. Contact info: IngridNatasha@yahoo.com. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Ingrid Drake, CGAP (Certified Government Auditing Professional), is a program analyst with the Office of District of Columbia Auditor (ODCA). Previously she was an investigator for the Washington-based nonprofit Project On Government Oversight (POGO); and was a writer, Pacifica Radio correspondent, and community educator living in Washington, DC. In 2007 at the time of gift, she was a local DC journalist, writing for several outlets: DC North, East of the River, Hill Rag, DC Radio Co-op, www.DCIndymedia.org, WPFW 89.3 FM - Pacifica Radio, and Free Speech Radio News. Contact info: IngridNatasha@yahoo.com. </subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Between 2005 and 2007, Ingrid Drake coordinated the Ivy City Oral History Project. In collaboration with the youth of Ivy City Achievers, she interviewed and supervised interviews with residents of the Ivy City neighborhood of Washington, DC. The Oral History Project was part of a larger initiative of Empower DC, a grassroots nonprofit in Washington, DC, called the Ivy City Neighborhood and Oral History Project, which began in 2004. The larger initiative arose from a plan to preserve Alexander Crummell School in the Ivy City neighborhood; Empower DC receiving funding for their efforts to document Ivy City’s history from the Humanities Council of Washington, DC. The resulting interviews were published in Ivy City Neighborhood and Oral History Project Booklet, an Empower DC project, accessible at http://wdchumanities.org/dcdm/items/show/1356 and http://empowerdc.org/wp-content/uploads/2016/05/Ivy-City-History-Project-Booklet.pdf. Additionally, Ingrid Drake produced a radio show for WPFW 89.3 FM of the final interviews. The Ivy City Oral History Project interviewees discuss a history of black migration to Ivy City from the South; work histories; Ivy City memories; neighborhood churches; Sparrow’s Beach, a private beach in Annapolis, MD for black vacationers during segregation; Alexander Crummell Elementary School; the DC riots; changes in the neighborhood over time; drug use in the 1970s; Ivy City activism; gentrification; housing advocacy; Empower DC; and the future of Ivy City. The Ivy City Oral History Project collection is comprised of 23 audio CDs (21 CDs of interviews of 24 people, plus one CD of transcripts in the form of 16 Word [97-2003 version] documents of 19 interviews, and one CD of the final radio show), and 11 color 4”x6” photographs of 13 of the 24 interviewees. There are no transcripts for some interviewees. The radio show contains snippets of interviews interwoven with popular commercially recorded music. Interviewed are 24 people: Aaron Aylor, Charles H. Brown, Alfred Coates, Theodore Coates (d. March 5, 2010), Clifford Coulson (d. May 6, 2014), Lula “Jackie” Council, Erica Crews, Okia Ferguson, Remetter Freeman, Dorothy “Nicey” Gary (d. October 13, 2010), Eleanor Grant, Sarah Parker Hunter, Marjorie Jones, Aujeneah Milner, Joel McPherson, Mohammed Mobaidin, Parisa Norouzi, Audrey Ray, Margaret Rice (d. February 7, 2016), Elaine Smith, Kenneth Tapscott, Romaine Thomas, Charlotte Tyner (d. October 25, 2011) and Daisy Wroten.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="544">
+      <subfield code="a">The information in the interviews was used in a book, African Americans and Gentrification in Washington, DC: Race, Class and Social Justice in the Nation’s Capital, by Sabhiya Prince (New York: Routledge, 2014).</subfield>
     </datafield>
   </record>
 </marc:collection>

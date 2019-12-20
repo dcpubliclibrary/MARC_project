@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19391961xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">055</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Home Rule Committee Collection,</subfield>
-      <subfield code="f">1939-1961</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of meeting minutes, correspondence, congressional testimony, by-laws, pamphlets, a history of the Committee, political pins and stickers, and clippings.  There is a separate folder of materials donated by Mrs. Bogdonoff. Folders are arranged alphabetically by topic.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Influential Washington, D.C. residents established the Home Rule Committee sometime in 1953.  Members included Democratic political activist Daisy Harriman, museum director Duncan Phillips, businessman Frank Jelleff, and Washington Post publisher Phillip Graham.  Members testified in Congress, wrote letters to the editors, picketed, and lobbied in support of home rule for the District.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The materials were removed from the vertical file to ensure preservation.  Mrs. Samuel (Annabel) Bogdonoff who was a member of the Board, Arthur Newmeyer and Gary Abramson originally donated the materials to the Library.</subfield>
+      <subfield code="a">Home Rule Committee Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Politics and government</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a"> Home rule</subfield>
+      <subfield code="x">Washington (D.C.)</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Suffrage</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.5 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">055</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">In 1953 Washington, D.C. residents established the Home Rule Committee to flex their social influence into greater attention to home rule. Members included Democratic political activist Daisy Harriman, museum director Duncan Phillips, businessman Frank Jelleff, and Washington Post publisher Phillip Graham. Members organized dinners and parties; testified in Congress; wrote letters to the editors; picketed; and lobbied in support of home rule for the District. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The materials were removed from the Washingtoniana Vertical File Collection to ensure their preservation. Annabel Bogdonoff, former secretary to the board of directors of the Home Rule Committee, Arthur Newmeyer, and Gary Abramson donated the materials to the DC Public Library.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="544">
+      <subfield code="a">Washingtoniana Vertical Files Artificial and Ephemera Collection (060) Statehood Commission Collection (048) Julius Hobson Collection (001)  Self Determination for D.C. National Coalition Collection (003) Harry S. Wender Collection (009) League of Women Voters of D.C. Collection (033) Oral History Collections 13 and 18</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The materials include meeting minutes; correspondence; congressional testimony; by-laws; pamphlets; a history of the Home Rule Committee; political pins and stickers; and clippings. Folders are arranged alphabetically by topic.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19271930xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">050</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Sidney Taliaferro Scrapbooks Collection,</subfield>
-      <subfield code="f">1927-1930</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.6</subfield>
-      <subfield code="f">linear feet; 3 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The scrapbooks consist primarily of clippings that highlight Mr. Taliaferro’s activities while he was Commissioner of the District from 1926-1930. The scrapbooks also contain programs, letters, tickets, invitations, and other memorabilia regarding Herbert Hoover’s inauguration in 1929; original signed letters from President Hoover, Taliaferro, local D.C. officials, and citizen groups; and a number of programs and typewritten remarks/speeches of Mr. Taliaferro from social, political, and civic events in which he participated.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Sidney F. Taliaferro was born in Salem, Virginia in 1885 and began his working career as an office boy when he was 13.  In 1899, Taliaferro moved to Washington where he worked as an insurance agent while he attended night school at Georgetown University Law School. After graduation, he practiced law and earned a respected reputation representing railroad companies.  In 1926 he was appointed D.C. Commissioner by Calvin Coolidge and served until 1930 when he resigned to join the Riggs National Bank as a vice president and trust officer until he retired in 1950.  Mr. Taliaferro was also very active in civic affairs.  He was director of the Washington Gas Light Company for many years, and served on many public and corporate boards, including the public utilities commission, zoning commission, board of public welfare, Boys Club of Washington, YWCA, Salvation Army, Group Hospitalization, Julius Garfinkel Company, and Brooks Brothers.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
+      <subfield code="a">Sidney Taliaferro Scrapbooks Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Washington (D.C.)</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.6 linear feet; 3 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">050</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Sidney F. Taliaferro was born in Salem, Virginia in 1885 and began his working career as an office boy when he was 13.  In 1899, Taliaferro moved to Washington where he worked as an insurance agent while he attended night school at Georgetown University Law School. After graduation, he practiced law and earned a respected reputation representing railroad companies.  In 1926 he was appointed D.C. Commissioner by Calvin Coolidge and served until 1930 when he resigned to join the Riggs National Bank as a vice president and trust officer until he retired in 1950.  Mr. Taliaferro was also very active in civic affairs.  He was director of the Washington Gas Light Company for many years, and served on many public and corporate boards, including the public utilities commission, zoning commission, board of public welfare, Boys Club of Washington, YWCA, Salvation Army, Group Hospitalization, Julius Garfinkel Company, and Brooks Brothers.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The scrapbooks consist primarily of clippings that highlight Mr. Taliaferro’s activities while he was Commissioner of the District from 1926-1930. The scrapbooks also contain programs, letters, tickets, invitations, and other memorabilia regarding Herbert Hoover’s inauguration in 1929; original signed letters from President Hoover, Taliaferro, local D.C. officials, and citizen groups; and a number of programs and typewritten remarks/speeches of Mr. Taliaferro from social, political, and civic events in which he participated.</subfield>
     </datafield>
   </record>
 </marc:collection>

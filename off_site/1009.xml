@@ -1,43 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19401952xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">071</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Washington Music Teachers Association Scrapbooks Collection,</subfield>
-      <subfield code="f">1940-1952</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1.5</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The materials in this collection consist of newsletters, correspondence, photographs, clippings, programs, and ballots.  The materials are bound in two volumes: Volume 2 covering the years 1940-1947 and Volume 3 covering the years 1947-1952.  Each year is separated by title sheets and begins with a photograph of the President of the Association.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The WMTA was founded in 1934 with an objective of “the promotion of the professional interests of the Music Teachers of Washington and its vicinity, by encouraging good fellowship in the profession, advancing the base of sound musical instruction, by clarifying ethical problems and furthering the general musical activities of the community.”  It remains an organization in Washington, DC to this day.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The materials in this collection were originally cataloged as Washingtoniana Reference materials.  They were removed from the reference stacks because of the unique nature of the materials in each volume.  As of August 2006, only volumes 2 and 3 of the Washington Music Teachers Association (WMTA).</subfield>
+      <subfield code="a">Washington Music Teachers Association Scrapbooks Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Music</subfield>
@@ -47,12 +18,31 @@
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1.5 linear feet; 1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">071</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The WMTA was founded in 1934 with an objective of “the promotion of the professional interests of the Music Teachers of Washington and its vicinity, by encouraging good fellowship in the profession, advancing the base of sound musical instruction, by clarifying ethical problems and furthering the general musical activities of the community.”  It remains an organization in Washington, DC to this day.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The materials in this collection were originally cataloged as Washingtoniana Reference materials.  They were removed from the reference stacks because of the unique nature of the materials in each volume.  As of August 2006, only volumes 2 and 3 of the Washington Music Teachers Association (WMTA).</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The materials in this collection consist of newsletters, correspondence, photographs, clippings, programs, and ballots.  The materials are bound in two volumes: Volume 2 covering the years 1940-1947 and Volume 3 covering the years 1947-1952.  Each year is separated by title sheets and begins with a photograph of the President of the Association.</subfield>
     </datafield>
   </record>
 </marc:collection>

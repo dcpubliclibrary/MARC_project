@@ -1,57 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i19632006xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">130</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Lawrence Guyot, Jr. Papers,</subfield>
-      <subfield code="f">1963-2006</subfield>
+      <subfield code="a">Lawrence Guyot, Jr. Papers</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">33</subfield>
-      <subfield code="f">cubic feet; 33 boxes</subfield>
+      <subfield code="a">33 cubic feet; 33 boxes</subfield>
     </datafield>
-    <datafield ind1="3" ind2=" " tag="520">
-      <subfield code="a">The Lawrence Guyot Jr. papers span from 1887 to 2012, with the bulk dating from 1963 to 2006. They document Guyot's involvement in D.C. government, particularly his time serving as Advisory Neighborhood Commissioner in the LeDroit Park neighborhood and as a program monitor for the D.C. Department of Human Services’ Office of Early Childhood Development. The papers address his activism for voting rights as well as neighborhood revitalization.</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
     </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The Lawrence Guyot, Jr. papers span from 1887 to 2012 with the bulk of the collection ranging from 1963 to 2006. The collection documents Guyot's involvement in D.C. government and activism for voting rights, neighborhood revitalization, as well as his time serving as Advisory Neighborhood Commissioner in the LeDroit Park neighborhood and as a program monitor for the D.C. Department of Human Services’ Office of Early Childhood Development. Documents include flyers, correspondence, reports, briefings, printed material and subjects that appear include the D.C. Board of Elections and Ethics, the D.C. Board of Zoning and Adjustments, the Council of D.C., the Advisory Neighborhood Commision, the Columbia Heights neighborhood, LeDroit Park, Howard University, and the Naitonal Capital Revitalization Corporation, among other subjects.</subfield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Gift of Lawrence Guyot Jr.'s daughter, Julie Guyot-Diangone, in 2013.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
+    <datafield ind1="1" ind2=" " tag="545">
       <subfield code="a">Lawrence Thomas Guyot Jr. was born in Pass Christian, Mississippi, on July 17, 1939. He attended Tougaloo College in Tougaloo, MS. Guyot earned degrees in both chemistry and biology. While in college, he became involved with the Student Nonviolent Coordinating Committee and traveled around the state conducting civil rights workshops and doing other organizing. Guyot was a vocal protester during the civil rights era beginning in the early 1960s. When Fannie Lou Hamer and two other activists were jailed in Winona, Mississippi for violating segregation laws when they sat in a train station reserved for whites, Guyot went to see that they be released. When Guyot asked why the trio had been mistreated, he was beaten and tortured for hours, and afterwards thrown into a cell. He was also jailed in the Mississippi State Penitentiary (also known as Parchman Farm).
 
 He chaired the Mississippi Freedom Democratic Party (MFDP). The gains made by the Mississippi Freedom Democratic Party assisted in the passage of the Voting Rights Act of 1965. By 1968, Mr. Guyot had full credentials to the national convention as a member of the Mississippi delegation.
 
 Guyot attended Rutgers School of Law and, after graduating in 1971, moved to Washington, where he did legal work for city agencies and was an informal adviser to Mayor Marion Barry. Guyot was a program monitor for the D.C. Department of Human Services’ Office of Early Childhood Development. He spent the rest of his life in D.C. in both local and federal government positions. He fought for reform in the most underserved neighborhoods in D.C., including LeDroit Park. He was a supporter of Howard University as well.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Gift of Lawrence Guyot Jr.'s daughter, Julie Guyot-Diangone, in 2013.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Lawrence Guyot, Jr. papers span from 1887 to 2012 with the bulk of the collection ranging from 1963 to 2006. The collection documents Guyot's involvement in D.C. government and activism for voting rights, neighborhood revitalization, as well as his time serving as Advisory Neighborhood Commissioner in the LeDroit Park neighborhood and as a program monitor for the D.C. Department of Human Services’ Office of Early Childhood Development. Documents include flyers, correspondence, reports, briefings, printed material and subjects that appear include the D.C. Board of Elections and Ethics, the D.C. Board of Zoning and Adjustments, the Council of D.C., the Advisory Neighborhood Commision, the Columbia Heights neighborhood, LeDroit Park, Howard University, and the Naitonal Capital Revitalization Corporation, among other subjects.</subfield>
     </datafield>
   </record>
 </marc:collection>

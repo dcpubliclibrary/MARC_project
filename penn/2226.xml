@@ -1,53 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i1980    xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP002</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Beacon College Celebración de la Mujer Latina Oral History Project,</subfield>
-      <subfield code="f">1980</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2.5</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: After the initial donation to the Library the files were foldered and placed into a filing cabinet. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy.  In 2014 the tapes, Transcripts and indexes were digitized. In 2017, the collection was reprocessed and the transcripts and indexes placed into appropriate archival storage and all administrative documents were move to the collection's control file. .</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">In 1981, Beacon College conducted a total of 17 oral history interviews with Latinas who had immigrated to Washington, D.C and settled in the Adams Morgan neighborhood.  Topics include childhood experiences in interviewees’ country of origin, immigration to Washington D.C., family structure, work and social experiences, comparison between their country and the United States, religion, and the Hispanic community in Washington. As stated in thier grant application, the project focused on the role these women played in the community and with the organization they represented. The project’s director was Barbara Zulli D’Emilio and the project was funded by a grant from the Humanities Council. The grant indicates that the project produced a slide show based on the interviews, but no slide show was donated to the Library. Indexes for the interviews are in both English and Spanish; transcripts and tapes are in Spanish. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission to publish or exhibit information.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">Beacon College conducted these interviews in 1980 and the tapes and transcripts were transferred to the Library without a deed of gift in the early 1980s. Following digitization, an effort was made to reach out to the project director to obtain additional information about the project and to have the collection formally transferred to the Library. A Deed of Gift was formally signed in 2018. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Beacon College was an independent higher educational institution licensed to award AA, BA and MA degrees. The college was founded in 1971 as a Campus-Free College in Boston, MA, but maintained an office in Washington DC on Ontario Road, NW. The "College has no buildings, teaching faculty, or course schedule which all learners must use. Instead, Beacon College students work with College appointed Program Advisors, in thier own communities, to develop their own degree curriculum plan and to achieve their own learning goals".</subfield>
+      <subfield code="a">Beacon College Celebración de la Mujer Latina Oral History Project</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Oral History</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2.5 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">In 1981, Beacon College conducted a total of 17 oral history interviews with Latinas who had immigrated to Washington, D.C and settled in the Adams Morgan neighborhood.  Topics include childhood experiences in interviewees’ country of origin, immigration to Washington D.C., family structure, work and social experiences, comparison between their country and the United States, religion, and the Hispanic community in Washington. As stated in thier grant application, the project focused on the role these women played in the community and with the organization they represented. The project’s director was Barbara Zulli D’Emilio and the project was funded by a grant from the Humanities Council. The grant indicates that the project produced a slide show based on the interviews, but no slide show was donated to the Library. Indexes for the interviews are in both English and Spanish; transcripts and tapes are in Spanish. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Beacon College was an independent higher educational institution licensed to award AA, BA and MA degrees. The college was founded in 1971 as a Campus-Free College in Boston, MA, but maintained an office in Washington DC on Ontario Road, NW. The "College has no buildings, teaching faculty, or course schedule which all learners must use. Instead, Beacon College students work with College appointed Program Advisors, in thier own communities, to develop their own degree curriculum plan and to achieve their own learning goals"</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">Beacon College conducted these interviews in 1980 and the tapes and transcripts were transferred to the Library without a deed of gift in the early 1980s. Following digitization, an effort was made to reach out to the project director to obtain additional information about the project and to have the collection formally transferred to the Library. A Deed of Gift was formally signed in 2018. </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial donation to the Library the files were foldered and placed into a filing cabinet. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy.  In 2014 the tapes, Transcripts and indexes were digitized. In 2017, the collection was reprocessed and the transcripts and indexes placed into appropriate archival storage and all administrative documents were move to the collection's control file. </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission to publish or exhibit information.</subfield>
     </datafield>
   </record>
 </marc:collection>

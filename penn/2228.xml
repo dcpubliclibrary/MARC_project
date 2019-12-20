@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i19761981xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP004</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Radcliffe College Black Women Oral History Project,</subfield>
-      <subfield code="f">1976 - 1981</subfield>
+      <subfield code="a">Radcliffe College Black Women Oral History Project</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.25</subfield>
-      <subfield code="f">Linear feet</subfield>
+      <subfield code="a">0.25 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">Radcliffe College conducted these oral histories between 1976 and 1981 and donated the transcripts for 8 D.C. related projects to the Library in the early 1980s. There is no deed of gift or correspondence related to this gift receipt.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Radcliffe College was a women's liberal arts college in Cambridge, Massachusetts and functioned as a female coordinate institution for the all-male Harvard College. A formal "non-merger merger" agreement with Harvard was signed in 1977, with full integration with Harvard completed in 1999. The Schlesinger Library on the campus of Radcliffe College was created in 1943 and seeks to document women's lives and endeavors. </subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="500">
       <subfield code="a">Processing Information: After the initial donation the Library gathered biographical information on the interviewees and placed that information into folders and placed into a filing cabinet. The bound transcript were cataloged and placed into the Washingtoniana book collection. During the digitization process for the Oral History Projects in 2014 it was discovered that the Schlesinger Library digitized these interviews and has made them available through their website. In 2017, the collection was reprocessed and the biographical information gathered on the interviewees were placed into appropriate archival storage, and all administrative documentation was moved to the control file. There are no audio recordings for this collection.</subfield>
@@ -35,19 +31,6 @@
     </datafield>
     <datafield ind1=" " ind2=" " tag="540">
       <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the Radcliffe Institute for Advanced Study to publish or exhibit information.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">Radcliffe College conducted these oral histories between 1976 and 1981 and donated the transcripts for 8 D.C. related projects to the Library in the early 1980s. There is no deed of gift or correspondence related to this gift receipt.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Radcliffe College was a women's liberal arts college in Cambridge, Massachusetts and functioned as a female coordinate institution for the all-male Harvard College. A formal "non-merger merger" agreement with Harvard was signed in 1977, with full integration with Harvard completed in 1999. The Schlesinger Library on the campus of Radcliffe College was created in 1943 and seeks to document women's lives and endeavors. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="7" tag="650">
-      <subfield code="a">Oral History</subfield>
-      <subfield code="2">Library of Congress Subject Headings</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
     </datafield>
   </record>
 </marc:collection>

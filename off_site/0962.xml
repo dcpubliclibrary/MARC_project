@@ -1,56 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19501980xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">023</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Dupont Park Civic Association Records,</subfield>
-      <subfield code="f">1950-1980</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.5</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Records from the Dupont Park Civic Association extend from 1963 through 1989.  The collection contains correspondence, by-laws of the association, newsletters, and minutes of monthly meetings. Significant items in the collection include monthly crime reports issued by the Sixth District, Jesse Jackson’s 1988 speech to seek the Democratic nomination for President, and the Far Northeast Council of Civic Association’s proposal for community action against poverty.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Dupont Park Civic Association was founded in the 1960s to combat neighborhood crime and to promote the civic welfare of the community.  The primary goals of the charter were neighborhood improvement, property maintenance, and increased police protection.  The association became involved with the Home Rule Committee in December of 1964 as well as the Far Northeast Council of Civic Associations (1965) in establishing a program for community action against poverty.  
-
-The crime-watch campaigns of the 1960s, which began with an increase of local police involvement, developed into the Neighborhood Watch committees of the 1980s. The association also became involved with the ANC 7D and other local civic associations to protest the District’s proposed creation of drug treatment facilities and homeless shelters within the surrounding residential boundaries.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The records were donated by Joseph A. Glover, a past president of the Dupont Park Civic Association in 1993.</subfield>
+      <subfield code="a">Dupont Park Civic Association Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.5 linear feet; 1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">023</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Dupont Park Civic Association was founded in the 1960s to combat neighborhood crime and to promote the civic welfare of the community.  The primary goals of the charter were neighborhood improvement, property maintenance, and increased police protection.  The association became involved with the Home Rule Committee in December of 1964 as well as the Far Northeast Council of Civic Associations (1965) in establishing a program for community action against poverty.  The crime-watch campaigns of the 1960s, which began with an increase of local police involvement, developed into the Neighborhood Watch committees of the 1980s. The association also became involved with the ANC 7D and other local civic associations to protest the District’s proposed creation of drug treatment facilities and homeless shelters within the surrounding residential boundaries.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The records were donated by Joseph A. Glover, a past president of the Dupont Park Civic Association in 1993.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Records from the Dupont Park Civic Association extend from 1963 through 1989.  The collection contains correspondence, by-laws of the association, newsletters, and minutes of monthly meetings. Significant items in the collection include monthly crime reports issued by the Sixth District, Jesse Jackson’s 1988 speech to seek the Democratic nomination for President, and the Far Northeast Council of Civic Association’s proposal for community action against poverty.</subfield>
     </datafield>
   </record>
 </marc:collection>

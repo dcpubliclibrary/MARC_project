@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i19581990xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">110</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Neighbors, Inc. Collection,</subfield>
-      <subfield code="f">1958-1990</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">34</subfield>
-      <subfield code="f">linear feet; 34 boxes</subfield>
-    </datafield>
-    <datafield ind1="3" ind2=" " tag="520">
-      <subfield code="a">The Neighbors, Inc. was founded in 1958 to promote integration in the Upper Northwest Washington, DC neighborhoods of Brightwood, Shepherd Park, and Takoma. Later, it expanded such efforts to all neighborhoods in Ward 4. Among the documents are administrative files, Advisory Neighborhood Commission files, Board of Directors files, budget and finance files, clippings, correspondence, membership meeting files, newsletters, pamphlets, real estate files, and information pertaining to events such as the Art and Book Festival.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The Neighbors, Inc. Records document the day-to-day business of approximately fifty years of the organization. Among the documents are administrative files, Advisory Neighborhood Commission files, Board of Directors files, budget and finance files, clippings, correspondence, membership meeting files, newsletters, pamphlets, real estate files, and information pertaining to events such as the Art and Book Festival.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Neighbors, Inc. was founded in 1958 to promote integration in neighborhoods in the Upper Northwest Washington, DC neighborhoods of Brightwood, Manor Park, Shepherd Park, and Takoma. Later, efforts were expanded to include all neighborhoods in Ward 4. Northwest Washington Neighbors, Inc. was founded by a group of activists committed to integration and fair housing. The activists had worked with a similar group in Southeast DC. With the help and advice of the SE Neighbors, Inc., they formed the organization that foucused the attention of city officials and the local press on their communities and demonstrated the difficulty in fighting the forces that threatened to destroy their neighborhoods. After schools desegregated with the 1954 U.S. Supreme Court Brown vs. Board of Education decision, there was a "white flight" to the suburbs. This mass movement was encouraged by unscrupulous real estate agents who threatened to purchase houses at low prices by falsely warning residents that their value of their homes would decline or their schools would deteriorate. Methods to accomplish this included renting small houses to large families and telling neighbors that the families had purchased the home. Neighbors, Inc. responded with a two-pronged approach. Using active committees, they found reputable real estate agents who would sell to all homebuyers (white and African American) without discrimination. Integration became more commonplace, the threat of re-segregation lessened, and real estate values continued to rise. The city opened access to secondary schools throughout the District, lessening the pressure to keep residents focused on neighborhood schools. The organization still exists today and has expanded its concentration on local politics, neighborhood revitalization, park and recreation engagement, and citizen engagement.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
+      <subfield code="a">Neighbors, Inc. Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
@@ -49,12 +17,20 @@
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Associations, institutions, etc</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">34 linear feet; 34 boxes</subfield>
     </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Neighbors, Inc. was founded in 1958 to promote integration in neighborhoods in the Upper Northwest Washington, DC neighborhoods of Brightwood, Manor Park, Shepherd Park, and Takoma. Later, efforts were expanded to include all neighborhoods in Ward 4. Northwest Washington Neighbors, Inc. was founded by a group of activists committed to integration and fair housing. The activists had worked with a similar group in Southeast DC. With the help and advice of the SE Neighbors, Inc., they formed the organization that foucused the attention of city officials and the local press on their communities and demonstrated the difficulty in fighting the forces that threatened to destroy their neighborhoods. After schools desegregated with the 1954 U.S. Supreme Court Brown vs. Board of Education decision, there was a "white flight" to the suburbs. This mass movement was encouraged by unscrupulous real estate agents who threatened to purchase houses at low prices by falsely warning residents that their value of their homes would decline or their schools would deteriorate. Methods to accomplish this included renting small houses to large families and telling neighbors that the families had purchased the home. Neighbors, Inc. responded with a two-pronged approach. Using active committees, they found reputable real estate agents who would sell to all homebuyers (white and African American) without discrimination. Integration became more commonplace, the threat of re-segregation lessened, and real estate values continued to rise. The city opened access to secondary schools throughout the District, lessening the pressure to keep residents focused on neighborhood schools. The organization still exists today and has expanded its concentration on local politics, neighborhood revitalization, park and recreation engagement, and citizen engagement.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Neighbors, Inc. Records document the day-to-day business of approximately fifty years of the organization. Among the documents are administrative files, Advisory Neighborhood Commission files, Board of Directors files, budget and finance files, clippings, correspondence, membership meeting files, newsletters, pamphlets, real estate files, and information pertaining to events such as the Art and Book Festival.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
     </datafield>
   </record>
 </marc:collection>

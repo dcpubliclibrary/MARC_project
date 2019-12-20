@@ -1,43 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i18201987xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P026</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Washingtoniana Slide Collection,</subfield>
-      <subfield code="f">1820-1987</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">8</subfield>
-      <subfield code="f">boxes</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: Slides were originally stored in various filing cabinets, folders and boxes throughout Washingtoniana. In 2005, many of the loose images, including slides were gathered together and permanent storage location was found for each image. It was decided that the slides would be moved to the DC Community Archives for long-term storage. The slides were combined with several other smaller slide collections. Each image was assigned a number and placed in an archival storage box. Numbers in thousand increments were used to distinguish between different series within the collection. A brief description, along with other data, was entered into an Access database. A printout of the database is attached and an electronic version is available on our website.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of 217 slides assembled from various locations throughout the division. The images range from circa 1820 thru 1987 and cover a wide array of subjects. The topics include the Cherry Blossom Parade, Moscow Circus bears, Papal visit, federal buildings, street scenes, 1968 riots, Georgetown, urban planning and construction. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">These were assembled from a variety of locations throughout Washingtoniana and each series has a different donor. For Series 1 there is no deed of gift and it is uncertain as to how the library acquired the majority of these slides. A few images do note photographer but it is uncertain if they donated the images.  Martin Mooney donated series 2 in 1995. Series 3 came to the library in 1996 as a gift of Lori Federman and Roy Watson donated series 4 circa 1990. .</subfield>
+      <subfield code="a">Washingtoniana Slide Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
@@ -47,12 +18,20 @@
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">8 boxes</subfield>
     </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">These were assembled from a variety of locations throughout Washingtoniana and each series has a different donor. For Series 1 there is no deed of gift and it is uncertain as to how the library acquired the majority of these slides. A few images do note photographer but it is uncertain if they donated the images.  Martin Mooney donated series 2 in 1995. Series 3 came to the library in 1996 as a gift of Lori Federman and Roy Watson donated series 4 circa 1990. </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: Slides were originally stored in various filing cabinets, folders and boxes throughout Washingtoniana. In 2005, many of the loose images, including slides were gathered together and permanent storage location was found for each image. It was decided that the slides would be moved to the DC Community Archives for long-term storage. The slides were combined with several other smaller slide collections. Each image was assigned a number and placed in an archival storage box. Numbers in thousand increments were used to distinguish between different series within the collection. A brief description, along with other data, was entered into an Access database. A printout of the database is attached and an electronic version is available on our website.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of 217 slides assembled from various locations throughout the division. The images range from circa 1820 thru 1987 and cover a wide array of subjects. The topics include the Cherry Blossom Parade, Moscow Circus bears, Papal visit, federal buildings, street scenes, 1968 riots, Georgetown, urban planning and construction. </subfield>
     </datafield>
   </record>
 </marc:collection>

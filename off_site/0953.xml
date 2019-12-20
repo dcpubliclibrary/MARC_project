@@ -1,62 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19671999xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">015</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Charles L. McCollough Collection,</subfield>
-      <subfield code="f">1967-1999</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">00</subfield>
-      <subfield code="f">linear feet; 00 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">This collection consists of records that document the Ministry and life of Charles L. McCollough, Pastor of the United House of Prayer.  Documents include: clippings, correspondence, speeches, sermons, meeting minutes and agendas, youth program information, certificates and awards, and photographs.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Charles Leon McCollough was born in Washington, DC on March 12, 1941 to his parents Bishop Walter McCollough and Clara B. McCollough.  He graduated from Cardozo High School where he lettered in track.  He then joined his father as a Minister at his father’s church, the United House of Prayer for All People.  His father, “Sweet Daddy” McCollough was the leader of a congregation that included millions of members around the country.  Ordained in 1967, Charles was a pastor at the United House of Prayer from 1975 to 1992.
-
-In 1991, Walter “Sweet Daddy” McCollough died.  It was assumed that Charles would take over as Bishop of the House of Prayer.  However, he lost the election for Bishop to S. C. Madison amid cries of a rigged election.  He filed a lawsuit challenging the results, but it was dismissed as an ecclesiastical matter that the court would stay out of.  Charles was subsequently stripped of his position as pastor in the United House of Prayer.  Charles continued to allege other abuses by Bishop Madison, including the swindling of property from Charles’ late father and the refusal of the church to allow Clara to be interred in her husband’s mausoleum at Fort Lincoln Cemetery.
-
-Charles, his wife Marjorie Colee (nee. July 25, 1943), his con Charles, jr. (nee. October 4, 1970), and daughter Marjorie Clarissa McCollough-Jackson (nee February 25, 1966) established the Believers in Christ Ministries and conducted efforts on behalf of the poor in Washington, DC, including Thanksgiving Baskets, toys at Christmas, tutoring programs, and anti-drugs programs.
-
-Charles died on June 22, 1996 at the age of 55, of a heart attack, which he suffered after eulogizing his late nephew David Robinson.
-
-(Information taken from Obituary, Washington Post, June 28, 1996, C4.).</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The collection was donated to the DC Community Archives by Charles L. McCollough’s widow, Marjorie C. McCollough in 1997.</subfield>
+      <subfield code="a">Charles L. McCollough Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">City churches</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">00 linear feet; 00 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">015</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Charles Leon McCollough was born in Washington, DC on March 12, 1941 to his parents Bishop Walter McCollough and Clara B. McCollough.  He graduated from Cardozo High School where he lettered in track.  He then joined his father as a Minister at his father’s church, the United House of Prayer for All People.  His father, “Sweet Daddy” McCollough was the leader of a congregation that included millions of members around the country.  Ordained in 1967, Charles was a pastor at the United House of Prayer from 1975 to 1992.In 1991, Walter “Sweet Daddy” McCollough died.  It was assumed that Charles would take over as Bishop of the House of Prayer.  However, he lost the election for Bishop to S. C. Madison amid cries of a rigged election.  He filed a lawsuit challenging the results, but it was dismissed as an ecclesiastical matter that the court would stay out of.  Charles was subsequently stripped of his position as pastor in the United House of Prayer.  Charles continued to allege other abuses by Bishop Madison, including the swindling of property from Charles’ late father and the refusal of the church to allow Clara to be interred in her husband’s mausoleum at Fort Lincoln Cemetery.Charles, his wife Marjorie Colee (nee. July 25, 1943), his con Charles, jr. (nee. October 4, 1970), and daughter Marjorie Clarissa McCollough-Jackson (nee February 25, 1966) established the Believers in Christ Ministries and conducted efforts on behalf of the poor in Washington, DC, including Thanksgiving Baskets, toys at Christmas, tutoring programs, and anti-drugs programs.Charles died on June 22, 1996 at the age of 55, of a heart attack, which he suffered after eulogizing his late nephew David Robinson.(Information taken from Obituary, Washington Post, June 28, 1996, C4.)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The collection was donated to the DC Community Archives by Charles L. McCollough’s widow, Marjorie C. McCollough in 1997.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">This collection consists of records that document the Ministry and life of Charles L. McCollough, Pastor of the United House of Prayer.  Documents include: clippings, correspondence, speeches, sermons, meeting minutes and agendas, youth program information, certificates and awards, and photographs.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,84 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180925i19101989xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Joseph Owen Curtis Photographic Collection</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1.5 Linear feet</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">P007</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Joseph Owen Curtis Photographic Collection,</subfield>
-      <subfield code="f">1910 - 1989</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1.5</subfield>
-      <subfield code="f">Linear feet</subfield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="351">
-      <subfield code="a">The collection is arranged into the following series:
-
-Series 1: Institutions and Organizations
-Series 2: People
-Series 3: Streets and Buildings
-Series 4: Slides.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: After initial processing in 2001, the collection was organized into five series--Series 1: Groups and individual shots, Series 2: Special subjects, Series 3: Streets and Buildings, Series 4: Family and Personal, Series 5: Memorabilia, and Series 6: Slides.  Photographs of individuals were separated from those of groups and subjects and were organized by photographer.  All photographs and all unique slides were placed in protective plastic Mylar enclosures.
-
-Following digitization, the collection was reprocessed to simplify the series and reunite like photographs of the same events and of related subjects that were separated during the initial processing.  Since photographs of Curtis family and friends were present throughout the collection and the entire collection could be considered quite personal to the photographer, the three series family and personal, groups and individual shots, and special subjects were combined.  The large body of photographs documenting people and events this created were then divided into two series—those related to specific Southwest institutions and organizations, formal and informal, and those of the people of Southwest at-large.
-.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection contains approximately 270 black and white prints and 83 slides, the majority of which depict the African-American community of the Southwest neighborhood of Washington, D.C., primarily from the 1920s through the 1970s. The photographs document a historic neighborhood that would be largely razed in the 1950s and 1960s, dramatically changing the landscape and population of the neighborhood.
-
-The many photographs of streets, businesses, and buildings provide important visual documentation of the historic architecture, neighborhood gathering places and homes of Southwest before and after urban renewal.  Photographs of the gatherings and people of Curtis’ family and community chronicle the formal and informal organizations of civic and social life in the neighborhood. These include Randall Junior High School, Randall Playground, Miner Teachers College, the Washington Cadet Corps drill competitions, Bruce Wahl’s Restaurant and Beer Garden, the Willow Tree Athletic Club and other sports organizations, and the Willow Tree Athletic Club Benevolent Association. Other photographic subjects include Curtis and his fellow servicemen from Southwest D.C. meeting in France during World War II. The collection also contains photographs of programs, announcements, invitations, obituaries, and other items related to the people and organizations Curtis documented.
-
-Curtis wrote captions on nearly all of his prints to identify the people, location, and date depicted.  On many photographs Curtis also wrote biographical details and memories about the individuals pictured and information about their connections to the Southwest community. 
-
-The collection’s slides were primarily taken by Curtis in the 1980s of some the same locations he shot in earlier decades. The slides also include copy photographs of his black and white prints.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">Copyright for all original photographs by Joseph Owen Curtis was transferred to DC Public Library at the time of accession. However, the collection includes some copy photographs of images taken by Scurlock Studio and by friends and family members of Curtis. In addition, the images include reproductions of newspaper clippings, obituaries, public school activities, and social engagement advertisements.  When known, Curtis labeled his copy photographs with the name of the creator or source. 
-
-Outside of fair use, it is the responsibility of the researcher to obtain permission from the person or institution holding copyright of an image for publication. The Scurlock Studio Archives are owned by the Smithsonian Institution’s National Museum of American History Archives Center.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Joseph Owen Curtis was born in 1915 to Hamilton and Aurena E. Curtis and lived in Southwest Washington, D.C. for most of his life.  He was close to his older brother William DuBois Curtis, who often appeared in his photographs. Both men went by their middle names throughout their lives. Curtis attended Randall Jr. High School, Dunbar High School, Miner Teachers College, and Howard University.  He served in the U.S. Army during World War II as a Special Services Officer stationed in France and Greenland.  Curtis eventually earned the rank of Major and worked for many years leading up to his retirement at the Naval Research Laboratory as a math technician
-
-Hamilton Curtis gave Owen his first camera at the age of 11 and encouraged him to learn photographic development to defray the cost of developing negatives.  Curtis worked as a snack vendor at local sporting events to pay for the 25-cent rolls of film he used.  From an early age he photographed the buildings, people, daily interactions, social events, and street scenes of the Southwest African-American community in which he lived.  
-
-Curtis became active in civic affairs when redevelopment plans for Southwest began to take shape in the late 1940s. In 1949 Curtis joined the Southwest Civic Association and eventually was appointed chairman of the Redevelopment Committee.  Congress chartered the Redevelopment Land Agency (RLA) in 1946, a new agency with considerable power to condemn and redevelop the city.  In a 1950 report, the RLA characterized Southwest as “obsolete” and in need of major redevelopment. By the 1950s when urban renewal was planned for Southwest, a majority of its residents were African-American and nearly two-thirds were low-income.   Curtis and his fellow community residents feared they would be displaced as a result of development.  Most of their fears were realized when many residents of Southwest were unable to afford to return to their neighborhood after redevelopment. Urban renewal reshaped and forever changed the landscape and culture of Southwest.  
-
-Curtis died on January 31, 2005.
- 
-Sources:
-“Old Southwest Remembered: The Photographs of Joseph Owen Curtis” Washington History, Fall 1989, Volume 1, Number 2
-“A Community Caught in Memory: Photographer Takes Viewers Back to a Simpler Southwest,” The Washington Post, March 16, 1995
-The Washington Afro-American, October 6, 1979
-Kathryn Smith (ed.), Washington At Home, “Southwest Washington: Where History Stopped,” Chapter 5, by Keith Melder, Windsor Publications, 1988.
-The Southwester, March 2005
-.</subfield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Joseph Owen Curtis was born in 1915 to Hamilton and Aurena E. Curtis and lived in Southwest Washington, D.C. for most of his life.  He was close to his older brother William DuBois Curtis, who often appeared in his photographs. Both men went by their middle names throughout their lives. Curtis attended Randall Jr. High School, Dunbar High School, Miner Teachers College, and Howard University.  He served in the U.S. Army during World War II as a Special Services Officer stationed in France and Greenland.  Curtis eventually earned the rank of Major and worked for many years leading up to his retirement at the Naval Research Laboratory as a math technicianHamilton Curtis gave Owen his first camera at the age of 11 and encouraged him to learn photographic development to defray the cost of developing negatives.  Curtis worked as a snack vendor at local sporting events to pay for the 25-cent rolls of film he used.  From an early age he photographed the buildings, people, daily interactions, social events, and street scenes of the Southwest African-American community in which he lived.  Curtis became active in civic affairs when redevelopment plans for Southwest began to take shape in the late 1940s. In 1949 Curtis joined the Southwest Civic Association and eventually was appointed chairman of the Redevelopment Committee.  Congress chartered the Redevelopment Land Agency (RLA) in 1946, a new agency with considerable power to condemn and redevelop the city.  In a 1950 report, the RLA characterized Southwest as “obsolete” and in need of major redevelopment. By the 1950s when urban renewal was planned for Southwest, a majority of its residents were African-American and nearly two-thirds were low-income.   Curtis and his fellow community residents feared they would be displaced as a result of development.  Most of their fears were realized when many residents of Southwest were unable to afford to return to their neighborhood after redevelopment. Urban renewal reshaped and forever changed the landscape and culture of Southwest.  Curtis died on January 31, 2005. Sources:“Old Southwest Remembered: The Photographs of Joseph Owen Curtis” Washington History, Fall 1989, Volume 1, Number 2“A Community Caught in Memory: Photographer Takes Viewers Back to a Simpler Southwest,” The Washington Post, March 16, 1995The Washington Afro-American, October 6, 1979Kathryn Smith (ed.), Washington At Home, “Southwest Washington: Where History Stopped,” Chapter 5, by Keith Melder, Windsor Publications, 1988.The Southwester, March 2005</subfield>
     </datafield>
     <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">In 1979 Joseph Owen Curtis organized Southwest Library’s annual Festival of the Arts and  brought a sample of his photography to Lessie Owens, Head Librarian of DC Public Library’s Southwest Branch.  The images had such impact on the library staff that a permanent exhibition of Curtis Photography was established at the branch.  The original photographic prints and slides were later transferred to DC Public Library’s Washingtoniana Collection at Martin Luther King Jr. Memorial Library and officially accessioned in 1998.  .</subfield>
+      <subfield code="a">In 1979 Joseph Owen Curtis organized Southwest Library’s annual Festival of the Arts and  brought a sample of his photography to Lessie Owens, Head Librarian of DC Public Library’s Southwest Branch.  The images had such impact on the library staff that a permanent exhibition of Curtis Photography was established at the branch.  The original photographic prints and slides were later transferred to DC Public Library’s Washingtoniana Collection at Martin Luther King Jr. Memorial Library and officially accessioned in 1998.  </subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection contains approximately 270 black and white prints and 83 slides, the majority of which depict the African-American community of the Southwest neighborhood of Washington, D.C., primarily from the 1920s through the 1970s. The photographs document a historic neighborhood that would be largely razed in the 1950s and 1960s, dramatically changing the landscape and population of the neighborhood.The many photographs of streets, businesses, and buildings provide important visual documentation of the historic architecture, neighborhood gathering places and homes of Southwest before and after urban renewal.  Photographs of the gatherings and people of Curtis’ family and community chronicle the formal and informal organizations of civic and social life in the neighborhood. These include Randall Junior High School, Randall Playground, Miner Teachers College, the Washington Cadet Corps drill competitions, Bruce Wahl’s Restaurant and Beer Garden, the Willow Tree Athletic Club and other sports organizations, and the Willow Tree Athletic Club Benevolent Association. Other photographic subjects include Curtis and his fellow servicemen from Southwest D.C. meeting in France during World War II. The collection also contains photographs of programs, announcements, invitations, obituaries, and other items related to the people and organizations Curtis documented.Curtis wrote captions on nearly all of his prints to identify the people, location, and date depicted.  On many photographs Curtis also wrote biographical details and memories about the individuals pictured and information about their connections to the Southwest community. The collection’s slides were primarily taken by Curtis in the 1980s of some the same locations he shot in earlier decades. The slides also include copy photographs of his black and white prints.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Copyright for all original photographs by Joseph Owen Curtis was transferred to DC Public Library at the time of accession. However, the collection includes some copy photographs of images taken by Scurlock Studio and by friends and family members of Curtis. In addition, the images include reproductions of newspaper clippings, obituaries, public school activities, and social engagement advertisements.  When known, Curtis labeled his copy photographs with the name of the creator or source. Outside of fair use, it is the responsibility of the researcher to obtain permission from the person or institution holding copyright of an image for publication. The Scurlock Studio Archives are owned by the Smithsonian Institution’s National Museum of American History Archives Center.</subfield>
     </datafield>
   </record>
 </marc:collection>

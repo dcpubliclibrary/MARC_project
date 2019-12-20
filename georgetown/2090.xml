@@ -1,38 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181003i18781897xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">PBY057</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Dr. Arthur A. Snyder Personal Receipts and Georgetown Assembly Collection,</subfield>
-      <subfield code="f">1878 - 1897</subfield>
+      <subfield code="a">Dr. Arthur A. Snyder Personal Receipts and Georgetown Assembly Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">Linear feet</subfield>
+      <subfield code="a">1 Linear feet</subfield>
     </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">This small collection (one box) contains seven files arranged chronologically by year (1878-1899) of business receipts issued to Arthur A. Snyder.  Additionally, nine files arranged chronologically by season (1885-1897) contain business records and ephemera related to the Georgetown Assembly, of which Snyder was secretary.
- 
-The Georgetown Assembly materials were originally in scrapbook format but the majority of ephemera pieces had become unattached from their original backing pages and had been consolidated into an unorganized pile.  Individual pieces have been arranged by season (November thru February of paired years).  Backing pages have been retained that still have attached pieces as have all backing pages with annotations. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
+    <datafield ind1="1" ind2=" " tag="545">
       <subfield code="a">Dr. Arthur M. Snyder (June 6, 1857 – May 15, 1948) was Georgetown native and surgeon who practiced at Garfield Memorial Hospital from the early 1890s to his retirement in 1938.  Born in the family home at 3051 N Street NW, his parents were Dr. John Marshall Snyder and Sophie Tayloe Snyder.
  
 Dr. Snyder attended Episcopal High School, Alexandria, VA, and the University of Virginia, Charlottesville, VA.  His medical internship was served in New York City.  His Washington, DC practice of over four decades was interrupted only once when he served with the Medical Corps in Cuba during the Spanish-American War (1898).  He is buried in Georgetown’s Oak Hill Cemetery (Lot #608).
@@ -44,10 +25,12 @@ The Georgetown Assembly was (and remains) a social dance organization.  Accordin
 According to manuscript materials in this collection, the first meeting of The Georgetown Assembly was held on November 18, 1885 at the office of Dr. Snyder (3051 N Street NW), who served as the organization’s secretary.  The first Georgetown Assembly dance was held at Linthicum Hall (3116 O Street, NW, constructed 1887) on December 13, 1888.</subfield>
     </datafield>
     <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">No record indicates a donor or when these materials were acquired by the Peabody Room.  .</subfield>
+      <subfield code="a">No record indicates a donor or when these materials were acquired by the Peabody Room.  </subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">This small collection (one box) contains seven files arranged chronologically by year (1878-1899) of business receipts issued to Arthur A. Snyder.  Additionally, nine files arranged chronologically by season (1885-1897) contain business records and ephemera related to the Georgetown Assembly, of which Snyder was secretary.
+ 
+The Georgetown Assembly materials were originally in scrapbook format but the majority of ephemera pieces had become unattached from their original backing pages and had been consolidated into an unorganized pile.  Individual pieces have been arranged by season (November thru February of paired years).  Backing pages have been retained that still have attached pieces as have all backing pages with annotations. </subfield>
     </datafield>
   </record>
 </marc:collection>

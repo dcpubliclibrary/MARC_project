@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i18801900xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P029</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Gus L. Wolf Photograph Collection,</subfield>
-      <subfield code="f">1880-1900</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: The Freer Gallery of Art made the prints after the receipt of the collection in 1989. Prints were grouped together according to subject and numbers were assigned to each print. Prints were then placed in protective sleeves and put into acid-free folders. The folders were housed in and archival box and placed in the DC Community Archives for long-term storage. Each glass plate negative was assigned a corresponding number and placed in a four-flap paper envelope. The envelopes were housed in an archival box and placed in the Negative Storage Cabinet for long-term storage.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of twenty-seven glass plate negatives and corresponding 8x10 black and white prints, dating from circa 1880 thru 1900. Image subjects include the Jefferson Building of the Library of Congress, The US Capitol, Lafayette Park, Mount Vernon, and the Petersen House. Additionally there are several images of what is believed to be the Potomac River, as well as a number of unidentifiable locations.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">There are no restrictions on viewing the prints from collection. Patrons will NOT be granted access to the glass plate negatives without permission of the archivist.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The collection was a gift of Gus L. Wolf, via the Freer Gallery of Art, in December 1991. Mr. Wolf donated these images, along with images from his trip to Asia, to the Freer in July 1989, however the Photographs of Washington, and other areas, did not fit the scope of their collection. Subsequently, Archivist Colleen Hennessey at the Freer contacted Washingtoniana and arranged for their transfer the DC Community Archives with the full permission of Mr. Wolf.</subfield>
+      <subfield code="a">Gus L. Wolf Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Architecture</subfield>
@@ -53,12 +21,31 @@
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P029</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The collection was a gift of Gus L. Wolf, via the Freer Gallery of Art, in December 1991. Mr. Wolf donated these images, along with images from his trip to Asia, to the Freer in July 1989, however the Photographs of Washington, and other areas, did not fit the scope of their collection. Subsequently, Archivist Colleen Hennessey at the Freer contacted Washingtoniana and arranged for their transfer the DC Community Archives with the full permission of Mr. Wolf.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of twenty-seven glass plate negatives and corresponding 8x10 black and white prints, dating from circa 1880 thru 1900. Image subjects include the Jefferson Building of the Library of Congress, The US Capitol, Lafayette Park, Mount Vernon, and the Petersen House. Additionally there are several images of what is believed to be the Potomac River, as well as a number of unidentifiable locations.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">There are no restrictions on viewing the prints from collection. Patrons will NOT be granted access to the glass plate negatives without permission of the archivist.</subfield>
     </datafield>
   </record>
 </marc:collection>

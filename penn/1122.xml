@@ -1,53 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i19652006xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">134</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Josephine Butler Papers,</subfield>
-      <subfield code="f">1965-2006</subfield>
+      <subfield code="a">Josephine Butler Papers</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">20</subfield>
-      <subfield code="f">cubic feet; 19 boxes</subfield>
+      <subfield code="a">20 cubic feet; 19 boxes</subfield>
     </datafield>
-    <datafield ind1="3" ind2=" " tag="520">
-      <subfield code="a">Josephine Butler co-founded the D.C. Statehood Movement with Julius Hobson. She was a staunch proponent of city parks and recreation places for families, children and communities throughout the city. Butler’s work led to the desegregation of city schools, establishment of safe spaces for children, and the development health care reform. The Josephine Butler Papers document Butler's career as a community activist and contain subject files on organizations she was involved with and causes she fought for.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The Josephine Butler Papers document Butler's career as a community activist and contain subject files on organizations she was involved with and causes she fought for. Most prominently featured are files on the DC Statehood party and movement. Also included are files on the Friendship Society, the National Council of American-Soviet Friendship, and the US-Grenada Friendship Society.</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="540">
       <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
+    <datafield ind1="1" ind2=" " tag="545">
       <subfield code="a">Josephine Butler was born in Brandywine, Maryland, and lived her life in the greater Washington, D.C. area. Butler’s grandparents were enslaved and she grew up with parents who were sharecroppers, so she strived to make the world a better place to live for hardworking people and children. Butler was an amazing community activist, organizer and political heavy-weight. She was involved in almost every critical political movement that occurred in the greater Washington, D.C. area. Because Black women were relegated to more menial jobs during the segregation and Jim Crow era, there were multitudes of black female laundresses. In order to support the development of rights and respect for black women in the domestic field, Butler founded the first union that supported Black female laundry workers in the city. She co-founded the D.C. Statehood Movement with Julius Hobson. She was a staunch proponent of city parks and recreation places for families, children and communities throughout the city. Butler’s work led to the desegregation of city schools, establishment of safe spaces for children, and the development health care reform. Butler founded the D.C. Chapter of the Paul Robeson Friendship Association and the Friends of Meridian Hill Association. Butler was very close to Hobson as well as Hilda Mason.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Josephine Butler Papers document Butler's career as a community activist and contain subject files on organizations she was involved with and causes she fought for. Most prominently featured are files on the DC Statehood party and movement. Also included are files on the Friendship Society, the National Council of American-Soviet Friendship, and the US-Grenada Friendship Society.</subfield>
     </datafield>
   </record>
 </marc:collection>

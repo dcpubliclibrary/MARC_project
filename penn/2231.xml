@@ -1,53 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i1983    xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP007</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Capital Children's Museum - "Changing Communication in the Family" Oral History Project,</subfield>
-      <subfield code="f">1983</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">3.25</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: After the initial donation to the Library the indexes were foldered and placed into a filing cabinet for patron use. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy.  In 2014, the indexes were digitized. Following digitization the collection was reprocessed and indexes were placed in new folders and boxed. All administrative documents, including releases, were placed into the control file. .</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">in 1983, the Capital Children's Museum in Washington, D.C., conducted approximately 39 oral history interviews with adults over 60 years of age. The project focused om the childhood experiences of the interviewees. Topics also includes general life experiences and historical milestones. The project's director was Tom Lane and adolescents conducted the interviews.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the National Children's Museum to publish or exhibit information. Reproduction of oral histories without release is not permitted.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">The Capital Children's Museum conducted these interviews in 1983 and donated the tapes and indexes to the Library. There is no deed of gift for this collection. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Founded in 1974 it was first located at 220 H Street, NE and was designated by Congress in 2003 as the  only national museum dedicated entirely to children and their families. For many years the museum operated as a "museum without walls," forging partnerships with organizations and participating in community events, educational outreach programs and traveling exhibits. In 2019 the Museum relocated to the Ronald Reagan Building and International Trade Center in Federal Triangle. .</subfield>
+      <subfield code="a">Capital Children's Museum - "Changing Communication in the Family" Oral History Project</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Oral History</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3.25 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">in 1983, the Capital Children's Museum in Washington, D.C., conducted approximately 39 oral history interviews with adults over 60 years of age. The project focused om the childhood experiences of the interviewees. Topics also includes general life experiences and historical milestones. The project's director was Tom Lane and adolescents conducted the interviews.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Founded in 1974 it was first located at 220 H Street, NE and was designated by Congress in 2003 as the  only national museum dedicated entirely to children and their families. For many years the museum operated as a "museum without walls," forging partnerships with organizations and participating in community events, educational outreach programs and traveling exhibits. In 2019 the Museum relocated to the Ronald Reagan Building and International Trade Center in Federal Triangle. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">The Capital Children's Museum conducted these interviews in 1983 and donated the tapes and indexes to the Library. There is no deed of gift for this collection. </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial donation to the Library the indexes were foldered and placed into a filing cabinet for patron use. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy.  In 2014, the indexes were digitized. Following digitization the collection was reprocessed and indexes were placed in new folders and boxed. All administrative documents, including releases, were placed into the control file. </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the National Children's Museum to publish or exhibit information. Reproduction of oral histories without release is not permitted.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19491989xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P035</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Dr. Darrell Clayton Crain Jr. Photograph Collection,</subfield>
-      <subfield code="f">1949-1989</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2</subfield>
-      <subfield code="f">boxes</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: The slides were removed from their original boxes. Each box of slides was assigned a title, then corresponding slides were placed into individual acid-free compartments and stored in an archival box. Three of the empty slide boxes were kept for archival purposes and stored along with the slides. The box was then placed in the DC Community Archives for long-term storage. Digital scans of the slides were created by Alice R. Makl and transferred to DC Public Library on a flash drive.  The high resolution jpegs were ingested into the archival repository and cataloged for publication in the public digital collections website, Dig DC. The one original 8x10 black and white photograph was placed in an acid-free folder in an archival box which contains images from the Photograph Collections of: Charles Suddarth Kelly, Metro, Unity Brick Company, Washington Navy Yard, Hambright &amp; Hoachlander, Colony Theatre, and Jackson Pace Complex.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of 270 Kodachrome Ektachrome slides, 3 empty slide boxes, and one original 8x10 black and white photograph, as well as 275 digital surrogates of all of the analog images donated and several family photographs of Crain and his homes which the library only received digitally. The photographs document daily life in the Washington, DC area, Dr. Crain’s travels around the U.S. and abroad, and important events.  Events depicted include the March on Washington, the Resurrection City protests, the 1776 United States bicentennial celebration, 1965 and 1977 presidential inauguration parades, and the aftermath of the 1968 riots.  Sites photographed around the Washington area include Glen Echo Park, Georgetown University and Georgetown University Hospital, the Tidal Basin during Cherry Blossom season, the National Mall, 14th Street, Northminster Presbyterian Church, and other sites and statues around D.C.  Locations of photography outside of Washington include Duke University, Nevada, Hershey, Pennsylvania, Chatham, Massachusetts, Maine, Upstate New York, Vermont, Death Valley, the western United States, Bermuda and Monaco.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Native Washingtonian and lifelong resident of Washington, D.C., Dr. Darrell Clayton Crain Jr. (1910-1995) dedicated 50 years of his life to the practice of medicine. After graduating from the George Washington University School of Medicine and completing residency at Emergency Hospital, Dr. Crain served as Medical Officer at Walter Reed General Hospital before entering private practice in 1937. Notable achievements in his field include co-founding the Arthritis Rehabilitation Center in Washington, founding of the Rheumatology Clinic at Georgetown University Hospital, serving in professional and civic societies, and writing several books.  Dr. Crain was a rheumatologist by profession and photographer by hobby. While in his home of Washington, D.C. and traveling the country and abroad, he documented his experiences on film, leaving behind vibrant, color photographs that give a vivid glimpse of the past. From family vacations to the aftermath of the 1968 riots in Washington, D.C. to professional travel in Monaco, Dr. Crain captured candid and intimate historical moments over the span of four decades.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The Dr. Darrell C. Crain Jr. Photograph Collection was donated to the Library by Barbara Crain Rollinson and Alice R. Makl, daughter and granddaughter of the late Dr. Crain on June 2, 2015.</subfield>
+      <subfield code="a">Dr. Darrell Clayton Crain Jr. Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Civil rights</subfield>
@@ -50,12 +18,31 @@
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P035</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Native Washingtonian and lifelong resident of Washington, D.C., Dr. Darrell Clayton Crain Jr. (1910-1995) dedicated 50 years of his life to the practice of medicine. After graduating from the George Washington University School of Medicine and completing residency at Emergency Hospital, Dr. Crain served as Medical Officer at Walter Reed General Hospital before entering private practice in 1937. Notable achievements in his field include co-founding the Arthritis Rehabilitation Center in Washington, founding of the Rheumatology Clinic at Georgetown University Hospital, serving in professional and civic societies, and writing several books.  Dr. Crain was a rheumatologist by profession and photographer by hobby. While in his home of Washington, D.C. and traveling the country and abroad, he documented his experiences on film, leaving behind vibrant, color photographs that give a vivid glimpse of the past. From family vacations to the aftermath of the 1968 riots in Washington, D.C. to professional travel in Monaco, Dr. Crain captured candid and intimate historical moments over the span of four decades.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The Dr. Darrell C. Crain Jr. Photograph Collection was donated to the Library by Barbara Crain Rollinson and Alice R. Makl, daughter and granddaughter of the late Dr. Crain on June 2, 2015.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of 270 Kodachrome Ektachrome slides, 3 empty slide boxes, and one original 8x10 black and white photograph, as well as 275 digital surrogates of all of the analog images donated and several family photographs of Crain and his homes which the library only received digitally. The photographs document daily life in the Washington, DC area, Dr. Crain’s travels around the U.S. and abroad, and important events.  Events depicted include the March on Washington, the Resurrection City protests, the 1776 United States bicentennial celebration, 1965 and 1977 presidential inauguration parades, and the aftermath of the 1968 riots.  Sites photographed around the Washington area include Glen Echo Park, Georgetown University and Georgetown University Hospital, the Tidal Basin during Cherry Blossom season, the National Mall, 14th Street, Northminster Presbyterian Church, and other sites and statues around D.C.  Locations of photography outside of Washington include Duke University, Nevada, Hershey, Pennsylvania, Chatham, Massachusetts, Maine, Upstate New York, Vermont, Death Valley, the western United States, Bermuda and Monaco.</subfield>
     </datafield>
   </record>
 </marc:collection>

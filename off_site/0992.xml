@@ -1,56 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19531961xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">006</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Washington Housing Association Records,</subfield>
-      <subfield code="f">1953-1961</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2</subfield>
-      <subfield code="f">linear feet; 3 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The records contain primarily monthly reports and newsletters of WHA from 1953 through 1961.  In addition, reports and studies prepared or published by WHA regarding housing in the District is found in the records.  Testimony and statements submitted to Congress by WHA members on housing issues also appear in the records.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Washington Housing Association was originally organized in 1933 as the Washington Committee on Housing to improve housing for low-income residents in the District. WHA sponsored the Alley Dwelling Elimination Act of July 1934.  Mrs. Charlotte Everett Hopkins, a long-time crusader for the passage of the Act, was instrumental in the formation of WHA.  Eleanor Roosevelt served as WHA’s honorary chairman, Frederic A. Delano was its first chairman, and John Ihlder, a nationally recognized housing activist, was its first secretary.  
-
-The Association fought for a sound housing code, to insure construction of low-rent housing, and encourage landlord responsibility to tenants.  WHA became the Washington Planning and Housing Association in 1962 and later the Metropolitan Washington Planning and Housing Association.  In the 1960s the Association assisted residents dislocated by urban renewal, freeway construction, and downtown development. Find affordable housing.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The records of the Washington Housing Association (WHA) were donated to the Library by Anna S. Miller, a former Executive Director of the WHA.</subfield>
+      <subfield code="a">Washington Housing Association Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Housing</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Low-income housing</subfield>
+      <subfield code="x">United States</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Associations, institutions, etc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">006</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Washington Housing Association (WHA) was organized in 1933 as the Washington Committee on Housing to improve housing for low-income residents in the District. WHA sponsored the Alley Dwelling Elimination Act of July 1934. Charlotte Everett Hopkins, a long-time crusader for the passage of the Act, was instrumental in the formation of WHA. Eleanor Roosevelt served as WHA’s honorary chairman; Frederic A. Delano was the first chairman; and John Ihlder, a nationally recognized housing activist, was the first secretary. WHA fought for a sound housing code, to insure construction of low-rent housing, and encourage landlord responsibility to tenants. WHA became the Washington Planning and Housing Association in 1962 and later the Metropolitan Washington Planning and Housing Association. In the 1960s the Association assisted residents dislocated by urban renewal, freeway construction, and downtown development find affordable housing. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The records of the Washington Housing Association (WHA) were donated to the D.C. Public Library by Anna S. Miller, a former Executive Director of the WHA.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The records primarily contain monthly reports and newsletters of the Washington Housing Association (WHA) from 1953 through 1961. Also included are reports and studies prepared or published by WHA ; and testimony and statements submitted to Congress by WHA members on housing issues.</subfield>
     </datafield>
   </record>
 </marc:collection>

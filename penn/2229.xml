@@ -1,53 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i19811982xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP005</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Latino Youth Community History Project Oral History Project,</subfield>
-      <subfield code="f">1981 - 1982</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2.75</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: After the initial donation to the Library the indexes were foldered and placed into a filing cabinet. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy.  In 2014 the tapes and indexes were digitized. In 2017, the collection was reprocessed and the indexes were placed into appropriate archival storage and all administrative documents were move to the collection's control file, which contains a release for an interview not transferred to the Library in any format. .</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">From 1981 and 1982, the Latin American Youth Center in Washington D.C. conducted approximately 47 oral history interviews with Latino community members, of which 24 were donated to the Library. The project's directors were Lisa Wheaton and Lesley Rankin-Hill. The project was funded by the National Endowment for the Humanities, and all interviews were conducted by high school students. Indexes are in English and Spanish; taped interviews are in Spanish. Collection contains notes on interviews and transcripts which were not transferred to the Library at the time of donation. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">The Library holds copyright for this collection. There are no restrictions on the use of this collection. .</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">The Latin American Youth Center conducted the interviews between 1981 and 1982 and transferred the tapes and indexes to the Library in 1983 as a condition of their grant with the National Endowment for the Humanities. There is no deed of gift for this collection.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Latin American Youth Center was founded in 1968 to address the absence of services for the emerging Latino community offering educational and vocational activities in after school and in the summer programs.</subfield>
+      <subfield code="a">Latino Youth Community History Project Oral History Project</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Oral History</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2.75 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">From 1981 and 1982, the Latin American Youth Center in Washington D.C. conducted approximately 47 oral history interviews with Latino community members, of which 24 were donated to the Library. The project's directors were Lisa Wheaton and Lesley Rankin-Hill. The project was funded by the National Endowment for the Humanities, and all interviews were conducted by high school students. Indexes are in English and Spanish; taped interviews are in Spanish. Collection contains notes on interviews and transcripts which were not transferred to the Library at the time of donation. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Latin American Youth Center was founded in 1968 to address the absence of services for the emerging Latino community offering educational and vocational activities in after school and in the summer programs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">The Latin American Youth Center conducted the interviews between 1981 and 1982 and transferred the tapes and indexes to the Library in 1983 as a condition of their grant with the National Endowment for the Humanities. There is no deed of gift for this collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial donation to the Library the indexes were foldered and placed into a filing cabinet. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy.  In 2014 the tapes and indexes were digitized. In 2017, the collection was reprocessed and the indexes were placed into appropriate archival storage and all administrative documents were move to the collection's control file, which contains a release for an interview not transferred to the Library in any format. </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The Library holds copyright for this collection. There are no restrictions on the use of this collection. </subfield>
     </datafield>
   </record>
 </marc:collection>

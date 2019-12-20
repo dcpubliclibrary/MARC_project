@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i        xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">Describing Archives: A Content Standard</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP.028</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Coolidge Senior High School Oral History Project Collection,</subfield>
-      <subfield code="f">undated</subfield>
+      <subfield code="a">Coolidge Senior High School Oral History Project Collection</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Oral History</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.25</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
+      <subfield code="a">0.25 linear feet; 1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Ingrid Drake, CGAP (Certified Government Auditing Professional), is a program analyst with the Office of District of Columbia Auditor (ODCA). Previously she was an investigator for the Washington-based nonprofit Project On Government Oversight (POGO); and was a writer, Pacifica Radio correspondent, and community educator living in Washington, DC. In 2007 at the time of gift, she was a local DC journalist, writing for several outlets: DC North, East of the River, Hill Rag, DC Radio Co-op, www.DCIndymedia.org, WPFW 89.3 FM - Pacifica Radio, and Free Speech Radio News. Contact info: IngridNatasha@yahoo.com.</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="351">
-      <subfield code="a">This collection is housed in one box, 0.25 linear feet, and contains two series. The first series is organized alphabetically by last name of the first interviewee on the CD (some CDs contain multiple interviews) and contains 16 folders. The second series contains color 4"x6" photographs of the interviewees in two folders.</subfield>
+      <subfield code="b">This collection is housed in one box, 0.25 linear feet, and contains two series. The first series is organized alphabetically by last name of the first interviewee on the CD (some CDs contain multiple interviews) and contains 16 folders. The second series contains color 4"x6" photographs of the interviewees in two folders.</subfield>
     </datafield>
     <datafield ind1="2" ind2=" " tag="520">
       <subfield code="a">In 2007, Ingrid Drake coordinated the Coolidge Senior High School Oral History Project, interviewing 25 alumni, staff, teachers and then-current students of Calvin Coolidge Senior High School in Washington, DC. The project arose from Drake's professional relationship with Verna Avery-Brown; Drake was a volunteer at WPFW 89.3 FM - Pacific Radio, where Verna Avery-Brown was a news anchor. Avery-Brown is an alumna of Coolidge Senior High School. Coolidge has an active alumni association. Drake applied for and received a $5,000 grant from the DC Commission on the Arts and Humanities. With those funds, Drake obtained equipment and facilitated interviews between then-current students and alumni, teachers, staff and parents in school classrooms; produced a WPFW radio show of the final interviews; and bound copies of the interviews to give to the alumni. A copy of the final radio show and the interviews were burned to audio CDs and given to three institutions: the Calvin Coolidge Senior High School library, the Moorland-Spingarn Research Center at Howard University, and the Charles Sumner School Museum and Archives, all located in Washington, DC. This collection is comprised of 16 audio CDS (14 CDs of 24 interviews of 27 people, plus 2 CDS for the final radio show), and 26 color 4"x6" photographs of 25 of the 27 interviewees (includes one duplicate photo). The radio show contains snippets of interviews interwoven with popular commercially recorded music. 
@@ -36,22 +35,6 @@
  The Coolidge Senior High School Oral History Project interviews reflect the school's history of student political and social activism, demographic changes in the student body, and a chronicle of school spirit between the mid-1960s to 1997. The earliest alumni interviews are from the class of 1965; the latest from class of 1997. Missing are interviews with alumni who graduated during the 1980s and much of the 1990s. Included are stories of a student chapter of the Black Panther Party, a student march with a coffin to the White House during the Vietnam War, student pushes for creating black studies in high school, mention of the DC riots, historic DC events, student clubs, sports and extracurricular activities, popular music and dances, and the activism of the alumni association. Notable Coolidge alumni include Verna Avery-Brown, former Washington Bureau Chief of Pacifica Radio news in Washington, DC; Michael Blakey, biological anthropologist and director of the African Burial Ground Project in New York City; Ada Mitchell, physical educator teacher and coach at Coolidge Senior High School for 42 years; Philip PremDas, state director, GED administrator and chief examiner for the Office of the State Superintendent of Education (OSSE) in Washington, DC; and Davey Yarborough, internationally known saxophonist, recording artist, performer, bandleader, composer, arranger and educator, and creator of the internationally recognized jazz studies program and jazz orchestra at Duke Ellington School for the Arts in Washington, DC. 
 
  Interviewed are 27 people: Verna Avery-Brown, Vanilla Beane, Gregory Bell, Michael Blakey, Consuelo Ellis Brown, L. Nelson Burton, Christine Easterling, Kenneth Ellerbe, Terry Goings, Susan Gordon, Terri Jo Hayes, Jerome Johnson, Frank Jones III, Loretta Kelly, John Mercer, Ada Mitchell, Aric Moore, Donna Pixley, Philip PremDas, James Proctor, Shawn Ruffing, Harold Smith, Vincent Tate, Ray Weaver, Stephen Whitney, Sylvia Frazier Weathers (d. Aug. 21, 2010) and Davey Yarborough.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Ingrid Drake, CGAP (Certified Government Auditing Professional), is a program analyst with the Office of District of Columbia Auditor (ODCA). Previously she was an investigator for the Washington-based nonprofit Project On Government Oversight (POGO); and was a writer, Pacifica Radio correspondent, and community educator living in Washington, DC. In 2007 at the time of gift, she was a local DC journalist, writing for several outlets: DC North, East of the River, Hill Rag, DC Radio Co-op, www.DCIndymedia.org, WPFW 89.3 FM - Pacifica Radio, and Free Speech Radio News. Contact info: IngridNatasha@yahoo.com.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
   </record>
 </marc:collection>

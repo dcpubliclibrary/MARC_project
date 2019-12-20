@@ -1,54 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19141964xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">052</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Petworth Women’s Club Collection,</subfield>
-      <subfield code="f">1914-1964</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">3.5</subfield>
-      <subfield code="f">linear feet; 10 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection contains programs, yearbooks, meeting minutes, reports, membership lists, correspondence, and receipts which document the activities of the Petworth Women’s Club.   The bulk of the materials are dated from 1915-1955.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">On the evening of July 6, 1914, Mrs. Harriet Hill who lived on Taylor Street called the President of the D.C. Federation of Women’s Clubs about organizing a women’s club to promote the best interests of the Petworth neighborhood.   Eleven women met that evening and officers were elected.  Soon after, six sections were formed, including civic, educational, literature, home, philanthropic, music and art to choose appropriate social, educational, or philanthropic activities for its members.  In the early years, membership was limited to women of Petworth, as bounded by Hamilton Street on the North, Rock Creek Church Road on the south, Third Street on the east, and Georgia Avenue to the west.   Starting in 1914, monthly business meetings were held in the Petworth School house, then by 1937 at the Petworth Methodist Church.  Highlights of club activities included:  a campaign led by Mrs. A.C. Norcross for a public library branch in Petworth in the 1920s; a Red Cross Production unit organized during WWII; a visiting nurses group which assisted at the Walter Reed Hospital; and a sewing circle of the Philanthropic section which provided clothes to needy children at D.C. Village and the Convalescent Hospital for almost 30 years. Charter members included Mrs. Annie Nelson, Mrs. A.C. Norcross, Mrs. Harriet Hill, Mrs. W.F. North, Mrs. Frank H. Schwartz, and Mrs. W. Winklehaus.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Items in this collection were part of the Washingtoniana Division’s vertical files. Vertical files are maintained for ease of reference on various topics related to D.C. history and current events. .  To ensure the physical preservation of fragile handwritten documents in the vertical file, in 1999 they were removed and photocopied.  Photocopies were returned to the vertical files and the originals are in this collection.</subfield>
+      <subfield code="a">Petworth Women’s Club Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3.5 linear feet; 10 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">052</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">On the evening of July 6, 1914, Mrs. Harriet Hill who lived on Taylor Street called the President of the D.C. Federation of Women’s Clubs about organizing a women’s club to promote the best interests of the Petworth neighborhood.   Eleven women met that evening and officers were elected.  Soon after, six sections were formed, including civic, educational, literature, home, philanthropic, music and art to choose appropriate social, educational, or philanthropic activities for its members.  In the early years, membership was limited to women of Petworth, as bounded by Hamilton Street on the North, Rock Creek Church Road on the south, Third Street on the east, and Georgia Avenue to the west.   Starting in 1914, monthly business meetings were held in the Petworth School house, then by 1937 at the Petworth Methodist Church.  Highlights of club activities included:  a campaign led by Mrs. A.C. Norcross for a public library branch in Petworth in the 1920s; a Red Cross Production unit organized during WWII; a visiting nurses group which assisted at the Walter Reed Hospital; and a sewing circle of the Philanthropic section which provided clothes to needy children at D.C. Village and the Convalescent Hospital for almost 30 years. Charter members included Mrs. Annie Nelson, Mrs. A.C. Norcross, Mrs. Harriet Hill, Mrs. W.F. North, Mrs. Frank H. Schwartz, and Mrs. W. Winklehaus.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Items in this collection were part of the Washingtoniana Division’s vertical files. Vertical files are maintained for ease of reference on various topics related to D.C. history and current events. .  To ensure the physical preservation of fragile handwritten documents in the vertical file, in 1999 they were removed and photocopied.  Photocopies were returned to the vertical files and the originals are in this collection.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection contains programs, yearbooks, meeting minutes, reports, membership lists, correspondence, and receipts which document the activities of the Petworth Women’s Club.   The bulk of the materials are dated from 1915-1955.</subfield>
     </datafield>
   </record>
 </marc:collection>

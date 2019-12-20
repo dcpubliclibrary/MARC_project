@@ -1,64 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i18712000xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">100</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Paul Philips Cooke Papers,</subfield>
-      <subfield code="f">1871-2000</subfield>
+      <subfield code="a">Paul Philips Cooke Papers</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">16</subfield>
-      <subfield code="f">cubic feet; 16 boxes</subfield>
+      <subfield code="a">16 cubic feet; 16 boxes</subfield>
     </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The Paul Philips Cooke Papers document Cooke's career in education and DC government, as well as his participation in the struggle for civil rights and desegregation of DC schools. The collection contains documents from Cooke's tenure at the DC Teachers’ College and work with the University of the District of Columbia's College of Business and Public Management, scholarships and awards programs and other local organizations including the Board of Education of Kiryas Joel Village, NAACP, and Anthony Bowen YMCA. Also included are academic history symposium files, audiotapes from the New York Times Book Review and Washingtonian Magazine, court papers, copies of The Torch and Cosmos Club, and research files (clippings, tapes, programs) on the Black Power Movement.</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
     </datafield>
-    <datafield ind1="3" ind2=" " tag="520">
-      <subfield code="a">The Paul Philips Cooke Papers document Cooke's career in education and DC government, as well as his participation in the struggle for civil rights and desegregation of DC schools. The collection contains documents from Cooke's tenure at the DC Teachers’ College and work with the University of the District of Columbia's College of Business and Public Management, scholarships and awards programs and other local organizations including the Board of Education of Kiryas Joel Village, NAACP, and Anthony Bowen YMCA.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
+    <datafield ind1="1" ind2=" " tag="545">
       <subfield code="a">Paul Cooke was born in Harlem, NY on June 29, 1917 and grew up in Washington, DC. He graduated in 1933 from Dunbar High School, where he was the first baseman on the varsity baseball team. He graduated from Miner Teachers College in 1937. He received two master's degrees, one in education from New York University and another in English language and literature from the Catholic University of America.
 
 Cooke received a doctorate in education from Columbia University in 1947. He joined Miner’s faculty in the mid-1940s, and worked as a proponent for the desegregation of public schools. In 1955, DC Miner Teachers College and Wilson Teachers College merged to become DC Teachers College, an integrated institution. Cooke became president of the college in 1966 and retired in 1974 before it was absorbed into the University of the District of Columbia. During his eight-year tenure at DC Teachers College, enrollment tripled and the school began taking on an expanded role in the community by sponsoring street patrols to ensure residents' safety and operating a youth recreation program. Cooke served as president of local teachers’ organizations including Local 27 of the American Federation of Teachers and also worked to improve learning conditions at Cardozo and Dunbar High Schools.
 
 After retiring in 1974, Dr. Cooke wrote and spoke widely about the history of Washington. He was the director of international programs for the American Association of State Colleges and Universities and served as a consultant to Howard University, the University of the District of Columbia, the Smithsonian Anacostia Community Museum and the World Peace Through Law Center, a Washington-based nonprofit organization that did work globally with United States Agency for International Development (USAID) grants.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Paul Philips Cooke Papers document Cooke's career in education and DC government, as well as his participation in the struggle for civil rights and desegregation of DC schools. The collection contains documents from Cooke's tenure at the DC Teachers’ College and work with the University of the District of Columbia's College of Business and Public Management, scholarships and awards programs and other local organizations including the Board of Education of Kiryas Joel Village, NAACP, and Anthony Bowen YMCA. Also included are academic history symposium files, audiotapes from the New York Times Book Review and Washingtonian Magazine, court papers, copies of The Torch and Cosmos Club, and research files (clippings, tapes, programs) on the Black Power Movement.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
     </datafield>
     <datafield ind1="1" ind2=" " tag="561">
       <subfield code="a">Gift of Paul Philips Cooke, 1998-2005.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="7" tag="650">
-      <subfield code="a">African Americans</subfield>
-      <subfield code="2">Library of Congress Subject Headings</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
   </record>
 </marc:collection>

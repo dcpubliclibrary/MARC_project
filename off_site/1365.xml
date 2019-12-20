@@ -1,54 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i2002    xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P024</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Bachrach Photograph Collection,</subfield>
-      <subfield code="f">2002</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">12</subfield>
-      <subfield code="f">boxes</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: After exhibition the portrait panels were accessioned into the DC Community Archives collection and placed in archival storage boxes. In 2006, sheets of buffer paper were placed between each image for added protection and the boxes were returned to the DC Community Archives for long-term storage.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of 156 8x10 portraits, of which only one is in black &amp; white. The images were used in an exhibit entitled Washington’s Millennium Leaders – Through the Bachrach Lens, which was on display at the Martin Luther King, Jr. Memorial Library from January 24, 2002 through April 2002. During that time two images, Congresswoman Eleanor Holmes Norton and Armstrong Williams, were stolen and never recovered. Bachrach Studios was asked to replace the missing images, however the request from Ms. Haskins went unanswered. Each portrait is matted and permanently mounted between sheets of mat board. As part of the exhibit, each person’s names and affiliations have been placed on each mounting. The collection is arranged alphabetically by surname, which is believed to be the exhibits original order.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">There is no deed of gift. However, a letter from archivist Faye Haskins indicates that the collection was donated in June 2002 after the exhibit, Washington’s Millennium Leaders – Through the Bachrach Lens, concluded.</subfield>
+      <subfield code="a">Bachrach Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">12 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P024</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">There is no deed of gift. However, a letter from archivist Faye Haskins indicates that the collection was donated in June 2002 after the exhibit, Washington’s Millennium Leaders – Through the Bachrach Lens, concluded.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of 156 8x10 portraits, of which only one is in black &amp; white. The images were used in an exhibit entitled Washington’s Millennium Leaders – Through the Bachrach Lens, which was on display at the Martin Luther King, Jr. Memorial Library from January 24, 2002 through April 2002. During that time two images, Congresswoman Eleanor Holmes Norton and Armstrong Williams, were stolen and never recovered. Bachrach Studios was asked to replace the missing images, however the request from Ms. Haskins went unanswered. Each portrait is matted and permanently mounted between sheets of mat board. As part of the exhibit, each person’s names and affiliations have been placed on each mounting. The collection is arranged alphabetically by surname, which is believed to be the exhibits original order.</subfield>
     </datafield>
   </record>
 </marc:collection>

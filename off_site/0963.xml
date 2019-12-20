@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19311964xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Woodridge Book Club Records</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.5 linear feet; 1 box</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">024</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Woodridge Book Club Records,</subfield>
-      <subfield code="f">1931-1964</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.5</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The Woodridge Book Club collection consists of the Club’s yearly handbooks from 1931 through 1964. Significant items in the collection are those handbooks covering China and the USSR during the years of 1942 through 1946.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Woodridge Book Club, primarily a woman’s organization, was founded in 1927 to both study and promote appreciation of art, literature, and science.  Meetings were held the second Tuesday of every month with topics varying monthly.  Women led panels, discussion groups, and headed organizational committees. Topics of discussion ranged from international affairs to current issues in the arts and sciences.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Most of the items in this collection were originally part of the Washingtoniana Division’s vertical files, a set of files maintained for ease of reference on various topics related to D.C. history and current events.  The vertical files primarily contain clippings but also include other rare items such as signed letters, original programs, and reports.  To ensure the physical preservation of rare documents in the vertical file on the Woodridge Book Club, they were removed in 1999 to create this collection.  Photocopies of clippings and other less rare items were retained in the vertical file.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Woodridge Book Club, primarily a woman’s organization, was founded in 1927 to both study and promote appreciation of art, literature, and science.  Meetings were held the second Tuesday of every month with topics varying monthly.  Women led panels, discussion groups, and headed organizational committees. Topics of discussion ranged from international affairs to current issues in the arts and sciences.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Most of the items in this collection were originally part of the Washingtoniana Division’s vertical files, a set of files maintained for ease of reference on various topics related to D.C. history and current events.  The vertical files primarily contain clippings but also include other rare items such as signed letters, original programs, and reports.  To ensure the physical preservation of rare documents in the vertical file on the Woodridge Book Club, they were removed in 1999 to create this collection.  Photocopies of clippings and other less rare items were retained in the vertical file.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Woodridge Book Club collection consists of the Club’s yearly handbooks from 1931 through 1964. Significant items in the collection are those handbooks covering China and the USSR during the years of 1942 through 1946.</subfield>
     </datafield>
   </record>
 </marc:collection>

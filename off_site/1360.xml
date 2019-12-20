@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i1993    xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P017</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">United Brick Company Photograph Collection,</subfield>
-      <subfield code="f">1993</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box. The box was then placed in the DC Community Archives for long-term storage.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of eighty-five 4x6 and 3.5x5 color images of the abandoned United Brick Company buildings and kilns. The kilns are located on New York Avenue and are currently owned by the National Arboretum. All the images were taken around 1993 and show the vast vegetation over-growth and dilapidation of the site.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The United Brick Company built the kilns around 1909, and at its peek produced over 140,000 bricks a day. The brickyard made its last brick in 1972 and the site was abandoned. In 1977 the National Arboretum purchased the land and in October of 1978 the United Brick Corporation brick complex was added to the National Registry of Historic Places. The National Arboretum has plans to landscape the area, but has yet to begin the work.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs. Original housing for the photographs was in a “Bernard Johnson Incorporated” envelope, but there is no indication that they were the donor.</subfield>
+      <subfield code="a">United Brick Company Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Architecture</subfield>
@@ -53,12 +21,31 @@
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P017</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The United Brick Company built the kilns around 1909, and at its peek produced over 140,000 bricks a day. The brickyard made its last brick in 1972 and the site was abandoned. In 1977 the National Arboretum purchased the land and in October of 1978 the United Brick Corporation brick complex was added to the National Registry of Historic Places. The National Arboretum has plans to landscape the area, but has yet to begin the work.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs. Original housing for the photographs was in a “Bernard Johnson Incorporated” envelope, but there is no indication that they were the donor.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of eighty-five 4x6 and 3.5x5 color images of the abandoned United Brick Company buildings and kilns. The kilns are located on New York Avenue and are currently owned by the National Arboretum. All the images were taken around 1993 and show the vast vegetation over-growth and dilapidation of the site.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,43 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19061960xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">063</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Messiah and Bertha King Collection,</subfield>
-      <subfield code="f">1906-1960</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.5</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The items in this collection consist of correspondence, church bulletins and programs, a prayer book, and various early twentieth century ephemera.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The records consist of meeting minutes, attendance records, financial records, correspondence, clippings, pamphlets, photographs and yearbooks, all related to the activities of the Abracadabra Club and its members.  The collection also contains two gavels and a block used to call meetings to order.  The records reflect the intellectual interests of the members of the Club and cover a wide variety of topics spanning over a century of time.  The collection is divided into six (6) Series: I. Meeting Minutes; II. Yearbooks; III Photographs; IV. Biographical Files; V. Financial Records; and VI Ephemera.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The collection was originally a part of the Washingtoniana Washington Vertical File Collection.  The materials were removed due to their unique nature among the “Church Series” of the Vertical File Collection.  It is not known as to how the Washingtoniana acquired the materials.</subfield>
+      <subfield code="a">Messiah and Bertha King Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">City churches</subfield>
@@ -50,12 +21,31 @@
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Gentrification</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.5 linear feet; 1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">063</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The records consist of meeting minutes, attendance records, financial records, correspondence, clippings, pamphlets, photographs and yearbooks, all related to the activities of the Abracadabra Club and its members.  The collection also contains two gavels and a block used to call meetings to order.  The records reflect the intellectual interests of the members of the Club and cover a wide variety of topics spanning over a century of time.  The collection is divided into six (6) Series: I. Meeting Minutes; II. Yearbooks; III Photographs; IV. Biographical Files; V. Financial Records; and VI Ephemera.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The collection was originally a part of the Washingtoniana Washington Vertical File Collection.  The materials were removed due to their unique nature among the “Church Series” of the Vertical File Collection.  It is not known as to how the Washingtoniana acquired the materials.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The items in this collection consist of correspondence, church bulletins and programs, a prayer book, and various early twentieth century ephemera.</subfield>
     </datafield>
   </record>
 </marc:collection>

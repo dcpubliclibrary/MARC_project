@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19301962xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">018</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Adams Morgan Better Neighborhood Conference Records/Hollyday House Papers,</subfield>
-      <subfield code="f">1930-1962</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">6</subfield>
-      <subfield code="f">linear feet; 11 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Records of Hollyday House include its incorporation papers, by-laws, constitution, statement of purpose, a history, newsletters, correspondence, meeting minutes (1957-1960), financial information, studies reports, photographs, publicity, clippings, and membership lists.  Topics covered by the records include a neighborhood conference, desegregation, urban renewal, the Hollyday House Chorus, Barney House, the Urban Peace Corps, Church of the Brethren, and fund raising. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Adams Morgan Better Neighborhood Conference and the Hollyday House were two organizations formed in the mid-1950s to combat blight, promote urban renewal, and restore community pride in the Adams Morgan area.  Hollyday House was located at 2316 17th Street, N.W. and was a restored house named for Guy T.O. Hollyday, former Commissioner of the Federal Housing Administrations, to honor his advocacy of better housing.  Mrs. Florence N. Cornell, longtime principal of John Q. Adams School was also prominent in both groups.  She was the first executive director of Hollyday House, which began its work in November 1959.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
+      <subfield code="a">Adams Morgan Better Neighborhood Conference/Hollyday House Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
@@ -43,12 +17,54 @@
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Associations, institutions, etc</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Adams Morgan (Washington, D.C.)</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Urban renewal</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Community development, Urban</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Church of the Brethren</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Social settlements</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">11 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">5.5 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">018</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Adams Morgan Better Neighborhood Conference and the Hollyday House were two organizations formed in the 1950s to combat blight, promote urban renewal, and restore community pride in the Adams-Morgan neighborhood.The Adams Morgan Better Neighborhood Conference was established in 1955 by Florence N. Cornell, principal of John Quincy Adams Elementary School, and Bernice Brown, principal of Thomas P. Morgan Elementary School, to promote a more integrated neighborhood. Adams, an all white school, and Mogan, an all black school, were segregated until the 1954 Supreme Court ruling finding school segregation unconstitutional. The Adams Morgan Better Neighborhood Conference organized the neighborhood into block associations and was active in involving neighborhood residents in urban renewal plans. The Adams Morgan Better Neighborhood Conference recognized limitations in the services they were able to provide the neighborhood and sought a way to bring in professional organization. In March of 1958, through a Sears Roebuck foundation grant the Conference established the Hollyday House, named for the former Commissioner of the Federal Housing Administration, Guy T. O. Hollyday. Located at 2316 17th Street NW, Hollyday House served as an information and referral center for the Adams-Morgan neighborhood. Florence Cornell, co-founder of the Adams Morgan Better Neighborhood Conference, became the first executive director of Hollyday House in November 1959. Until the late 1960s directors of the Hollyday House, many who were tied to the Church of the Brethren, lived and worked in the house; which was maintained by Bell Vocational High School students. Programs offered to neighborhood residents included reading, tutoring, choirs, and social events for children; and cooking and sewing for adults. Programs changed with the interests of the directors and needs of the neighborhood. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Unknown donor. </subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Items include by-laws, constitution, statement of purpose, a history, newsletters, correspondence, meeting minutes, financial information, studies, reports, photographs, publicity, clippings, membership lists, and incorporation papers for Hollyday House. Topics covered by the records include a neighborhood conference, desegregation, urban renewal, the Hollyday House Chorus, Barney House, the Urban Peace Corps, Church of the Brethren, and fundraising. </subfield>
     </datafield>
   </record>
 </marc:collection>

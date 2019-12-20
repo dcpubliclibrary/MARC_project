@@ -1,47 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19701987xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P002</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">D. C. Historic Preservation Division Photograph Collection,</subfield>
-      <subfield code="f">1970-1987</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">3</subfield>
-      <subfield code="f">Linear Feet</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection contains three linear feet of photographs, negatives, and some slides, of historic properties in the City taken from approximately 1970-1987.  The photographs consist of two types:  snapshots and enlargements submitted by applicants to support their requests for building permits to renovate historic properties; and photographs maintained by the Division of historic buildings in the District.  The collection also contains a very small amount of letters related to historic properties.    Photographs of the Anacostia, Adams Morgan, Mount Pleasant, Capitol Hill, Ledroit Park, Logan Circle, Dupont Circle, Georgetown, and Downtown neighborhoods as well as buildings such as the Renwick Gallery of Art, Grace Episcopal Church, the National Cathedral School, and the Stoddart Baptist Home, among others, are in the collection. 
-
-In order to maintain the original order established by the Division, folders are arranged into three series:  Neighborhoods, Geographical Quadrants, and Landmarks.  Within these main divisions, folders are arranged alphabetically with general materials appearing before the more specific.  
-
-In 2014 preservation work on the collection resulted in some additional processing. All images were removed from improper housing and re-housed into new archival safe polyester sleeves. New folder titles were created in the same style/manor as the original order of the collection. This was done to provide a greater understanding of what street locations were contained within each series. For preservation reasons, larger formatted items were from folders and moved to a flat storage box (box 8). Duplicate prints, originally housed in box 8 were re-integrated into the collection.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The D.C. Historic Preservation Division is part of the Department of Consumer and Regulatory Affairs and is governed by the D.C. Historic Landmark and Historic District Protection Act of 1978 (D.C. Law 2-144).  In August, 1983, the Council established the D.C. Historic Preservation Review Board as an appointed D.C. advisory board with the Division serving as staff for the Board .  Prior to the Board's creation, a Joint Committee established by the Commission of Fine Arts and the National Capital Planning Commission regularly prepared a list of Landmarks of the National Capital and designated properties for the National Register of Historic Places. The Division is now the agency responsible for surveying historic properties in D.C. in order to maintain the Inventory of Historic Sites, many of which are included in the National Register of Historic Places. The Division also reviews and issues building permits for properties of historic significance.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The photographs were donated to the Archives by Stephen Collcott for the Historic Preservation Division of the D.C. Government.</subfield>
+      <subfield code="a">D. C. Historic Preservation Division Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Architecture</subfield>
@@ -51,12 +18,31 @@ In 2014 preservation work on the collection resulted in some additional processi
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">3 Linear Feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P002</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The D.C. Historic Preservation Division is part of the Department of Consumer and Regulatory Affairs and is governed by the D.C. Historic Landmark and Historic District Protection Act of 1978 (D.C. Law 2-144).  In August, 1983, the Council established the D.C. Historic Preservation Review Board as an appointed D.C. advisory board with the Division serving as staff for the Board .  Prior to the Board's creation, a Joint Committee established by the Commission of Fine Arts and the National Capital Planning Commission regularly prepared a list of Landmarks of the National Capital and designated properties for the National Register of Historic Places. The Division is now the agency responsible for surveying historic properties in D.C. in order to maintain the Inventory of Historic Sites, many of which are included in the National Register of Historic Places. The Division also reviews and issues building permits for properties of historic significance.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The photographs were donated to the Archives by Stephen Collcott for the Historic Preservation Division of the D.C. Government.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection contains three linear feet of photographs, negatives, and some slides, of historic properties in the City taken from approximately 1970-1987.  The photographs consist of two types:  snapshots and enlargements submitted by applicants to support their requests for building permits to renovate historic properties; and photographs maintained by the Division of historic buildings in the District.  The collection also contains a very small amount of letters related to historic properties.    Photographs of the Anacostia, Adams Morgan, Mount Pleasant, Capitol Hill, Ledroit Park, Logan Circle, Dupont Circle, Georgetown, and Downtown neighborhoods as well as buildings such as the Renwick Gallery of Art, Grace Episcopal Church, the National Cathedral School, and the Stoddart Baptist Home, among others, are in the collection. In order to maintain the original order established by the Division, folders are arranged into three series:  Neighborhoods, Geographical Quadrants, and Landmarks.  Within these main divisions, folders are arranged alphabetically with general materials appearing before the more specific.  In 2014 preservation work on the collection resulted in some additional processing. All images were removed from improper housing and re-housed into new archival safe polyester sleeves. New folder titles were created in the same style/manor as the original order of the collection. This was done to provide a greater understanding of what street locations were contained within each series. For preservation reasons, larger formatted items were from folders and moved to a flat storage box (box 8). Duplicate prints, originally housed in box 8 were re-integrated into the collection.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,56 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19181934xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">072</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Shubert-Garrick-Belasco Theatre Collection,</subfield>
-      <subfield code="f">1918-1934</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2</subfield>
-      <subfield code="f">linear feet; 2 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">This collection consists of five bound volumes of financial records from the Shubert Garrick Theatre and the Shubert Belasco Theatre.  These records show the expenses and financial reports for various productions from 1918 to 1934.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Shubert Theatres were owned by the Shubert Brothers of New York.  The Shubert brothers, Lee, Sam and Jacob, owned theatres throughout the United States, including Washington, DC.  They originally staged operettas and then moved on to staging musicals and dramas in the 1930s and 1940s.  Originally created as Shubert Enterprises, the Shubert Organization still manages theatres throughout the US, including the National Theatre in Washington, DC.  
-
-In Washington, DC, from the 1910s to the 1930s, the Shuberts managed the Garrick Theatre, the Belasco Theatre and Poli’s Theatre.  After examining the programs from these three Theatres, it is assumed that the Garrick Theatre ceased in existence around 1925.  By 1925, the Shuberts produced one program for both the Belasco Theatre and Poli’s Theatre.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The collection was accessioned into the DC Community Archives in 1998; however, evidence shows that it had been a part of the Archives for some time prior to 1997.  The donor is unknown.</subfield>
+      <subfield code="a">Shubert-Garrick-Belasco Theatre Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Performing Arts</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 linear feet; 2 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">072</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Shubert Theatres were owned by the Shubert Brothers of New York.  The Shubert brothers, Lee, Sam and Jacob, owned theatres throughout the United States, including Washington, DC.  They originally staged operettas and then moved on to staging musicals and dramas in the 1930s and 1940s.  Originally created as Shubert Enterprises, the Shubert Organization still manages theatres throughout the US, including the National Theatre in Washington, DC.  In Washington, DC, from the 1910s to the 1930s, the Shuberts managed the Garrick Theatre, the Belasco Theatre and Poli’s Theatre.  After examining the programs from these three Theatres, it is assumed that the Garrick Theatre ceased in existence around 1925.  By 1925, the Shuberts produced one program for both the Belasco Theatre and Poli’s Theatre.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The collection was accessioned into the DC Community Archives in 1998; however, evidence shows that it had been a part of the Archives for some time prior to 1997.  The donor is unknown.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">This collection consists of five bound volumes of financial records from the Shubert Garrick Theatre and the Shubert Belasco Theatre.  These records show the expenses and financial reports for various productions from 1918 to 1934.</subfield>
     </datafield>
   </record>
 </marc:collection>

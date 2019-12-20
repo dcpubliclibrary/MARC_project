@@ -1,54 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i18891970xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">American Association of University Women-Washington Branch Records</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 linear feet; 4 boxes</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">059</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">American Association of University Women-Washington Branch Records,</subfield>
-      <subfield code="f">1889-1970</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2</subfield>
-      <subfield code="f">linear feet; 4 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of correspondence, bulletins, yearbooks, clippings, legal documents and photographs that document the Washington Branch of the American Association of University Women.  The collection is divided into the following three series: Administrative Files, Bulletins, and Yearbooks.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The American Association of University Women (AAUW) was incorporated in 1881 in Boston, Massachusetts as the Association of Collegiate Alumnae (ACA).  The Washington Branch of the Association was organized in 1882 and was the first branch of the Association.  In 1920, the National Association opened its headquarters in Washington, DC at 1634 I Street NW, where they remained until 1960.  The Washington Branch shared this facility with the National Association.  In 1921 the ACA merged with the Southern Association of College Women to form the AAUW.
-
-In the 1940s, the National Association and the Washington Branch entered into a legal battle over the Branch’s refusal to admit African-American members (in particular, Mary Church Terrell).  The Washington Branch claimed that the National By-Laws allowed the local branches to dictate membership.  At the same time, the National Association was asserting its right to terminate the Washington Branch.  A federal court ruled that the Washington Branch indeed had the right to dictate its own membership, but that the National Association had the right to terminate the Washington Branch.  With the federal ruling handed down, the National Association terminated the Washington Branch and then re-instituted those Washington members who were in support of the National Association as the official Washington Branch.  
-
-The Washington Branch continued the mission of the National Branch, which was to “carr[y] out a program of education through study groups, panel discussion,…encourage high standards in education, undertake projects to extend local cultural and educational facilities…[and] offer fellowships to aid gifted women…”  The Washington Branch still continues to work for women’s issues to this day.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The collection was originally filed in the Washingtoniana Division Vertical File Collection.  Because of the unique nature of the materials and the amount of materials available, it was decided that a collection should be created out of the materials, which were then sorted by subject.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The American Association of University Women (AAUW) was incorporated in 1881 in Boston, Massachusetts as the Association of Collegiate Alumnae (ACA).  The Washington Branch of the Association was organized in 1882 and was the first branch of the Association.  In 1920, the National Association opened its headquarters in Washington, DC at 1634 I Street NW, where they remained until 1960.  The Washington Branch shared this facility with the National Association.  In 1921 the ACA merged with the Southern Association of College Women to form the AAUW.In the 1940s, the National Association and the Washington Branch entered into a legal battle over the Branch’s refusal to admit African-American members (in particular, Mary Church Terrell).  The Washington Branch claimed that the National By-Laws allowed the local branches to dictate membership.  At the same time, the National Association was asserting its right to terminate the Washington Branch.  A federal court ruled that the Washington Branch indeed had the right to dictate its own membership, but that the National Association had the right to terminate the Washington Branch.  With the federal ruling handed down, the National Association terminated the Washington Branch and then re-instituted those Washington members who were in support of the National Association as the official Washington Branch.  The Washington Branch continued the mission of the National Branch, which was to “carr[y] out a program of education through study groups, panel discussion,…encourage high standards in education, undertake projects to extend local cultural and educational facilities…[and] offer fellowships to aid gifted women…”  The Washington Branch still continues to work for women’s issues to this day.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The collection was originally filed in the Washingtoniana Division Vertical File Collection.  Because of the unique nature of the materials and the amount of materials available, it was decided that a collection should be created out of the materials, which were then sorted by subject.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of correspondence, bulletins, yearbooks, clippings, legal documents and photographs that document the Washington Branch of the American Association of University Women.  The collection is divided into the following three series: Administrative Files, Bulletins, and Yearbooks.</subfield>
     </datafield>
   </record>
 </marc:collection>

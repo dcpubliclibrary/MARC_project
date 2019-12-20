@@ -1,43 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181003i19351950xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">PBY100.A</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Miscellaneous Scrap Book,</subfield>
-      <subfield code="f">1935 - 1950</subfield>
+      <subfield code="a">Miscellaneous Scrap Book</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.5</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: Eva Gilbert glued each document into the scrap book, probably in the order that the items were donated.  Most documents were affixed to only one side of each page.  Acid free sheets have been placed between each page.</subfield>
+      <subfield code="a">0.5 Linear feet</subfield>
     </datafield>
     <datafield ind1="1" ind2=" " tag="541">
       <subfield code="a">This scrap book was assembled by Eva Gilbert who was the first “curator” of the Peabody Room from 1935 to 1950. It is surmised that the ephemera contained in this scrap book was donated by library patrons to the Peabody Room after its opening in October of 1935.</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="544">
-      <subfield code="d">The scrap book measures 10.5” x 12” and contains 75 pages that are numbered in pencil in the lower edge corner to assist in locating described ephemera.  These materials have been indexed by ephemera type and then alphabetically under each category.  The oldest document is from 1786 and the newest is from 1944.</subfield>
+      <subfield code="a">The scrap book measures 10.5” x 12” and contains 75 pages that are numbered in pencil in the lower edge corner to assist in locating described ephemera.  These materials have been indexed by ephemera type and then alphabetically under each category.  The oldest document is from 1786 and the newest is from 1944.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: Eva Gilbert glued each document into the scrap book, probably in the order that the items were donated.  Most documents were affixed to only one side of each page.  Acid free sheets have been placed between each page.</subfield>
     </datafield>
   </record>
 </marc:collection>

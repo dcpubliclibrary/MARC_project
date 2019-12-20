@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19301982xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">033</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">League of the Women Voters of the District of Columbia Records,</subfield>
-      <subfield code="f">1930-1982</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">22.5</subfield>
-      <subfield code="f">linear feet; 31 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection contains clippings and alphabetically arranged office files maintained by the League to document its activities.  Topics in the records cover primarily local D.C. political issues but also national and international concerns of the National League of Women Voters.   The records are divided into two series: topical files and clippings.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">As a result of the 19th Amendment that gave women the right to vote, the National League of Women Voters (NLWV) was established to educate women on how to vote and to provide information on public issues.  On May 26, 1921, a meeting was called in the home of Mrs. Gifford Pinchot to form a District of Columbia branch of the National League of Women Voters.   League charter members included Mrs. Frank Hiram Snell, Mrs. J. Borden Harriman, Mrs. Grace Chamberlain, Judge Mary O’Toole, Miss Harleen James, and Mrs. Louis Brownlow. Famous members of the League have included First Lady Eleanor Roosevelt and Mrs. A.J. McKelway, wife of the editor of the Evening Star.  In 1926, the League adopted the name, “The Voteless District of Columbia League of Women Voters,” to emphasize the District’s disenfranchisement.  Since its inception, the League’s consistent and primary focus has been to educate and lobby for greater self-government for the citizens of the District of Columbia.    
-
-The D.C. League has worked on a variety of issues important to the District as well as national and international issues supported by the NWLV.  During the 1930s and 1940s, the League conducted studies regarding public assistance relief and child welfare in the District, supported home front mobilization efforts during World War II, D.C. government reorganization, juvenile court changes, child labor laws, the 40-hour work week, and improvement of D.C. schools.   In the 1950s and 1960s the League focused much of its attention on gaining suffrage and achieving home rule.   Starting in the 1940s, the League began working for better race relations and supporting civil rights in the Nation’s capital.  The League, as early as the late 1940s, supported desegregating District schools, and anti-discrimination laws in federal government employment and federal housing.   By the 1980s the League had positions on a number of public policy issues such as support of Advisory Neighborhood Commissions (ANCs), a rapid rail system, urban planning, ERA ratification, and gun control laws with qualified support for the University of the District of Columbia and Statehood for the District.  The League, which began as an organization to educate new women voters, now prints a Voters Guide each election, sponsors a speakers bureau, conducts political debates, and advocates for a number of public policy issues for all D.C. citizens.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The Washingtoniana Division received its first donation of records from the League of Women Voters of the District of Columbia in 1981 from Sue Panzer, President of the League.  Subsequent donations have been received periodically from League members.</subfield>
+      <subfield code="a">League of the Women Voters of the District of Columbia Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Civil rights</subfield>
@@ -61,12 +29,31 @@ The D.C. League has worked on a variety of issues important to the District as w
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Gentrification</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">22.5 linear feet; 31 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">033</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">As a result of the 19th Amendment that gave women the right to vote, the National League of Women Voters (NLWV) was established to educate women on how to vote and to provide information on public issues.  On May 26, 1921, a meeting was called in the home of Mrs. Gifford Pinchot to form a District of Columbia branch of the National League of Women Voters.   League charter members included Mrs. Frank Hiram Snell, Mrs. J. Borden Harriman, Mrs. Grace Chamberlain, Judge Mary O’Toole, Miss Harleen James, and Mrs. Louis Brownlow. Famous members of the League have included First Lady Eleanor Roosevelt and Mrs. A.J. McKelway, wife of the editor of the Evening Star.  In 1926, the League adopted the name, “The Voteless District of Columbia League of Women Voters,” to emphasize the District’s disenfranchisement.  Since its inception, the League’s consistent and primary focus has been to educate and lobby for greater self-government for the citizens of the District of Columbia.    The D.C. League has worked on a variety of issues important to the District as well as national and international issues supported by the NWLV.  During the 1930s and 1940s, the League conducted studies regarding public assistance relief and child welfare in the District, supported home front mobilization efforts during World War II, D.C. government reorganization, juvenile court changes, child labor laws, the 40-hour work week, and improvement of D.C. schools.   In the 1950s and 1960s the League focused much of its attention on gaining suffrage and achieving home rule.   Starting in the 1940s, the League began working for better race relations and supporting civil rights in the Nation’s capital.  The League, as early as the late 1940s, supported desegregating District schools, and anti-discrimination laws in federal government employment and federal housing.   By the 1980s the League had positions on a number of public policy issues such as support of Advisory Neighborhood Commissions (ANCs), a rapid rail system, urban planning, ERA ratification, and gun control laws with qualified support for the University of the District of Columbia and Statehood for the District.  The League, which began as an organization to educate new women voters, now prints a Voters Guide each election, sponsors a speakers bureau, conducts political debates, and advocates for a number of public policy issues for all D.C. citizens.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The Washingtoniana Division received its first donation of records from the League of Women Voters of the District of Columbia in 1981 from Sue Panzer, President of the League.  Subsequent donations have been received periodically from League members.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection contains clippings and alphabetically arranged office files maintained by the League to document its activities.  Topics in the records cover primarily local D.C. political issues but also national and international concerns of the National League of Women Voters.   The records are divided into two series: topical files and clippings.</subfield>
     </datafield>
   </record>
 </marc:collection>

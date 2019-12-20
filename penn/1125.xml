@@ -1,55 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i19361993xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">145</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">C. Bernard Ruffin Papers,</subfield>
-      <subfield code="f">1936-1993</subfield>
+      <subfield code="a">C. Bernard Ruffin Papers</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">8.75</subfield>
-      <subfield code="f">linear feet; 6 boxes</subfield>
+      <subfield code="a">8.75 linear feet; 6 boxes</subfield>
     </datafield>
-    <datafield ind1="3" ind2=" " tag="520">
-      <subfield code="a">The C. Bernard Ruffin Collection is an African-American genealogical collection. The collection references the lives of many prominent families and individuals in the Washington D.C. area, including Dr. Charles Drew, Charlene Drew Jarvis, and Mary Church Terrell. C. Bernard Ruffin is a Lutheran minister who pastors at the Lutheran Church of the Holy Comforter. Files include class record books, photographs, Fifteenth Street Presbyterian Church files, Dunbar High School files, and other subject files, including cassette tapes.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The C. Bernard Ruffin papers document Ruffin's personal life as well as his genalogical research. Files include class record books, photographs, Fifteenth Street Presbyterian Church files, Dunbar High School files, and other subject files, including cassette tapes.</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="540">
       <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
+    <datafield ind1="1" ind2=" " tag="545">
       <subfield code="a">The C. Bernard Ruffin Collection is an African-American genealogical collection. The collection references the lives of many prominent families and individuals in the Washington D.C. area, including Dr. Charles Drew, Charlene Drew Jarvis, and Mary Church Terrell. In addition to the family histories featured in the collection, there is an abundance of material regarding the history of the Fifteenth Street Presbyterian Church in D.C. On November 3, 1841, the Reverend John F. Cook held meetings to establish a Presbyterian church for people of African descent. On November 21, 1841, the Fifteenth Street Presbyterian Church was officially organized. Born a slave in 1810 and whose aunt bought his freedom in 1826, Cook served to educate his community. In 1834 he took charge of a school located at 14th and H Streets and renamed it Union Seminary and educated those in the Africana community. Cook began studying in for the ministry in 1836, and went on to serve as a minister at several churches in the area. Cook served as the Fifteenth Street Presbyterian Church’s first pastor. He passed away in 1855.
 
 C. Bernard Ruffin is a Lutheran minister who pastors at the Lutheran Church of the Holy Comforter. Assistant Pastor Bernard Ruffin became a member of Holy Comforter in 1977. He is a third generation Washingtonian, born in 1947, and is a graduate of Roosevelt High School. He earned his A.B. in History in 1969 from Bowdoin College in Brunswick, Maine. He graduated Phi Beta Kappa from Yale Divinity School in New Haven, Connecticut in 1972. Ruffin served as intern pastor in Loganton, Pennsylvania from 1972 to 1973. He was a parish assistant at Luther Place Memorial Church from 1973-1974 and Pastor of Gloria Dei Lutheran Church in Alexandria, Virginia from 1974 until 1976. Pastor Ruffin is a teacher at South Lakes High School in Reston, Virginia where he has worked since 1982 and has written at eight books on various religious and historical topics. His non-fiction work includes Fanny Crosby, The Twelve: The Lives of the Apostles After Calvary, and The Days of the Martyrs: A History of the Persecution of Christians from Apostolic Times to the Time of Constantine.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The C. Bernard Ruffin papers document Ruffin's personal life as well as his genalogical research. Files include class record books, photographs, Fifteenth Street Presbyterian Church files, Dunbar High School files, and other subject files, including cassette tapes.</subfield>
     </datafield>
   </record>
 </marc:collection>

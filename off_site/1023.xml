@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19231969xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">National Christmas Tree Collection</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.25 linear feet; 1 box</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">088</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">National Christmas Tree Collection,</subfield>
-      <subfield code="f">1923-1969</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.25</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of correspondence, speeches, invitations, parking passes, sheet music, clippings, and photographs regarding the history and raising of the National Christmas Tree.  Also included in this collection are materials related to the Christmas Pageant of Peace, which began in 1954.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The first Christmas Tree lighting ceremony in Washington, DC occurred during the Woodrow Wilson administration in 1913 at the U.S. Capitol.  The first tree lighting at the White House occurred at the Ellipse in 1923 during the Calvin Coolidge administration.  The tree lighting ceremony moved from the Ellipse to Sherman Park from 1924 to 1933.  In 1934 the tree was moved to Lafayette Park and the ceremony continued there until 1939 when it was returned to the Ellipse.  From 1941 to 1953 the tree was located on the grounds of the White House.  In 1954 it was permanently moved to the Ellipse and the ceremony has taken place there since.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The collection has been in the DC Community Archives since 1983.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The first Christmas Tree lighting ceremony in Washington, DC occurred during the Woodrow Wilson administration in 1913 at the U.S. Capitol.  The first tree lighting at the White House occurred at the Ellipse in 1923 during the Calvin Coolidge administration.  The tree lighting ceremony moved from the Ellipse to Sherman Park from 1924 to 1933.  In 1934 the tree was moved to Lafayette Park and the ceremony continued there until 1939 when it was returned to the Ellipse.  From 1941 to 1953 the tree was located on the grounds of the White House.  In 1954 it was permanently moved to the Ellipse and the ceremony has taken place there since.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The collection has been in the DC Community Archives since 1983.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of correspondence, speeches, invitations, parking passes, sheet music, clippings, and photographs regarding the history and raising of the National Christmas Tree.  Also included in this collection are materials related to the Christmas Pageant of Peace, which began in 1954.</subfield>
     </datafield>
   </record>
 </marc:collection>

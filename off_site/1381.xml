@@ -1,55 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i18831889xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P025</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Card Mounted Photograph Collection,</subfield>
-      <subfield code="f">1883-1889</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: All images were originally housed with the Washington Historic Image Collection (HIC). During preservation work on the collection it was decided to transfer these images to the DC Community Archives for long-term storage. This move will decrease the likelihood of further damage to the photographs. Those images from the HIC often had a negative created for each image. A sticker containing the negative number was then affixed to the image. Often the number was affixed to the front of the mounting and repeatedly to the image itself. The stickers will remain attached because their removal might cause irreversible damage the image. The images are arranged alphabetically.
-29 images contained a note stating they came from the “Evans Collection.” Through some research it was determined that the Evans Collection came to the library in November 1929 in conjunction with four National Rifle scrapbooks. Since all of these 29 images contained a note stating they came from the “Evans Collection.” Through some research it was determined that the Evans Collection came to the library in November 1929 in conjunction with four National Rifle scrapbooks. Since all of these men were in uniform and most likely members of the National Rifles and originally donated together as one collection it was decided that the images should be returned to the National Rifle Collection, DC Community Archives Collection 51.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of 33 albumen card mounted portraits. These types of images come in a wide variety of styles and sizes. Among the more popular were the cabinet card and carte de visite (CDV). The majority of the images where mounted on standardized mounts roughly measuring 4 ¼” x 6 ½” for cabinet card and 2 ½” x 4 ¼” for the CDVs. In addition to these formats there was also an assortment of larger decorative mounts that gained popularity during the Victorian era. The image itself is often an Albumen print, which is a process by which the emulsion was developed on very thin sheets paper, and was then pasted to the cardboard mounts.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Images transferred from the Washington Historic Image Collection in 2006. There is no deed of gift and it is uncertain as to how the library acquired the majority of these photographs. A few images do note donor on the rear of the image.</subfield>
+      <subfield code="a">Card Mounted Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P025</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Images transferred from the Washington Historic Image Collection in 2006. There is no deed of gift and it is uncertain as to how the library acquired the majority of these photographs. A few images do note donor on the rear of the image.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of 33 albumen card mounted portraits. These types of images come in a wide variety of styles and sizes. Among the more popular were the cabinet card and carte de visite (CDV). The majority of the images where mounted on standardized mounts roughly measuring 4 ¼” x 6 ½” for cabinet card and 2 ½” x 4 ¼” for the CDVs. In addition to these formats there was also an assortment of larger decorative mounts that gained popularity during the Victorian era. The image itself is often an Albumen print, which is a process by which the emulsion was developed on very thin sheets paper, and was then pasted to the cardboard mounts.</subfield>
     </datafield>
   </record>
 </marc:collection>

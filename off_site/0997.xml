@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i18901966xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Society of Washington Artists Collection</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 linear feet; 3 boxes</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">058</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Society of Washington Artists Collection,</subfield>
-      <subfield code="f">1890-1966</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2</subfield>
-      <subfield code="f">linear feet; 3 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The materials in this collection reflect the administrative duties of the management of the Society.  Materials include: correspondence, programs, meeting minutes (including one bound volume of minutes), the official Society Seal, and exhibition catalogues.  Also included in this collection are photocopies of many of the materials.  Some of the copies do not have corresponding original documents in this collection.  The whereabouts of these originals is unknown.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The Society of Washington Artists was founded in 1892 as an organization meant to support the arts and artists in the city of Washington.  The Society put on an annual exhibition of artwork and gave out an award in conjunction with the newspaper the Washington Star.  Notable members include: Everett Warner, Frederick Carl Smith, Susan Brown Chase, Garnet Jex, Heinz Warneke, Ruth A. Anderson, William Henry Holmes (President), Elanor Parke Custis, Louis Amateis, and Alexis Many.  The Society ceased operations in the late 1960s.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The collection was originally filed in the Washingtoniana Division Vertical File Collection and on the shelf in the Reference Room.  Because of the unique nature of the materials and the amount of materials available, it was decided that a collection should be created out of the materials.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The Society of Washington Artists was founded in 1892 as an organization meant to support the arts and artists in the city of Washington.  The Society put on an annual exhibition of artwork and gave out an award in conjunction with the newspaper the Washington Star.  Notable members include: Everett Warner, Frederick Carl Smith, Susan Brown Chase, Garnet Jex, Heinz Warneke, Ruth A. Anderson, William Henry Holmes (President), Elanor Parke Custis, Louis Amateis, and Alexis Many.  The Society ceased operations in the late 1960s.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The collection was originally filed in the Washingtoniana Division Vertical File Collection and on the shelf in the Reference Room.  Because of the unique nature of the materials and the amount of materials available, it was decided that a collection should be created out of the materials.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The materials in this collection reflect the administrative duties of the management of the Society.  Materials include: correspondence, programs, meeting minutes (including one bound volume of minutes), the official Society Seal, and exhibition catalogues.  Also included in this collection are photocopies of many of the materials.  Some of the copies do not have corresponding original documents in this collection.  The whereabouts of these originals is unknown.</subfield>
     </datafield>
   </record>
 </marc:collection>

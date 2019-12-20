@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i        xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">037</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Mt. Pleasant Neighbors Association/Historic Mt. Pleasant Records,</subfield>
-      <subfield code="f">1959-1964; 1985-1996</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.6</subfield>
-      <subfield code="f">linear feet; 2 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Records from the Mount Pleasant Neighbors Association extend from August 5, 1959 to August 24, 1964.  The collection contains, primarily, correspondence, testimonials, membership guidelines, and information about club activities and campaigns.  Records for the non-profit, Historic Mount Pleasant, cover the years 1985 through 1996.  Items in the collection include membership guidelines and information on the Mount Pleasant Revolving Loan Funds.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The records of the Mount Pleasant Neighbors Association were donated to the Library by Eugene Baker, a former President of the Association.</subfield>
+      <subfield code="a">Mt. Pleasant Neighbors Association/Historic Mt. Pleasant Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
@@ -43,12 +17,29 @@
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Associations, institutions, etc</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.6 linear feet; 2 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">037</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545"/>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The records of the Mount Pleasant Neighbors Association were donated to the Library by Eugene Baker, a former President of the Association.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Records from the Mount Pleasant Neighbors Association extend from August 5, 1959 to August 24, 1964.  The collection contains, primarily, correspondence, testimonials, membership guidelines, and information about club activities and campaigns.  Records for the non-profit, Historic Mount Pleasant, cover the years 1985 through 1996.  Items in the collection include membership guidelines and information on the Mount Pleasant Revolving Loan Funds.</subfield>
     </datafield>
   </record>
 </marc:collection>

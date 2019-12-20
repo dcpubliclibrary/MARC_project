@@ -1,53 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i2001    xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP021</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Saving a Community's Recollections: Takoma Park Oral History Project,</subfield>
-      <subfield code="f">2001</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.25</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: After the initial deposit of the transcripts in the Library, the transcript were bound, cataloged and added to Washingtoniana book collection. In 2014, the transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed. All administrative documents were placed into the control file.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">In 2001 the Oral History Committee of Historic Takoma received a grant from Montgomery County's Historic Preservation Commission to conduct interviews with three longtime residents of Takoma Park, Maryland. Topics include public schools, World War II, architecture, real estate development, transportation, the African-American community, race relations, churches, and recreation in the neighborhood and metropolitan area. All interviews were conducted Eilene McGuckian.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from Historic Takoma to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">The Historic Takoma conducted these interviews in 2001. The transcripts of these interviews were transferred to the Library in the early 2000s. There is no deed of gift for this collection.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Historic Takoma is a membership-based, all volunteer organization founded in 1979 to preserve the heritage of Takoma Park, MD and the Takoma Park neighborhood of D.C. through educational activities and the preservation of historic landmarks and artifacts.</subfield>
+      <subfield code="a">Saving a Community's Recollections: Takoma Park Oral History Project</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Oral History</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.25 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">In 2001 the Oral History Committee of Historic Takoma received a grant from Montgomery County's Historic Preservation Commission to conduct interviews with three longtime residents of Takoma Park, Maryland. Topics include public schools, World War II, architecture, real estate development, transportation, the African-American community, race relations, churches, and recreation in the neighborhood and metropolitan area. All interviews were conducted Eilene McGuckian.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Historic Takoma is a membership-based, all volunteer organization founded in 1979 to preserve the heritage of Takoma Park, MD and the Takoma Park neighborhood of D.C. through educational activities and the preservation of historic landmarks and artifacts.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">The Historic Takoma conducted these interviews in 2001. The transcripts of these interviews were transferred to the Library in the early 2000s. There is no deed of gift for this collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial deposit of the transcripts in the Library, the transcript were bound, cataloged and added to Washingtoniana book collection. In 2014, the transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed. All administrative documents were placed into the control file.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from Historic Takoma to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</subfield>
     </datafield>
   </record>
 </marc:collection>

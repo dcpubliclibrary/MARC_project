@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19721988xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">004</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Washington Women’s Arts Center Records,</subfield>
-      <subfield code="f">1972-1988</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">52</subfield>
-      <subfield code="f">linear feet; 117 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Contains general administrative files that include correspondence, Board meeting minutes, annuals reports, contracts, insurance policies, and grant files.  A substantial amount of financial documentation such as Center budgets, receipts, ledgers, financial statements, deposit sheets, and cash books.  Also contains records which document the Center's history and membership such as guest books, membership directories, and documentation of the Women's Conference in the Visual Arts of 1972.  Publications such as Womensphere, the Center's published journal, and issues of its newsletter are included.  Contains records documenting exhibits mounted at the Center such as exhibition lists, resumes, printed programs, and publicity materials.   Also contains audiovisual materials, including audio recordings, video recordings, slides, and photographs of events and exhibits at the Center.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Two events in metropolitan Washington, D.C. area were the primary catalysts for the Washington Women’s Arts Center -- The Conference of Women in the Visual Arts held April 20-22, 1972 at the Corcoran Gallery; and Womansphere, an arts festival held at Glen Echo Park, Maryland in 1974.  The Conference attracted significant women artists from around the country, including Elaine deKooning, Katherine Anne Porter, Lois M. Jones, and Judy Chicago.  The conference steering committee consisted of Mary Beth Edelson, Cynthia Bickley-Green, Barbara Frank, Enid Sandford, Susan Sollins, Josephine Withers, and Yvonne Wulf.  Participants were concerned about the presentation and involvement of so few women artists in the Corcoran's Biennial Exhibition and other exhibitions at major U.S. art galleries.   As a result of these events, local women who attended began discussing and planning for a D.C. women arts center.
-
-The Center was established in 1975 to provide a place for Washington, D.C. women to show their work, improve their artistic skills, and develop their artistic professionalism.  The original founders included Barbara Frank, Katherine Butler, Janis Goodman, Sarah Hyde, and Ann Slayton-Leffler.  The site of the first Center was in a renovated basement at 1821 Q Street, N.W. The Center sponsored a monthly series of lectures and published a journal, Womansphere.  It also conducted workshops, and held literary readings, live performances, and gallery talks.  The primary concentration of the Center was sponsoring juried exhibits of local women artists.  In 1983 the Center moved to the Lansburgh Cultural Center.  The Center closed in the late 1980s.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The records were donated by Marcia Pemberton and Pamela Brown, members of the Washington Women’s Arts Center in 1989.</subfield>
+      <subfield code="a">Washington Women’s Arts Center Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Arts</subfield>
@@ -49,12 +17,53 @@ The Center was established in 1975 to provide a place for Washington, D.C. women
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Associations, institutions, etc</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Women</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Artists</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Exhibitions</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Art centers</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">52 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">117 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">004</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The creation of the Washington Women’s Arts Center was inspired by The Conference of Women in the Visual Arts held April 20-22, 1972 at the Corcoran Gallery; and Womansphere, an arts festival held at Glen Echo Park, Maryland in 1974. The Conference attracted significant women artists from around the country, including Elaine deKooning, Katherine Anne Porter, Lois M. Jones, and Judy Chicago. The conference steering committee consisted of Mary Beth Edelson, Cynthia Bickley-Green, Barbara Frank, Enid Sandford, Susan Sollins, Josephine Withers, and Yvonne Wulf. Participants were concerned about the presentation and involvement of so few women artists in the Corcoran's Biennial Exhibition and other exhibitions at major American  art galleries. As a result of these events, local women who attended began discussing and planning for a D.C. women’s arts center.The Center was established in 1975 to provide a place for D.C. women to show their work, improve their artistic skills, and network. The original founders were Barbara Frank, Katherine Butler, Janis Goodman, Sarah Hyde, and Ann Slayton-Leffler. The site of the first Center was a basement space at 1821 Q Street, NW. The Center sponsored a monthly series of lectures and published the journal, Womansphere. The Center also conducted workshops, held literary readings, live performances, and gallery talks. The primary concentration of the Center was sponsoring juried exhibits of local women artists. In 1983 the Center moved to the Lansburgh Cultural Center located on E Street between 7th and 8th Streets, NW. In 1986 the Center changed its name to the New Arts Center and relocated to the Takoma Park neighborhood. With the new name and in an effort to increase membership, the Center began allowing male artists to join. Despite this change the Center continued to pay homage to its femist past. Financial issues force the Center to dissolve in December of 1988. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The records were donated in 1989 by Marcia Pemberton and Pamela Brown, members of the Washington Women’s Arts Center.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection contains administrative files including correspondence, board meeting minutes, annual reports, contracts, insurance policies, and grant files. The records document the Center's history and membership through guest books, membership directories, and documentation of the 1972 Women's Conference in the Visual Arts. The collection includes the Center's journal Womensphere and issues of its newsletter. Additionally, the collection contains information on the activities of the Center such as exhibits, exhibition lists, artist resumes, printed programs, and publicity materials; as well as audio and video recordings, slides, and photographs of events and exhibits. Also included are budgets, receipts, ledgers, financial statements, deposit sheets, and cash books.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">Permission must be obtained from the artist to reproduce any images. </subfield>
     </datafield>
   </record>
 </marc:collection>

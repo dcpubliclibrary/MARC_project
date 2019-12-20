@@ -1,43 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i1987    xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P019</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Hambright and Hoachlander Photograph Collection,</subfield>
-      <subfield code="f">1987</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box. The box was then placed in the DC Community Archives for long-term storage. Negatives were assigned a number that directly corresponded to the print and placed in individual archival sleeves. Additionally, the collection name and some intellectual information was added to the sleeve. The negatives were then placed in an archival box and placed in the negative cabinet for long-term storage.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of thirty 4x5 black and white photographs each with a corresponding negative. Photographers Anice Hoachlander and Harlan Hambright in 1987 took these images to document buildings on 500 block of 9th Street and the 900 block of E Street in northwest Washington. These buildings were torn down to make way for a larger office building.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs. The box they were stored in was sent to David Maloney at Historic Preservation from the Quadrangle Development Corporation. There is no indication that either one of these organizations donated the images to the DC Community Archives and/or Washingtoniana.</subfield>
+      <subfield code="a">Hambright and Hoachlander Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Architecture</subfield>
@@ -47,12 +18,28 @@
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P019</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs. The box they were stored in was sent to David Maloney at Historic Preservation from the Quadrangle Development Corporation. There is no indication that either one of these organizations donated the images to the DC Community Archives and/or Washingtoniana.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of thirty 4x5 black and white photographs each with a corresponding negative. Photographers Anice Hoachlander and Harlan Hambright in 1987 took these images to document buildings on 500 block of 9th Street and the 900 block of E Street in northwest Washington. These buildings were torn down to make way for a larger office building.</subfield>
     </datafield>
   </record>
 </marc:collection>

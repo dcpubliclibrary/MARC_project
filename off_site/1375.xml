@@ -1,43 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19251930xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P011</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Ruby K. Worner Photo Album,</subfield>
-      <subfield code="f">1925-1930</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: Since the album was un-bound, it was impossible to determine the original order of the pages; therefore the album was processed in the order in which it was stored. Before removal of the photographs, the pages were photocopied onto acid-free paper in order to preserve the original appearance of the album pages. The photographs were removed from the album pages going from left to right, top to bottom. Each image was placed in individual paper sleeves, intellectual information regarding the photograph was transferred onto the envelope, and the image was assigned a number. A general description of the image was added to the sleeve and any copy-negative information was recorded in the lower right corner. (Note: copy-negative numbers directly reflect those assigned to the images.) The completed sleeves were then place in archival boxes for storage in the DC Community Archives. Negatives were also placed in an archival box, which was then placed in the negative storage cabinet.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The photo album contains 140 black and white prints and 59 negatives; the majority of the photographs are of noteworthy events and locations in the Washington DC metro area. Although all photographs are undated, based on the style of clothing, model of automobiles and city landmarks, the images date from between circa 1925 and 1935. The photographs range in size from 1”x1 ½” and 3”x4 ¼.” Of importance are photographs of the Cherry Blossom Festival, President Herbert Hoover’s Inauguration, and National Guard Armory buildings located in Capitol Park. Other photographs include views of Mount Vernon, Monticello, Lincoln Memorial, Great Falls, and the Tomb of the Unknown at Arlington National Cemetery. Forty-six of the 140 images have a corresponding negative, however thirteen negatives do not have a matching print. All individuals who appear in the photographs are unidentified and the album appears to have been compiled as a remembrance of events and trips during the early part of Ruby K. Worner’s residence in Washington DC.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">In May 1999, Washingtoniana received an un-bound photo album from Frances Johnson, a relative of Dr. Ruby K. Worner. Dr. Worner, born in San Jose, IL, studied chemistry at the University of Chicago earning her B.S. in 1921, an M.S. in 1922, and a Ph.D. in1925. After teaching at the Oklahoma College for Women, Dr. Worner accepted a position with the US Department of Agriculture in 1927 and moved to Washington DC. She remained with the Department of Agriculture until 1962 when she joined the Food and Agriculture Organization of the United Nations.</subfield>
+      <subfield code="a">Ruby K. Worner Photo Album</subfield>
     </datafield>
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Washington (D.C.)</subfield>
@@ -46,12 +17,28 @@
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P011</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">In May 1999, Washingtoniana received an un-bound photo album from Frances Johnson, a relative of Dr. Ruby K. Worner. Dr. Worner, born in San Jose, IL, studied chemistry at the University of Chicago earning her B.S. in 1921, an M.S. in 1922, and a Ph.D. in1925. After teaching at the Oklahoma College for Women, Dr. Worner accepted a position with the US Department of Agriculture in 1927 and moved to Washington DC. She remained with the Department of Agriculture until 1962 when she joined the Food and Agriculture Organization of the United Nations.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The photo album contains 140 black and white prints and 59 negatives; the majority of the photographs are of noteworthy events and locations in the Washington DC metro area. Although all photographs are undated, based on the style of clothing, model of automobiles and city landmarks, the images date from between circa 1925 and 1935. The photographs range in size from 1”x1 ½” and 3”x4 ¼.” Of importance are photographs of the Cherry Blossom Festival, President Herbert Hoover’s Inauguration, and National Guard Armory buildings located in Capitol Park. Other photographs include views of Mount Vernon, Monticello, Lincoln Memorial, Great Falls, and the Tomb of the Unknown at Arlington National Cemetery. Forty-six of the 140 images have a corresponding negative, however thirteen negatives do not have a matching print. All individuals who appear in the photographs are unidentified and the album appears to have been compiled as a remembrance of events and trips during the early part of Ruby K. Worner’s residence in Washington DC.</subfield>
     </datafield>
   </record>
 </marc:collection>

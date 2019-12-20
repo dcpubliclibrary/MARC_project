@@ -1,56 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i19532001xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">138</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">National Tots and Teens, Inc., DC Chapter Records,</subfield>
-      <subfield code="f">1953-2001</subfield>
+      <subfield code="a">National Tots and Teens, Inc., DC Chapter Records</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">11</subfield>
-      <subfield code="f">cubic feet; 11 boxes</subfield>
+      <subfield code="a">11 cubic feet; 11 boxes</subfield>
     </datafield>
-    <datafield ind1="3" ind2=" " tag="520">
-      <subfield code="a">The DC chapter of National Tots and Teens, Inc. was organized in June 1959 when thirteen mothers gathered to create a local chapter in the District. As a national organization,Tots and Teens, Inc. served to offer recreational, social and cultural development to children and establish an understanding of the relationship between parent and child. The DC chapter of Tots and Teens, Inc. records document the organization's operations and includes agendas, by-laws, event flyers, family rosters, meeting minutes, memorabilia, news bulletins, newsletters, and other items.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The DC chapter of Tots and Teens, Inc. records document theorganization's operations and includes agendas, by-laws, event flyers, family rosters, meeting minutes, memorabilia, news bulletins, newsletters, and other items.</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="540">
       <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">National Tots and Teens, Inc. was founded in Los Angeles in1954 when Geraldine Jacoway Ross desired a way for whole families to interact with each other as well and develop relationships with local families. The organization served to offer recreational, social and cultural development to children and establish an understanding of the relationship between parent and child. Members believed that the family should operate as whole unit, and the goal was to reach each member of the family by involving everyone in all program activities regardless of age. At the time, National Tots and Teens, Inc. was divided into four regions: Eastern Seaboard, Midwest, Central and Far West. The DC chapter of National Tots and Teens, Inc. frequently interacted with the Cleveland (Ohio) and St. Louis (Missouri) chapters.Organized in June 1959 when thirteen mothers gathered to create a local chapter. Mrs. Carolyn B. Buford was instrumental in creating the DC chapter. By 1962, membership had grown to 60 families with about 115 children. Members hosted theater events, went on ski trips, developed a bowling league, and established an annual tennis league. The chapter was also involved in community service/volunteers projects in the area at the Junior Village, the Merriweather Home for Children, Children’s Hospital and the Uplift House for Children. The chapter was also involved with the National Association for the Advancement of Colored People (NAACP), holding a full lifetime membership.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
     <datafield ind1="1" ind2=" " tag="561">
       <subfield code="a">Doreen Hope, a member of the DC chapter of National Tots and Teens, Inc., donated this collection to the DC Public Library’s Special Collections department.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">National Tots and Teens, Inc. was founded in Los Angeles in1954 when Geraldine Jacoway Ross desired a way for whole families to interact with each other as well and develop relationships with local families. The organization served to offer recreational, social and cultural development to children and establish an understanding of the relationship between parent and child. Members believed that the family should operate as whole unit, and the goal was to reach each member of the family by involving everyone in all program activities regardless of age. At the time, National Tots and Teens, Inc. was divided into four regions: Eastern Seaboard, Midwest, Central and Far West. The DC chapter of National Tots and Teens, Inc. frequently interacted with the Cleveland (Ohio) and St. Louis (Missouri) chapters.Organized in June 1959 when thirteen mothers gathered to create a local chapter. Mrs. Carolyn B. Buford was instrumental in creating the DC chapter. By 1962, membership had grown to 60 families with about 115 children. Members hosted theater events, went on ski trips, developed a bowling league, and established an annual tennis league. The chapter was also involved in community service/volunteers projects in the area at the Junior Village, the Merriweather Home for Children, Children’s Hospital and the Uplift House for Children. The chapter was also involved with the National Association for the Advancement of Colored People (NAACP), holding a full lifetime membership.</subfield>
     </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The DC chapter of Tots and Teens, Inc. records document theorganization's operations and includes agendas, by-laws, event flyers, family rosters, meeting minutes, memorabilia, news bulletins, newsletters, and other items.</subfield>
     </datafield>
   </record>
 </marc:collection>

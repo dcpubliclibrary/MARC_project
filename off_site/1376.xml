@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i1984    xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">P013</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Mount Zion United Methodist Church Photograph Collection,</subfield>
-      <subfield code="f">1984</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1</subfield>
-      <subfield code="f">box</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: Each image was assigned a number and placed in individual polypropylene sleeve. An image number and collection number were added to the rear of each photograph. The completed sleeves were then placed in acid free folders and then in an archival box for storage in the DC Community Archives.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The collection consists of forty-four 3x5 (19 color, 25 B and W) and four 8x10 (all B and W) prints of the Mount Zion United Methodist Church’s Community House. The Church is located at 1334 29th Street, NW, while the Community House is located around the corner at 2906 O Street, NW. Both structures are in the Georgetown section of the city. In 1984 the church and community house were renovated through private funds, grants from the United Methodist Church, and a historic preservation matching-grant from the District of Columbia. The community house was built in 1811 and is believed to be the last English-style cottage in the District of Columbia. The building currently houses a Museum and archive that contains manuscripts, photographs and artifacts from the church’s and Black Georgetown history. 
-
-Most of the images are of the restoration of the Community Houses and were taken prior to the work being done. There are a few images of the handicap ramp, which was added to the church in 1983. There are no negatives with this collection.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs.</subfield>
+      <subfield code="a">Mount Zion United Methodist Church Photograph Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">African Americans</subfield>
@@ -53,12 +22,28 @@ Most of the images are of the restoration of the Community Houses and were taken
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 box</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">P013</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">There is no deed of gift and it is uncertain as to how the library acquired these photographs.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of forty-four 3x5 (19 color, 25 B and W) and four 8x10 (all B and W) prints of the Mount Zion United Methodist Church’s Community House. The Church is located at 1334 29th Street, NW, while the Community House is located around the corner at 2906 O Street, NW. Both structures are in the Georgetown section of the city. In 1984 the church and community house were renovated through private funds, grants from the United Methodist Church, and a historic preservation matching-grant from the District of Columbia. The community house was built in 1811 and is believed to be the last English-style cottage in the District of Columbia. The building currently houses a Museum and archive that contains manuscripts, photographs and artifacts from the church’s and Black Georgetown history. Most of the images are of the restoration of the Community Houses and were taken prior to the work being done. There are a few images of the handicap ramp, which was added to the church in 1983. There are no negatives with this collection.</subfield>
     </datafield>
   </record>
 </marc:collection>

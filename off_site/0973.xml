@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19621974xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">034</subfield>
-    </datafield>
     <datafield ind1="1" ind2="0" tag="245">
-      <subfield code="a">National Ballet Records,</subfield>
-      <subfield code="f">1962-1974</subfield>
+      <subfield code="a">National Ballet Records</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">50</subfield>
-      <subfield code="f">linear feet; 91 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The records consist of trustee minutes, programs, advertisements, press releases, clippings, biographical files, promotional materials, and scrapbooks regarding the promotion and administration of the Ballet.  The collection also contains musical scores, hanging plots, stage directions, board studies, set designs, videotapes, audiotapes, microforms, and photographs which document its artistic work.   The records are arranged into 12 series.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">The National Ballet was founded in 1962 by Jean Riddell as the resident ballet company of the Nation’s capital.  It gave its first performance on January 3, 1963 at Lisner Auditorium. During its 12 years, the company presented 1000 performances in Washington, D.C. and in 275 cites, including the U.S., Canada and Mexico.  In the District, the Company performed first at the Lisner Auditorium and then the Kennedy Center.  In 1974 the Company disbanded due to financial problems.  
-
-Frederick Franklin was the artistic director of the company from its beginning.  Ben Stevenson joined Mr. Franklin as artistic director in 1971 whose first staged ballet was The Sleeping Beauty in observance of the inaugural season of the Kennedy Center.    The company had a strong classical repertory, including Cinderella, Giselle, Coppelia, La Sylphide.  Contemporary works it performed included Harliquinade, Bartok Concerto, and Three Preludes.  Dancers who appeared regularly with the company included Christine Knobloch, Michelle Lees, Kirk Peterson, Fredric Strobel, and Dennis Poole.  Famous guest artists included Margot Fonteyn, Violette Verdy, and Edward Villella.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Jean Riddell donated the records to the Library in 1976.</subfield>
+    <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="a">National Ballet (Washington, D.C.)</subfield>
+      <subfield code="d">1962-1974</subfield>
+      <subfield code="e">creator</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Arts</subfield>
@@ -57,12 +30,31 @@ Frederick Franklin was the artistic director of the company from its beginning. 
       <subfield code="a">Performing Arts</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">50 linear feet; 91 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">034</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">The National Ballet was founded in 1962 by Jean Riddell as the resident ballet company of the Nation’s capital.  It gave its first performance on January 3, 1963 at Lisner Auditorium. During its 12 years, the company presented 1000 performances in Washington, D.C. and in 275 cites, including the U.S., Canada and Mexico.  In the District, the Company performed first at the Lisner Auditorium and then the Kennedy Center.  In 1974 the Company disbanded due to financial problems.  Frederick Franklin was the artistic director of the company from its beginning.  Ben Stevenson joined Mr. Franklin as artistic director in 1971 whose first staged ballet was The Sleeping Beauty in observance of the inaugural season of the Kennedy Center.    The company had a strong classical repertory, including Cinderella, Giselle, Coppelia, La Sylphide.  Contemporary works it performed included Harliquinade, Bartok Concerto, and Three Preludes.  Dancers who appeared regularly with the company included Christine Knobloch, Michelle Lees, Kirk Peterson, Fredric Strobel, and Dennis Poole.  Famous guest artists included Margot Fonteyn, Violette Verdy, and Edward Villella.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Jean Riddell donated the records to the Library in 1976.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The records consist of trustee minutes, programs, advertisements, press releases, clippings, biographical files, promotional materials, and scrapbooks regarding the promotion and administration of the Ballet.  The collection also contains musical scores, hanging plots, stage directions, board studies, set designs, videotapes, audiotapes, microforms, and photographs which document its artistic work.   The records are arranged into 12 series.</subfield>
     </datafield>
   </record>
 </marc:collection>

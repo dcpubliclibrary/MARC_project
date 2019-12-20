@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i18001900xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">PBY011</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Davidson Family Collection,</subfield>
-      <subfield code="f">1800 - 1900</subfield>
+      <subfield code="a">Davidson Family Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">3</subfield>
-      <subfield code="f">Linear feet</subfield>
+      <subfield code="a">3 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">Materials contained in Box 3 were donated circa 1986 to 1988 by Robert Webster Stone, Jr., whose great-great-granduncle was Samuel Grant Davidson.&#13;
+ &#13;
+The provenance of the other materials in this collection is unknown.</subfield>
     </datafield>
     <datafield ind1="2" ind2=" " tag="520">
       <subfield code="a">Original and reproduction manuscript/transcript materials document periods in the lives of three Georgetown residents who were owners and residents of one of Georgetown’s storied landmarks, Evermay :&#13;
@@ -39,14 +30,6 @@ See also Peabody Room’s  “Davidson” vertical file for extensive genealogic
     </datafield>
     <datafield ind1=" " ind2=" " tag="540">
       <subfield code="a"> No known reproduction restrictions are on this collection.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">Materials contained in Box 3 were donated circa 1986 to 1988 by Robert Webster Stone, Jr., whose great-great-granduncle was Samuel Grant Davidson.&#13;
- &#13;
-The provenance of the other materials in this collection is unknown.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
     </datafield>
   </record>
 </marc:collection>

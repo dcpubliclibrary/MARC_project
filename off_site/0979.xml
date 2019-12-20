@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i18961970xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">040</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">DC Public Library Records,</subfield>
-      <subfield code="f">1896-1970</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">142</subfield>
-      <subfield code="f">boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The archives contains the official records of the Free Public Library, a subscriber based library, and the District of Columbia Public Library established in 1898.  The records contain photographs, slides, correspondence, scrapbooks, posters, newsletters, blueprints, maps, architectural drawings, meeting minutes internal memoranda, audiotapes, reports, payroll ledgers, financial information, and other official files.  The records document the operations and projects of the library’s director, board of trustees, divisions, departments, central library, and branch libraries:  The DC Community Archives is the official repository of the records of offices, divisions, departments and trustees of the DC Public Library.  A records management program and records schedules ensures the transfer of permanently valuable historic records to the archives.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">General A.W. Greeley in late 1894 solicited funds for a public library and in 1897 the first subscriber supported “Free Public Library” opened in Washington. Congress was unwilling to fund a public library for Washington residents since it felt the Library of Congress was sufficient to meet their needs.    Finally, in 1898, at the urging of prominent citizens, Congress appropriated $6,720 to fund a public library and the Commissioners appointed nine library Board of Trustees.  The first publicly funded library was located at 1326 New York Avenue with 15,000 books and Weston Flint as its first Librarian.
-
-Prominent philanthropist Andrew Carnegie offered $250,000 to erect a new public library building if Congress would provide monies to maintain it.  On March 3, 1899, Congress passed an act accepting Mr. Carnegie’s gift and setting aside federal reservation lands at Mt. Vernon Square as the site for the new library.  On September 28, 1899, Carnegie increased his total donation to $350,000.  The cornerstone for the central library was laid on April 23, 1901 and on January 7, 1903, the Carnegie Library opened with elaborate festivities and President Theodore Roosevelt and Andrew Carnegie in attendance.  
-
-Dr. George Bowerman was appointed Librarian in 1904, a position he held for 36 years.  In 1911, the first branch library in Takoma Park opened, erected with funds from Andrew Carnegie.  After World War II, money originally donated by Carnegie for erection of branch libraries was finally used to build many new branches, including Southeast, Mt. Pleasant, Tenley, Woodridge, Northeast, and Georgetown from 1922 through 1935. Clara Herbert was appointed Librarian in 1940 and held the position during World War II under 1947.  Harry Peterson, the next librarian, instituted many modern changes in the Post-War period. During the 1960s additional branches were opened, a bookmobile operated in underserved areas, and the library increased services to the underprivileged as part of model cities programs in the city.  In 1965 Peterson began an effort to construct a new and larger central library and by 1972 the Martin Luther King, Jr. Memorial Library opened at 9th and G Streets in a building designed by the famed architect, Mies Van der Rohe.  Additional branches opened or were expanded in the 1970s and 1980s.  Hardy Franklin became Director of DCPL in 1975 and was to serve for more than 20 years.  In 1986 a mural depicting the life and work of the late Martin Luther King, Jr. was installed in the lobby of the library.  In the 1990s internet assess, increased services to children, a literacy program, a Young Adult division, a Business Improvement Center, expanded community events and programs were instituted as part of the services found at the DC Public Library.  The Library celebrated its 100th year anniversary in 1996.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
+      <subfield code="a">District of Columbia Public Library Records</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Architecture</subfield>
@@ -49,12 +18,48 @@ Dr. George Bowerman was appointed Librarian in 1904, a position he held for 36 y
       <subfield code="a">Libraries</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">District of Columbia. Public Library</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Librarians</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Library buildings</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Trusts and trustees</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">142 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">145 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">040</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">In 1894 General Adolphus W. Greeley solicited funds for the creation of a public library in Washington, D.C. In 1897 the subscriber supported Washington Free Public Library was opened as Congress had been unwilling to fund a public library for the District of Columbia (District) since it felt the Library of Congress was sufficient to meet residents’ needs. In 1898 at the urging of Theodore W. Noyes, editor of The Evening Star, and other prominent District citizens, Congress finally appropriated $6,720 to fund a public library and the District Commissioners appointed a nine member library Board of Trustees. The Washington Free Public Library merged with the newly created Public Library and the first publicly funded library in the District opened with 15,000 books at 1326 New York Avenue NW. Andrew Carnegie pledged $250,000 to erect a new library building for the District if Congress would provide funding to maintain the library. On March 3, 1899, Congress passed an act to accept Carnegie’s offer and set aside federally owned land at Mt. Vernon Square as the site for the new central library building. Carnegie increased his total donation to $350,000 on September 28, 1899. The cornerstone for the building was laid on April 23, 1901 and on January 7, 1903 the Carnegie Library opened with elaborate festivities which included President Theodore Roosevelt and Carnegie in attendance. The first official branch library of DCPL was built in 1911 in the Takoma Park neighborhood with funds provided by Carnegie. However, from the earliest days of DCPL many neighborhoods had temporary or subbranch libraries operating in storefronts or schools before receiving a stand alone branch. Two more Carnegie funded library branches were erected; Southeast Neighborhood Library in 1922 and Mt. Pleasant Neighborhood Library in 1925. Northeast Neighborhood Library, Georgetown Neighborhood Library, Petworth Neighborhood Library, and Southwest Neighborhood Library were all added between 1932 and 1942. During the post-war period of the 1950s and 1960s DCPL increased services as part of the Model Cities Programs and a bookmobile was in operation to serve underserved neighborhoods. Between 1953 and 1968 branches added included the Cleveland Park Neighborhood Library, Anacostia Neighborhood Library, Woodridge Neighborhood Library, Washington Highlands Branch (later closed), Tenley-Friendship Library, Francis A. Gregory Neighborhood Library, Dorothy I. Height/Benning Library, Palisades Neighborhood Library, Capitol View Neighborhood Library, West End Neighborhood Library, and Chevy Chase Neighborhood Library. In 1972 the Central Library at Mt. Vernon Square was replaced by the Martin Luther King Jr. Memorial Library (MLK) at 9th and G streets, NW. The new central library was designed by Ludwig Mies van der Rohe and was eight times the size of the original Carnegie Library. Between 1975 and 2012 branches added included Wathat T. Daniel/Shaw Neighborhood Library, Parklands-Turner Neighborhood Library, Lamond-Riggs Neighborhood Library, Juanita E. Thornton/Shepherd Park Neighborhood Library, Northwest One Neighborhood Library, Deanwood Neighborhood Library, Rosedale Neighborhood Library, and William O. Lockridge/Bellevue Library. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Material were transferred to the Washingtoniana Collection as part of a regular library retention policy.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The archive contains the official records of the Washington Free Public Library and the District of Columbia Public Library (DCPL). The records include photographs, slides, correspondence, scrapbooks, posters, newsletters, blueprints, maps, architectural drawings, meeting minutes, internal memoranda, audiotapes, reports, payroll ledgers, financial information, and other official files. The records document the operations and projects of the library’s directors, board of trustees, divisions, departments, central library, and branch libraries. The D.C. Community Archives is the official repository of the records of offices, divisions, departments and trustees of DCPL. The Library follows a records management program and records schedules for transfer of permanently valuable historic records to the archive.</subfield>
     </datafield>
   </record>
 </marc:collection>

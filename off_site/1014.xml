@@ -1,49 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190923i19531979xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">008</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Edward A. Kane Papers,</subfield>
-      <subfield code="f">1953-1979</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">1.75</subfield>
-      <subfield code="f">linear feet; 2 boxes</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="351">
-      <subfield code="a">Federation of Citizens Associations
-Michigan Park Citizens Association
-National Gateway Citizens' Association
-Northeast Council of Citizens’ Association
-Woodridge-Michigan Park News
-Photograph
-.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The papers include correspondence, meeting minutes, newsletters, reports, resolutions, and membership lists from the Federation of Citizens Associations, the Michigan Park Citizens Association, the National Gateway Citizens' Association, and the Northeast Council of Citizens’ Association. The papers also contain newspaper clippings and a photograph of Dr. Kane as a young man. The collection is arranged by Association or Organization name.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">Donated by Dr. Edward A. Kane and Mrs. Mary Kane in 1988.</subfield>
+      <subfield code="a">Edward A. Kane Papers</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
@@ -53,27 +18,34 @@ Photograph
       <subfield code="a">Citizens' Associations</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2="7" tag="650">
-      <subfield code="a">Correspondence</subfield>
-      <subfield code="2">Library of Congress Subject Headings</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 boxes</subfield>
     </datafield>
-    <datafield ind1=" " ind2="0" tag="650">
-      <subfield code="a">Newsletters</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1.75 Linear feet</subfield>
     </datafield>
-    <datafield ind1=" " ind2="7" tag="655">
-      <subfield code="a">Minutes (Records)</subfield>
-      <subfield code="2">Library of Congress Subject Headings</subfield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">008</subfield>
     </datafield>
-    <datafield ind1=" " ind2="7" tag="655">
-      <subfield code="a">Registers (Lists)</subfield>
-      <subfield code="2">Library of Congress Subject Headings</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Dr. Edward A. Kane (1902-1998) was born in Massachusetts and arrived in D.C. in 1924. Kane attended the University of Massachusetts, earned a Masters in chemistry from Catholic University, and a doctorate in biochemistry from Georgetown University. Kane worked for the Department of Agriculture in the Agriculture Research Service for 38 years, retiring in 1965. Kane served in the Army Air Corps during World War II; and then in the Air Force Reserves, retiring as a colonel in 1965.Mary (Kerwin) Kane (1907-1993) was born in Silver Lake, Wisconsin and arrived in D.C. in 1923. She attended George Washington University and was  a secretary for Representative Hamer Harold Budge (R-Idaho), Senator Frank J. Lausche (D-Ohio), and Senator/Vice President Walter Mondale (D- Minn.. She retired in 1979. The Kane’s were married in 1935 and had three children. They were active members of the Health Committee of the Federation of Citizens Association, the Michigan Park Citizens Association, the National Gateway Citizens' Association, and the Northeast Council of Citizens’ Association. Dr. Kane served as Chairman of the Health Committee and Mrs. Kane served as President of the Michigan Park Citizens Association and the Northeast Council of Citizens Associations. In 1968 Dr. Kane was the recipient of the Washington Star award from the Federation of Citizens Associations for his community work.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Donated by Dr. Edward A. Kane and Mrs. Mary Kane in 1988.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The papers include correspondence, meeting minutes, newsletters, reports, resolutions, and membership lists from the Federation of Citizens Associations, the Michigan Park Citizens Association, the National Gateway Citizens' Association, and the Northeast Council of Citizens’ Association. The papers also contain newspaper clippings and a photograph of Dr. Kane as a young man. The collection is arranged by Association or Organization name.</subfield>
     </datafield>
   </record>
 </marc:collection>

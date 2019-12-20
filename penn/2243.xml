@@ -1,53 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">190118i19761979xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">OHP019</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">St. Alban's "Super Sixties Program" Oral History Project,</subfield>
-      <subfield code="f">1976 - 1979</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">7.75</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="500">
-      <subfield code="a">Processing Information: After the initial donation to the Library, the transcripts were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were placed a separate cabinet for patron use. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed, while all known tapes were organized and boxed for long term storage. All administrative documents, including releases, were placed into the control file.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Between 1976 and 1979, members of  St. Alban's Episcopal church parish conducted over 100 oral history interviews with older residents of the District of Columbia. This project conducted listening interviews in which the interviewee was asked to review their lives and to pass on to others whatever they wished to share of their experience. The project director was Sara Jenkins and it was partly funded by a grant from the Advisory Neighborhood Commission 3-C.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="540">
-      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from St. Alban's Episcopal Church to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="541">
-      <subfield code="a">St. Alban's Episcopal Church conducted these interviews between 1976 and 1979 and transferred the collection to the Library in the early 1980s. There is no deed of gift for this collection.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">St. Alban's Parish is an Episcopal church in Washington, D.C. that was founded in 1854.</subfield>
+      <subfield code="a">St. Alban's "Super Sixties Program" Oral History Project</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Oral History</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">7.75 Linear feet</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">Between 1976 and 1979, members of  St. Alban's Episcopal church parish conducted over 100 oral history interviews with older residents of the District of Columbia. This project conducted listening interviews in which the interviewee was asked to review their lives and to pass on to others whatever they wished to share of their experience. The project director was Sara Jenkins and it was partly funded by a grant from the Advisory Neighborhood Commission 3-C.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">St. Alban's Parish is an Episcopal church in Washington, D.C. that was founded in 1854.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">St. Alban's Episcopal Church conducted these interviews between 1976 and 1979 and transferred the collection to the Library in the early 1980s. There is no deed of gift for this collection.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: After the initial donation to the Library, the transcripts were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were placed a separate cabinet for patron use. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed, while all known tapes were organized and boxed for long term storage. All administrative documents, including releases, were placed into the control file.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from St. Alban's Episcopal Church to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</subfield>
     </datafield>
   </record>
 </marc:collection>

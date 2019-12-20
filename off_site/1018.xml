@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19711990xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Hanes Water Main Problems Collection</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">0.5 linear feet; 1 box</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="099">
       <subfield code="a">081</subfield>
     </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Hanes Water Main Problems Collection,</subfield>
-      <subfield code="f">1971-1990</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.5</subfield>
-      <subfield code="f">linear feet; 1 box</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">This collection consists of correspondence, notes, pamphlets, newspaper clippings, legal records, and legislative materials regarding Mrs. Hanes work with Reading Is Fundamental and the problem with sewage and water pipe breaks in Washington, DC.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Loretta C. Hanes, a resident of Washington, DC, graduated from Miner’s Teacher’s College.  She was a DC Public School Teacher for many years and was the Director of DC Reading Is Fundamental (RIF).  Besides education, Mrs. Hanes is also an amateur historian and genealogist.  She was responsible for the re-exhibition of the Emancipation Proclamation at the National Archives and was a strong proponent of the celebration of DC Emancipation Day.  An activist throughout her adult life, Mrs. Hanes played a significant role in the passing of legislation regarding the maintenance of water and sewer pipes in Washington, DC.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The materials in this collection have been in the DC Community Archives since 1995.  It is assumed that Mrs. Loretta C. Hanes donated the collection.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Loretta C. Hanes, a resident of Washington, DC, graduated from Miner’s Teacher’s College.  She was a DC Public School Teacher for many years and was the Director of DC Reading Is Fundamental (RIF).  Besides education, Mrs. Hanes is also an amateur historian and genealogist.  She was responsible for the re-exhibition of the Emancipation Proclamation at the National Archives and was a strong proponent of the celebration of DC Emancipation Day.  An activist throughout her adult life, Mrs. Hanes played a significant role in the passing of legislation regarding the maintenance of water and sewer pipes in Washington, DC</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The materials in this collection have been in the DC Community Archives since 1995.  It is assumed that Mrs. Loretta C. Hanes donated the collection.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">This collection consists of correspondence, notes, pamphlets, newspaper clippings, legal records, and legislative materials regarding Mrs. Hanes work with Reading Is Fundamental and the problem with sewage and water pipe breaks in Washington, DC.</subfield>
     </datafield>
   </record>
 </marc:collection>

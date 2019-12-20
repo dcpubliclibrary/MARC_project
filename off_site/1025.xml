@@ -1,51 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19301973xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">009</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Harry S. Wender Papers,</subfield>
-      <subfield code="f">1930-1973</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2.5</subfield>
-      <subfield code="f">linear feet; 2 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">Contains correspondence, internal memoranda, home rule proposals, publicity materials, legislative materials, meeting minutes, editorials, and membership lists primarily concerning efforts in which Mr. Wender was involved to obtain voting rights for District residents from the 1930s through the 1960s.  Organizations active during this period mentioned in this collection include the D.C. Suffrage Association, Committee of the 100, Citizens Conference on District Suffrage, and Young People’s Home Rule League.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Mr. Wender was a practicing attorney in Washington, D.C. since 1932 when he was admitted to the D.C. Bar.  Mr. Wender was active in a number of local civic organizations, including the D.C. Federation of Citizens Associations, the Home Rule Committee, and the District of Columbia Suffrage Association. He served as chairman of the D.C. Recreation Board from 1942-1952 and President of the Southwest Citizens’ Association. .</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
+      <subfield code="a">Harry S. Wender Papers</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a"> Home rule</subfield>
+      <subfield code="x">Washington (D.C.)</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Suffrage</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Lobbying</subfield>
+      <subfield code="2">Library of Congress Subject Headings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 Linear feet</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 Boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">009</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Harry S. Wender was born in 1908 in Knoxville, Tennessee and moved to Washington, D.C. as an infant. He graduated from Smallwood-Bowen School in 1921, Central High School in 1925, and Georgetown Law School in 1933. From 1925-1927 Mr. Wender attended pre-legal coursework at George Washington University. Mr. Wender was a practicing attorney in Washington, D.C. from 1932  until his death; focusing his work on racial segregation in D.C. recreation facilities, traffic law, transportation issues, and automobile insurance law.On October 14, 1937 Mr. Wender married Gerturude Schwarz. He was a member of B'Nai Brith, Southwest Citizens' Association, Federation of Citizens' Associations, D.C. Suffrage Association, Commissioners' Traffic Advisory Council, Washington Hebrew Congregation, District of Columbia and American Bar Associations, Association of Plaintiff's Trial Attorneys of Metropolitan Washington, Jewish Historical Society of Greater Washington, and editor of D. C. Bar Journal. He served as chairman of the D.C. Recreation Board from 1942-1952 and President of the Southwest Citizens’ Association. Mr. Wender received awards for Outstanding Trial Lawyer of the Year Award from D.C. Association of Plaintiff's Trial Attorneys; Certificate of Merit from D.C. Commissioners; and  October 4, 1983 was designated by Mayor Marion Barry as "Harry Wender Day." Mr. Wender died December 14, 1985. </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">Donor unknown. </subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">This collection contains correspondence, internal memorandum, proposals, publicity materials, legislative materials, meeting minutes, editorials, and membership lists. Most of these materials are related to Home Rule voting rights for D.C. residents from the 1930s through the 1960s.  Organizations mentioned in this collection include the D.C. Suffrage Association, Committee of the 100, Citizens Conference on District Suffrage, and Young People’s Home Rule League.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,59 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19301957xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">075</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Harry Goodman Collection,</subfield>
-      <subfield code="f">1930-1957</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2</subfield>
-      <subfield code="f">linear feet; 3 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The materials in this collection include: photographs of floods in the DC area, photographs of the King of England’s visit to DC, Inaugural parade, ball, and ceremony materials, and historic editions of the Washington Star.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">Harry Goodman was born in Brooklyn, New York on June 22, 1912.  He attended Alexander Hamilton High School in Brooklyn and attended New York University for two years.  His first newspaper job was at the age of 15 as a reporter for the Brooklyn Citizen.  At 16, he became a photographer for the Metro News Service in New York.  In 1932, Mr. Goodman moved to Philadelphia and worked for a weekly pictorial magazine.  After the magazine closed in 1933, he moved to Washington, DC and took a job with the Harris and Ewing News Service.  
-
-He was named an assistant manager at the Washington Star in 1934 and was promoted to manager of the photographic advertising department in 1965.  He was a member of the White House Photographers’ Association, and, as such, was present for many official visits from heads-of-state and Inaugural ceremonies.  
-
-Mr. Goodman married his wife Sara on March 5, 1934 and they had two sons, Fred and Jeff.  He was a founding member of the Congregation Beth Israel Synagogue SE.  In 1977 he retired from the Star, but continued working as a freelance photographer.  He suffered a heart attack in the White House pressroom in 1979, while waiting for the Pope to arrive.  Although he did survive the heart attack, it is unknown how long he lived the remainder of his life.
-.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The collection was donated to the DC Community Archives in August 2006 by Fred E. Goodman, the son of Harry Goodman.</subfield>
+      <subfield code="a">Harry Goodman Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Photographs</subfield>
       <subfield code="2">Library of Congress Subject Headings</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 linear feet; 3 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">075</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">Harry Goodman was born in Brooklyn, New York on June 22, 1912.  He attended Alexander Hamilton High School in Brooklyn and attended New York University for two years.  His first newspaper job was at the age of 15 as a reporter for the Brooklyn Citizen.  At 16, he became a photographer for the Metro News Service in New York.  In 1932, Mr. Goodman moved to Philadelphia and worked for a weekly pictorial magazine.  After the magazine closed in 1933, he moved to Washington, DC and took a job with the Harris and Ewing News Service.  He was named an assistant manager at the Washington Star in 1934 and was promoted to manager of the photographic advertising department in 1965.  He was a member of the White House Photographers’ Association, and, as such, was present for many official visits from heads-of-state and Inaugural ceremonies.  Mr. Goodman married his wife Sara on March 5, 1934 and they had two sons, Fred and Jeff.  He was a founding member of the Congregation Beth Israel Synagogue SE.  In 1977 he retired from the Star, but continued working as a freelance photographer.  He suffered a heart attack in the White House pressroom in 1979, while waiting for the Pope to arrive.  Although he did survive the heart attack, it is unknown how long he lived the remainder of his life.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The collection was donated to the DC Community Archives in August 2006 by Fred E. Goodman, the son of Harry Goodman.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The materials in this collection include: photographs of floods in the DC area, photographs of the King of England’s visit to DC, Inaugural parade, ball, and ceremony materials, and historic editions of the Washington Star.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,56 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i18692012xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">148</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Frederick Douglass Book Research Collection,</subfield>
-      <subfield code="f">1869-2012</subfield>
+      <subfield code="a">Frederick Douglass Book Research Collection</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">0.5</subfield>
-      <subfield code="f">cubic feet; 1 box</subfield>
+      <subfield code="a">0.5 cubic feet; 1 box</subfield>
     </datafield>
-    <datafield ind1="3" ind2=" " tag="520">
-      <subfield code="a">The Frederick Douglass Book Collection documents John Muller's research for the book Frederick Douglass: The Lion of Anacostia published in 2012. Files include copies of Douglass' letters, speeches, speeches by others, pamphlets, and biographies of figures Douglass was close to.</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The Frederick Douglass Book Collection documents John Muller's research for the book Frederick Douglass: The Lion of Anacostia published in 2012. Files include copies of Douglass' letters, speeches, speeches by others, pamphlets, and biographies of figures Douglass was close to.</subfield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="540">
       <subfield code="a">Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">This collection contains the research conducted by John Muller for his book Frederick Douglass: The Lion of Anacostia published in 2012. Frederick Douglass spent his last two decades of life in Washington, D.C. Muller explores how Douglass spent his life, professionally and personally in his Anacostia home, Cedar Hill. The ever-active Douglass was involved in local politics: from aiding in the early formation of Howard University to editing a groundbreaking newspaper to serving as marshal of the District. This will be the first work to look into Douglass’ years as a leading citizen of Uniontown when he served as US Marshal, Trustee to Howard University, was a frequent presence at Metropolitan African Methodist Episcopal Church, and shook up his family and society by marrying Helen Pitts in 1884. During this time, his wife of 44 years, Anna Murray, passed away, and 18 months later, he married Helen Pitts, a white woman. Douglass continued his advocacy for the rights of African Americans and women. Douglass attended a church in Hillsdale until the evening of his death on February 20, 1895.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
     <datafield ind1="1" ind2=" " tag="561">
       <subfield code="a">Gift of John Muller, 2013.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">This collection contains the research conducted by John Muller for his book Frederick Douglass: The Lion of Anacostia published in 2012. Frederick Douglass spent his last two decades of life in Washington, D.C. Muller explores how Douglass spent his life, professionally and personally in his Anacostia home, Cedar Hill. The ever-active Douglass was involved in local politics: from aiding in the early formation of Howard University to editing a groundbreaking newspaper to serving as marshal of the District. This will be the first work to look into Douglass’ years as a leading citizen of Uniontown when he served as US Marshal, Trustee to Howard University, was a frequent presence at Metropolitan African Methodist Episcopal Church, and shook up his family and society by marrying Helen Pitts in 1884. During this time, his wife of 44 years, Anna Murray, passed away, and 18 months later, he married Helen Pitts, a white woman. Douglass continued his advocacy for the rights of African Americans and women. Douglass attended a church in Hillsdale until the evening of his death on February 20, 1895.</subfield>
     </datafield>
-    <datafield ind1="4" ind2="2" tag="856">
-      <subfield code="z">Finding aid online:</subfield>
-      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The Frederick Douglass Book Collection documents John Muller's research for the book Frederick Douglass: The Lion of Anacostia published in 2012. Files include copies of Douglass' letters, speeches, speeches by others, pamphlets, and biographies of figures Douglass was close to.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,46 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">181001i18971898xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">PBY017</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Lozano Dry Goods Co., 3101 M Street NW, Fire Court Case,</subfield>
-      <subfield code="f">1897 - 1898</subfield>
+      <subfield code="a">Lozano Dry Goods Co., 3101 M Street NW, Fire Court Case</subfield>
     </datafield>
     <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">2</subfield>
-      <subfield code="f">Linear feet</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">- Lozano Dry Goods Co.; listing of inventory stock and fixtures lost in December 24, 1897 fire.&#13;
-&#13;
--Supreme Court of the District of Columbia, The Lozano Dry Goods Company vs. The Albany Insurance &#13;
-Company, September 3, 1897&#13;
-&#13;
-- Wolf and Rosenberg, Attorneys and Counsellors at Law, 507 E Street, NW, Washington, DC; case records folder containing correspondence from January 1898.&#13;
-&#13;
-- Wolf and Rosenberg, Attorneys and Counsellors at Law, 507 E Street, NW, Washington, DC; case records folder containing correspondence from January 3, 1898 to May 9, 1898.</subfield>
+      <subfield code="a">2 Linear feet</subfield>
     </datafield>
     <datafield ind1="1" ind2=" " tag="541">
       <subfield code="a">This collection appears to have been donated by Mrs. Howard (Hannah) Cayton, 3069 Canal Street, NW, during the tenure of Peabody Room “curator” Mathilde Williams (1950-1978).</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
+    <datafield ind1="1" ind2=" " tag="545">
       <subfield code="a">On December 24, 1897 a fire destroyed the Lozano Dry Goods Company, located at 3101 M Street, NW and 1208, 1210, 1212, and 1214 31st Street, NW.  A subsequent lawsuit was filed by the company against six fire insurance companies* to recover various dollar amounts of insurance granted by the companies for the loss of stock and fixtures.&#13;
  &#13;
 *Albany Fire Insurance Company of New York, $2,000&#13;
@@ -52,8 +28,15 @@ Western Insurance Company of Pennsylvania, $2,500&#13;
  &#13;
 No documentation is included in this collection that reveals the result of the lawsuit.</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">- Lozano Dry Goods Co.; listing of inventory stock and fixtures lost in December 24, 1897 fire.&#13;
+&#13;
+-Supreme Court of the District of Columbia, The Lozano Dry Goods Company vs. The Albany Insurance &#13;
+Company, September 3, 1897&#13;
+&#13;
+- Wolf and Rosenberg, Attorneys and Counsellors at Law, 507 E Street, NW, Washington, DC; case records folder containing correspondence from January 1898.&#13;
+&#13;
+- Wolf and Rosenberg, Attorneys and Counsellors at Law, 507 E Street, NW, Washington, DC; case records folder containing correspondence from January 3, 1898 to May 9, 1898.</subfield>
     </datafield>
   </record>
 </marc:collection>

@@ -1,47 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd http://www.loc.gov/MARC21/slim">
+<marc:collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <record>
-    <leader>00000npcaa2200000 u 4500</leader>
-    <controlfield tag="008">180202i19451976xx                  eng d</controlfield>
+    <leader>00000npc a2200000 u 4500</leader>
     <datafield ind1=" " ind2=" " tag="040">
       <subfield code="a">DWP</subfield>
-      <subfield code="b">eng</subfield>
       <subfield code="c">DWP</subfield>
       <subfield code="e">dacs</subfield>
     </datafield>
-    <datafield ind1="0" ind2="7" tag="041">
-      <subfield code="a">eng</subfield>
-      <subfield code="2">iso639-2b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="049">
-      <subfield code="a">DWP</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="099">
-      <subfield code="a">035</subfield>
-    </datafield>
     <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Albert J. Headley, Jr. Papers,</subfield>
-      <subfield code="f">1945-1976</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="300">
-      <subfield code="a">5.75</subfield>
-      <subfield code="f">linear feet; 12 boxes</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="520">
-      <subfield code="a">The papers of Albert J. Headley consist of 5.75 linear feet of materials dealing almost exclusively with the issue of urban development.  The materials span the years 1945 to 1976, with the bulk of the items dating from 1955 to 1968.  There are a few documents related to Headley’s activities in the local Catholic Church and several hand-drawn family trees.  Headley collected the majority of materials.  Community groups such as the National Conference of Catholic Charities, Downtown Progress, Federation of Citizens’ Associations, and the Southwest Citizens’ Association’s contributed newsletters, resolutions, and correspondence.  Headley also collected reports, meeting notices, legislation, and informational brochures from many government agencies including the Government of the District of Columbia, DC Redevelopment Land Agency, and the Washington Zoning Revision Office.  Other materials include: ground breaking programs, flyers, advertisements, court decisions, church programs, copies of public laws and bills, articles, public testimony, drafts, magazines, and newspaper clippings.  Some of the topics that relate to urban renewal are: the Southwest area of DC, the Northwest area of DC, general issues of urban renewal in the US, freeway construction, housing developments, legislation, beautification, and relocation.  Other urban issues touched upon include model school, juvenile delinquency, traffic, and public transportation.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="545">
-      <subfield code="a">: A native Washingtonian, Albert J. Headley, Jr. (d. 1978) was actively involved with his community throughout his life.  A leader in both civic and church organizations, Headley became a “prominent community activist,” according to his obituary in the Washington Post.
-	Albert J. Headley, Jr., was born in Southwest Washington, DC (c. 1905), the son of Albert J. and Gertrude Headley.  His father was a well-known police officer who began duty as a bicycle officer in the Southwest area (then known as “Bloodfield”), instituted the first traffic regulations in Washington as head of the Traffic Bureau, and retired as Assistant Superintendent of Police.  Headley, Jr., graduated from Eastern High School and attended Bliss Electrical School.  Employed by Potomac Electric Power Company in 1928, he rose to become power station operator.  In the mid 1930s he joined Capitol Transit Company as a claims attorney after earning his law degree from the National Law School.  During World War II, Headley served in the Office of the Provost Marshall General of the Army Air Corps, as head of plant security in the United States.  He received the Legion of Merit and the Order of the British Empire for his distinguished service.  He joined the Veterans’ Administration in 1946, retiring in 1972.  At the time of his retirement he held a position with the VA Board of Appeals for Veteran Benefits.  Headley married Margaret Shireman Headley, a fellow Washingtonian, who shared his interest in church leadership, in1947.
-	Around 1958, Headley became president of the Southwest Citizen’s Association, one of the well-established Washington, DC neighborhood groups.  In the 1950s, the organization began to protest many of the urban renewal projects enacted by the US Congress.  Congress passed the Redevelopment Act in Washington, DC in 1946.  This bill established the Redevelopment Land Agency and empowered the agency to assemble large tracts of land for development, but suffered from lack of funding.  The Housing Act of 1949 and a 1954 bill that coined the term “urban renewal” provided the funding to “guarantee to every family ‘a decent home and a suitable living environment.’”   At this time, the Southwest, part of the original Washington City designed by Pierre L’Enfant, was home to a diverse population that included many low-income residents and a large African-American community.  Because many homes in the area were located in alleys, and some lacked indoor plumbing and electricity, Congress selected the Southwest as the test case for urban renewal.  Boundaries of the Southwest Urban Renewal Area stretched from the Washington Channel on the east to South Capitol Street on the west, and from the Anacostia River north to the Mall and the Capitol Building (see Appendix A).  The concept for the “new Southwest” included an inner city freeway that cut through the center of the neighborhood (see Appendix B), a modern shopping mall, and many apartment complexes.  The decision to tear down the entire area to accomplish these goals affected 22,000 residents and numerous small businesses, churches, and schools.   Local citizens’ and civic associations welcomed revitalization, but wanted to examine the impact of the changes on residents of the area.  The Southwest Citizens’ Association pushed for open public meetings, passed resolutions concerning pending legislation, dispensed information, and set up a grievance committee that advocated citizens’ rights.  Headley served several years in the late 1950s as president and remained active in the group through the 1960s.
-	Headley also was the Southwest’s representative to the Federation of Citizens’ Associations of the District of Columbia and the Vice-Chair of its City Planning Committee.  Headley was active in St. Dominic’s parish, a member of the Holy Name Society, the St. Vincent de Paul Society, and the John Carroll Society.
-	Headley was in his seventies when he died of a stroke on August 24, 1978.</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="546">
-      <subfield code="a">English.</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="561">
-      <subfield code="a">The papers of Albert J. Headley were donated to the Washingtoniana Division of the DC Public Library by Margaret S. Headley on July 9, 1991, in the memory of her husband, Albert J. Headley, Jr.</subfield>
+      <subfield code="a">Albert J. Headley, Jr. Papers</subfield>
     </datafield>
     <datafield ind1=" " ind2="7" tag="650">
       <subfield code="a">Neighborhoods</subfield>
@@ -54,12 +21,31 @@
     <datafield ind1=" " ind2="0" tag="650">
       <subfield code="a">Gentrification</subfield>
     </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DWP</subfield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">5.75 linear feet; 12 boxes</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">035</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="555">
+      <subfield code="a">Finding aid online:</subfield>
+      <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
     </datafield>
     <datafield ind1="4" ind2="2" tag="856">
       <subfield code="z">Finding aid online:</subfield>
       <subfield code="u">http://washingtoniana.dclibrary.org</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="545">
+      <subfield code="a">: A native Washingtonian, Albert J. Headley, Jr. (d. 1978) was actively involved with his community throughout his life.  A leader in both civic and church organizations, Headley became a “prominent community activist,” according to his obituary in the Washington Post.	Albert J. Headley, Jr., was born in Southwest Washington, DC (c. 1905), the son of Albert J. and Gertrude Headley.  His father was a well-known police officer who began duty as a bicycle officer in the Southwest area (then known as “Bloodfield”), instituted the first traffic regulations in Washington as head of the Traffic Bureau, and retired as Assistant Superintendent of Police.  Headley, Jr., graduated from Eastern High School and attended Bliss Electrical School.  Employed by Potomac Electric Power Company in 1928, he rose to become power station operator.  In the mid 1930s he joined Capitol Transit Company as a claims attorney after earning his law degree from the National Law School.  During World War II, Headley served in the Office of the Provost Marshall General of the Army Air Corps, as head of plant security in the United States.  He received the Legion of Merit and the Order of the British Empire for his distinguished service.  He joined the Veterans’ Administration in 1946, retiring in 1972.  At the time of his retirement he held a position with the VA Board of Appeals for Veteran Benefits.  Headley married Margaret Shireman Headley, a fellow Washingtonian, who shared his interest in church leadership, in1947.	Around 1958, Headley became president of the Southwest Citizen’s Association, one of the well-established Washington, DC neighborhood groups.  In the 1950s, the organization began to protest many of the urban renewal projects enacted by the US Congress.  Congress passed the Redevelopment Act in Washington, DC in 1946.  This bill established the Redevelopment Land Agency and empowered the agency to assemble large tracts of land for development, but suffered from lack of funding.  The Housing Act of 1949 and a 1954 bill that coined the term “urban renewal” provided the funding to “guarantee to every family ‘a decent home and a suitable living environment.’”   At this time, the Southwest, part of the original Washington City designed by Pierre L’Enfant, was home to a diverse population that included many low-income residents and a large African-American community.  Because many homes in the area were located in alleys, and some lacked indoor plumbing and electricity, Congress selected the Southwest as the test case for urban renewal.  Boundaries of the Southwest Urban Renewal Area stretched from the Washington Channel on the east to South Capitol Street on the west, and from the Anacostia River north to the Mall and the Capitol Building (see Appendix A).  The concept for the “new Southwest” included an inner city freeway that cut through the center of the neighborhood (see Appendix B), a modern shopping mall, and many apartment complexes.  The decision to tear down the entire area to accomplish these goals affected 22,000 residents and numerous small businesses, churches, and schools.   Local citizens’ and civic associations welcomed revitalization, but wanted to examine the impact of the changes on residents of the area.  The Southwest Citizens’ Association pushed for open public meetings, passed resolutions concerning pending legislation, dispensed information, and set up a grievance committee that advocated citizens’ rights.  Headley served several years in the late 1950s as president and remained active in the group through the 1960s.	Headley also was the Southwest’s representative to the Federation of Citizens’ Associations of the District of Columbia and the Vice-Chair of its City Planning Committee.  Headley was active in St. Dominic’s parish, a member of the Holy Name Society, the St. Vincent de Paul Society, and the John Carroll Society.	Headley was in his seventies when he died of a stroke on August 24, 1978.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="561">
+      <subfield code="a">The papers of Albert J. Headley were donated to the Washingtoniana Division of the DC Public Library by Margaret S. Headley on July 9, 1991, in the memory of her husband, Albert J. Headley, Jr.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The papers of Albert J. Headley consist of 5.75 linear feet of materials dealing almost exclusively with the issue of urban development.  The materials span the years 1945 to 1976, with the bulk of the items dating from 1955 to 1968.  There are a few documents related to Headley’s activities in the local Catholic Church and several hand-drawn family trees.  Headley collected the majority of materials.  Community groups such as the National Conference of Catholic Charities, Downtown Progress, Federation of Citizens’ Associations, and the Southwest Citizens’ Association’s contributed newsletters, resolutions, and correspondence.  Headley also collected reports, meeting notices, legislation, and informational brochures from many government agencies including the Government of the District of Columbia, DC Redevelopment Land Agency, and the Washington Zoning Revision Office.  Other materials include: ground breaking programs, flyers, advertisements, court decisions, church programs, copies of public laws and bills, articles, public testimony, drafts, magazines, and newspaper clippings.  Some of the topics that relate to urban renewal are: the Southwest area of DC, the Northwest area of DC, general issues of urban renewal in the US, freeway construction, housing developments, legislation, beautification, and relocation.  Other urban issues touched upon include model school, juvenile delinquency, traffic, and public transportation.</subfield>
     </datafield>
   </record>
 </marc:collection>
